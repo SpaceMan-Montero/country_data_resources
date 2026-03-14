@@ -1,1739 +1,1725 @@
-﻿population (millions) ,country,field,num_patent_applications,num_patent_granted
-"46,234,830",Argentina,All,56,25
-"46,234,830",Argentina,Machine_Learning,44,20
-"25,978,935",Australia,Industrial_and_Manufacturing,274,197
-"25,978,935",Australia,Knowledge_Representation,187,138
-"25,978,935",Australia,Generic_and_Unspecified,959,606
-"25,978,935",Australia,Agricultural,237,172
-"25,978,935",Australia,Fuzzy_Logic,92,83
-"25,978,935",Australia,Speech_Processing,140,106
-"25,978,935",Australia,Transportation,219,183
-"25,978,935",Australia,Telecommunications,813,605
-"25,978,935",Australia,Logic_Programming,355,265
-"25,978,935",Australia,Personal_Devices_and_Computing,1658,1263
-"25,978,935",Australia,Probabilistic_Reasoning,261,180
-"25,978,935",Australia,Banking_and_Finance,263,176
-"25,978,935",Australia,Ontology_Engineering,90,70
-"25,978,935",Australia,Energy_Management,168,125
-"25,978,935",Australia,Control,472,361
-"25,978,935",Australia,Machine_Learning,3652,2494
-"25,978,935",Australia,Planning_and_Scheduling,487,305
-"25,978,935",Australia,Life_Sciences,1703,982
-"25,978,935",Australia,Physical_Sciences_and_Engineering,296,207
-"25,978,935",Australia,Security__eg_cybersecurity,376,284
-"25,978,935",Australia,Business,651,413
-"25,978,935",Australia,Computer_Vision,1144,831
-"25,978,935",Australia,Analytics_and_Algorithms,816,497
-"25,978,935",Australia,All,4721,3212
-"25,978,935",Australia,Measuring_and_Testing,737,503
-"9,042,528",Austria,Energy_Management,23,15
-"9,042,528",Austria,All,84,62
-"9,042,528",Austria,Measuring_and_Testing,26,20
-"9,042,528",Austria,Transportation,28,21
-"9,042,528",Austria,Machine_Learning,74,54
-"9,042,528",Austria,Personal_Devices_and_Computing,26,20
-"11,669,446",Belgium,All,40,35
-"215,313,498",Brazil,Personal_Devices_and_Computing,267,205
-"215,313,498",Brazil,Logic_Programming,75,50
-"215,313,498",Brazil,Planning_and_Scheduling,87,57
-"215,313,498",Brazil,Knowledge_Representation,32,20
-"215,313,498",Brazil,Probabilistic_Reasoning,45,32
-"215,313,498",Brazil,Banking_and_Finance,33,24
-"215,313,498",Brazil,Machine_Learning,600,439
-"215,313,498",Brazil,Physical_Sciences_and_Engineering,80,52
-"215,313,498",Brazil,Generic_and_Unspecified,180,110
-"215,313,498",Brazil,Computer_Vision,198,160
-"215,313,498",Brazil,Analytics_and_Algorithms,111,76
-"215,313,498",Brazil,Measuring_and_Testing,197,144
-"215,313,498",Brazil,All,797,551
-"215,313,498",Brazil,Speech_Processing,27,18
-"215,313,498",Brazil,Business,106,68
-"215,313,498",Brazil,Energy_Management,24,14
-"215,313,498",Brazil,Security__eg_cybersecurity,32,25
-"215,313,498",Brazil,Agricultural,94,67
-"215,313,498",Brazil,Life_Sciences,244,168
-"215,313,498",Brazil,Transportation,79,66
-"215,313,498",Brazil,Control,127,98
-"215,313,498",Brazil,Industrial_and_Manufacturing,65,52
-"215,313,498",Brazil,Telecommunications,142,98
-"6,465,097",Bulgaria,All,56,51
-"38,929,902",Canada,Analytics_and_Algorithms,811,459
-"38,929,902",Canada,All,4665,2655
-"38,929,902",Canada,Knowledge_Representation,225,141
-"38,929,902",Canada,Energy_Management,125,75
-"38,929,902",Canada,Industrial_and_Manufacturing,299,203
-"38,929,902",Canada,Computer_Vision,1070,736
-"38,929,902",Canada,Banking_and_Finance,303,160
-"38,929,902",Canada,Ontology_Engineering,93,55
-"38,929,902",Canada,Control,467,328
-"38,929,902",Canada,Probabilistic_Reasoning,298,173
-"38,929,902",Canada,Physical_Sciences_and_Engineering,373,216
-"38,929,902",Canada,Speech_Processing,128,76
-"38,929,902",Canada,Telecommunications,770,528
-"38,929,902",Canada,Logic_Programming,461,309
-"38,929,902",Canada,Transportation,285,223
-"38,929,902",Canada,Agricultural,188,116
-"38,929,902",Canada,Personal_Devices_and_Computing,1726,1167
-"38,929,902",Canada,Measuring_and_Testing,776,483
-"38,929,902",Canada,Security__eg_cybersecurity,305,196
-"38,929,902",Canada,Life_Sciences,1657,851
-"38,929,902",Canada,Generic_and_Unspecified,1010,506
-"38,929,902",Canada,Machine_Learning,3589,2115
-"38,929,902",Canada,Planning_and_Scheduling,542,285
-"38,929,902",Canada,Business,741,378
-"38,929,902",Canada,Fuzzy_Logic,46,26
-"1,412,175,000",China,Generic_and_Unspecified,107113,53690
-"1,412,175,000",China,Business,71497,26750
-"1,412,175,000",China,Transportation,48527,26104
-"1,412,175,000",China,Ontology_Engineering,41011,19367
-"1,412,175,000",China,Measuring_and_Testing,46856,22091
-"1,412,175,000",China,Banking_and_Finance,14098,4036
-"1,412,175,000",China,Industrial_and_Manufacturing,37555,18308
-"1,412,175,000",China,Machine_Learning,474957,218870
-"1,412,175,000",China,Physical_Sciences_and_Engineering,18624,8714
-"1,412,175,000",China,Personal_Devices_and_Computing,281139,133053
-"1,412,175,000",China,Probabilistic_Reasoning,33402,16290
-"1,412,175,000",China,All,599182,273154
-"1,412,175,000",China,Knowledge_Representation,13383,5072
-"1,412,175,000",China,Analytics_and_Algorithms,47984,21836
-"1,412,175,000",China,Speech_Processing,17169,8108
-"1,412,175,000",China,Planning_and_Scheduling,58411,22296
-"1,412,175,000",China,Security__eg_cybersecurity,21557,8754
-"1,412,175,000",China,Energy_Management,39423,15536
-"1,412,175,000",China,Fuzzy_Logic,10052,4462
-"1,412,175,000",China,Control,21006,11161
-"1,412,175,000",China,Computer_Vision,100423,51377
-"1,412,175,000",China,Life_Sciences,43238,18283
-"1,412,175,000",China,Telecommunications,50756,24897
-"1,412,175,000",China,Logic_Programming,25731,10001
-"1,412,175,000",China,Agricultural,9166,4102
-"5,903,037",Denmark,Personal_Devices_and_Computing,41,40
-"5,903,037",Denmark,Measuring_and_Testing,28,24
-"5,903,037",Denmark,Life_Sciences,48,42
-"5,903,037",Denmark,Control,32,31
-"5,903,037",Denmark,All,137,125
-"5,903,037",Denmark,Machine_Learning,110,100
-"5,903,037",Denmark,Analytics_and_Algorithms,31,27
-"5,903,037",Denmark,Computer_Vision,34,33
-"5,556,880",Finland,Analytics_and_Algorithms,73,49
-"5,556,880",Finland,Telecommunications,111,69
-"5,556,880",Finland,All,241,146
-"5,556,880",Finland,Life_Sciences,44,29
-"5,556,880",Finland,Machine_Learning,190,120
-"5,556,880",Finland,Generic_and_Unspecified,49,26
-"5,556,880",Finland,Personal_Devices_and_Computing,99,58
-"5,556,880",Finland,Computer_Vision,51,30
-"5,556,880",Finland,Planning_and_Scheduling,23,10
-"5,556,880",Finland,Control,36,28
-"67,749,632",France,Planning_and_Scheduling,81,43
-"67,749,632",France,Security__eg_cybersecurity,100,79
-"67,749,632",France,Banking_and_Finance,57,40
-"67,749,632",France,Business,111,59
-"67,749,632",France,Probabilistic_Reasoning,66,49
-"67,749,632",France,Control,236,167
-"67,749,632",France,Transportation,261,180
-"67,749,632",France,Computer_Vision,311,240
-"67,749,632",France,Life_Sciences,213,140
-"67,749,632",France,Knowledge_Representation,31,25
-"67,749,632",France,Logic_Programming,67,49
-"67,749,632",France,Energy_Management,75,57
-"67,749,632",France,Generic_and_Unspecified,504,311
-"67,749,632",France,Telecommunications,272,183
-"67,749,632",France,Machine_Learning,1115,786
-"67,749,632",France,Industrial_and_Manufacturing,63,44
-"67,749,632",France,Physical_Sciences_and_Engineering,52,41
-"67,749,632",France,Personal_Devices_and_Computing,495,346
-"67,749,632",France,All,1602,1068
-"67,749,632",France,Measuring_and_Testing,266,195
-"67,749,632",France,Analytics_and_Algorithms,215,131
-"84,079,811",Germany,Transportation,1403,834
-"84,079,811",Germany,Probabilistic_Reasoning,223,136
-"84,079,811",Germany,Banking_and_Finance,167,104
-"84,079,811",Germany,Fuzzy_Logic,38,18
-"84,079,811",Germany,Agricultural,70,37
-"84,079,811",Germany,Industrial_and_Manufacturing,550,316
-"84,079,811",Germany,Security__eg_cybersecurity,234,135
-"84,079,811",Germany,Energy_Management,431,140
-"84,079,811",Germany,Analytics_and_Algorithms,874,354
-"84,079,811",Germany,Ontology_Engineering,91,48
-"84,079,811",Germany,Measuring_and_Testing,1279,649
-"84,079,811",Germany,Personal_Devices_and_Computing,1804,933
-"84,079,811",Germany,Computer_Vision,1183,719
-"84,079,811",Germany,Machine_Learning,5168,2383
-"84,079,811",Germany,Logic_Programming,292,183
-"84,079,811",Germany,Business,298,163
-"84,079,811",Germany,Speech_Processing,141,78
-"84,079,811",Germany,Life_Sciences,648,368
-"84,079,811",Germany,Physical_Sciences_and_Engineering,273,123
-"84,079,811",Germany,Control,1738,949
-"84,079,811",Germany,Knowledge_Representation,143,82
-"84,079,811",Germany,Planning_and_Scheduling,274,149
-"84,079,811",Germany,Telecommunications,798,450
-"84,079,811",Germany,Generic_and_Unspecified,1086,554
-"84,079,811",Germany,All,6238,2936
-"10,566,531",Greece,Machine_Learning,60,52
-"10,566,531",Greece,All,73,59
-"10,566,531",Greece,Personal_Devices_and_Computing,33,27
-"9,683,505",Hungary,All,68,51
-"9,683,505",Hungary,Machine_Learning,47,36
-"9,683,505",Hungary,Computer_Vision,28,21
-"9,683,505",Hungary,Personal_Devices_and_Computing,25,16
-"1,417,173,173",India,Transportation,33,26
-"1,417,173,173",India,Machine_Learning,475,372
-"1,417,173,173",India,Analytics_and_Algorithms,70,56
-"1,417,173,173",India,Banking_and_Finance,28,16
-"1,417,173,173",India,Security__eg_cybersecurity,44,32
-"1,417,173,173",India,Telecommunications,125,94
-"1,417,173,173",India,Knowledge_Representation,112,80
-"1,417,173,173",India,Life_Sciences,97,69
-"1,417,173,173",India,Control,73,65
-"1,417,173,173",India,Planning_and_Scheduling,114,65
-"1,417,173,173",India,Speech_Processing,25,16
-"1,417,173,173",India,Business,152,88
-"1,417,173,173",India,All,725,523
-"1,417,173,173",India,Personal_Devices_and_Computing,429,343
-"1,417,173,173",India,Industrial_and_Manufacturing,26,19
-"1,417,173,173",India,Logic_Programming,189,134
-"1,417,173,173",India,Generic_and_Unspecified,137,85
-"1,417,173,173",India,Measuring_and_Testing,44,37
-"1,417,173,173",India,Computer_Vision,205,174
-"1,417,173,173",India,Ontology_Engineering,48,38
-"1,417,173,173",India,Probabilistic_Reasoning,87,70
-"9,550,600",Israel,Computer_Vision,45,24
-"9,550,600",Israel,Machine_Learning,146,55
-"9,550,600",Israel,Telecommunications,61,30
-"9,550,600",Israel,Personal_Devices_and_Computing,77,42
-"9,550,600",Israel,Measuring_and_Testing,38,18
-"9,550,600",Israel,Analytics_and_Algorithms,43,11
-"9,550,600",Israel,Generic_and_Unspecified,34,14
-"9,550,600",Israel,Transportation,23,12
-"9,550,600",Israel,All,180,68
-"9,550,600",Israel,Life_Sciences,38,4
-"9,550,600",Israel,Security__eg_cybersecurity,31,18
-"58,856,847",Italy,Generic_and_Unspecified,85,25
-"58,856,847",Italy,Energy_Management,20,11
-"58,856,847",Italy,Life_Sciences,106,43
-"58,856,847",Italy,Machine_Learning,336,127
-"58,856,847",Italy,Planning_and_Scheduling,24,10
-"58,856,847",Italy,Industrial_and_Manufacturing,43,18
-"58,856,847",Italy,Measuring_and_Testing,77,40
-"58,856,847",Italy,Control,52,26
-"58,856,847",Italy,Telecommunications,64,28
-"58,856,847",Italy,Personal_Devices_and_Computing,99,42
-"58,856,847",Italy,Physical_Sciences_and_Engineering,24,11
-"58,856,847",Italy,Business,34,13
-"58,856,847",Italy,Computer_Vision,90,34
-"58,856,847",Italy,Analytics_and_Algorithms,81,37
-"58,856,847",Italy,Agricultural,21,8
-"58,856,847",Italy,All,421,151
-"125,124,989",Japan,Speech_Processing,898,731
-"125,124,989",Japan,Transportation,2057,1739
-"125,124,989",Japan,Generic_and_Unspecified,4760,3379
-"125,124,989",Japan,Business,1728,1303
-"125,124,989",Japan,Fuzzy_Logic,94,76
-"125,124,989",Japan,Telecommunications,2926,2192
-"125,124,989",Japan,All,25567,17816
-"125,124,989",Japan,Knowledge_Representation,735,606
-"125,124,989",Japan,Logic_Programming,1836,1499
-"125,124,989",Japan,Life_Sciences,4356,2781
-"125,124,989",Japan,Agricultural,258,190
-"125,124,989",Japan,Measuring_and_Testing,2757,2012
-"125,124,989",Japan,Planning_and_Scheduling,1239,938
-"125,124,989",Japan,Banking_and_Finance,515,397
-"125,124,989",Japan,Computer_Vision,5653,4235
-"125,124,989",Japan,Industrial_and_Manufacturing,1835,1411
-"125,124,989",Japan,Machine_Learning,20732,14435
-"125,124,989",Japan,Ontology_Engineering,189,130
-"125,124,989",Japan,Analytics_and_Algorithms,2332,1660
-"125,124,989",Japan,Probabilistic_Reasoning,1193,915
-"125,124,989",Japan,Control,3418,2877
-"125,124,989",Japan,Security__eg_cybersecurity,705,555
-"125,124,989",Japan,Personal_Devices_and_Computing,7084,5665
-"125,124,989",Japan,Physical_Sciences_and_Engineering,848,647
-"125,124,989",Japan,Energy_Management,753,603
-"2,833,000",Lithuania,All,26,24
-"650,774",Luxembourg,All,293,288
-"650,774",Luxembourg,Telecommunications,35,34
-"650,774",Luxembourg,Control,35,33
-"650,774",Luxembourg,Life_Sciences,35,34
-"650,774",Luxembourg,Security__eg_cybersecurity,27,27
-"650,774",Luxembourg,Planning_and_Scheduling,37,37
-"650,774",Luxembourg,Measuring_and_Testing,53,52
-"650,774",Luxembourg,Computer_Vision,36,36
-"650,774",Luxembourg,Machine_Learning,217,213
-"650,774",Luxembourg,Generic_and_Unspecified,58,57
-"650,774",Luxembourg,Personal_Devices_and_Computing,101,99
-"33,938,221",Malaysia,Generic_and_Unspecified,26,24
-"33,938,221",Malaysia,Machine_Learning,69,69
-"33,938,221",Malaysia,All,106,103
-"33,938,221",Malaysia,Personal_Devices_and_Computing,34,34
-"127,504,125",Mexico,Control,89,68
-"127,504,125",Mexico,Machine_Learning,443,282
-"127,504,125",Mexico,Telecommunications,118,78
-"127,504,125",Mexico,All,612,369
-"127,504,125",Mexico,Analytics_and_Algorithms,82,53
-"127,504,125",Mexico,Generic_and_Unspecified,162,86
-"127,504,125",Mexico,Business,92,61
-"127,504,125",Mexico,Probabilistic_Reasoning,27,20
-"127,504,125",Mexico,Transportation,56,47
-"127,504,125",Mexico,Planning_and_Scheduling,67,47
-"127,504,125",Mexico,Logic_Programming,40,26
-"127,504,125",Mexico,Agricultural,43,34
-"127,504,125",Mexico,Life_Sciences,181,107
-"127,504,125",Mexico,Measuring_and_Testing,127,90
-"127,504,125",Mexico,Banking_and_Finance,27,20
-"127,504,125",Mexico,Physical_Sciences_and_Engineering,64,41
-"127,504,125",Mexico,Personal_Devices_and_Computing,167,128
-"127,504,125",Mexico,Industrial_and_Manufacturing,78,60
-"127,504,125",Mexico,Computer_Vision,124,95
-"17,942,942",Netherlands,Machine_Learning,185,180
-"17,942,942",Netherlands,Personal_Devices_and_Computing,46,45
-"17,942,942",Netherlands,Computer_Vision,44,43
-"17,942,942",Netherlands,Analytics_and_Algorithms,31,30
-"17,942,942",Netherlands,Telecommunications,24,23
-"17,942,942",Netherlands,Measuring_and_Testing,40,37
-"17,942,942",Netherlands,All,212,206
-"5,124,100",New Zealand,Machine_Learning,47,42
-"5,124,100",New Zealand,Life_Sciences,34,31
-"5,124,100",New Zealand,All,66,58
-"5,457,127",Norway,Machine_Learning,34,25
-"5,457,127",Norway,All,45,33
-"34,049,588",Peru,Machine_Learning,25,15
-"34,049,588",Peru,All,36,22
-"115,559,009",Philippines,Machine_Learning,96,52
-"115,559,009",Philippines,All,120,65
-"115,559,009",Philippines,Personal_Devices_and_Computing,38,27
-"115,559,009",Philippines,Computer_Vision,43,30
-"115,559,009",Philippines,Generic_and_Unspecified,20,12
-"37,561,599",Poland,Personal_Devices_and_Computing,57,48
-"37,561,599",Poland,Generic_and_Unspecified,43,35
-"37,561,599",Poland,Industrial_and_Manufacturing,26,22
-"37,561,599",Poland,Measuring_and_Testing,35,27
-"37,561,599",Poland,All,171,137
-"37,561,599",Poland,Control,20,18
-"37,561,599",Poland,Machine_Learning,128,104
-"37,561,599",Poland,Computer_Vision,51,43
-"37,561,599",Poland,Life_Sciences,44,35
-"37,561,599",Poland,Analytics_and_Algorithms,32,25
-"37,561,599",Poland,Telecommunications,33,28
-"10,379,007",Portugal,All,60,44
-"10,379,007",Portugal,Personal_Devices_and_Computing,21,18
-"18,956,666",Romania,Generic_and_Unspecified,21,2
-"18,956,666",Romania,Machine_Learning,46,6
-"18,956,666",Romania,All,68,8
-"143,555,736",Russia,Fuzzy_Logic,79,79
-"143,555,736",Russia,Security__eg_cybersecurity,88,84
-"143,555,736",Russia,Measuring_and_Testing,143,139
-"143,555,736",Russia,Life_Sciences,136,129
-"143,555,736",Russia,Probabilistic_Reasoning,125,123
-"143,555,736",Russia,Computer_Vision,161,158
-"143,555,736",Russia,Planning_and_Scheduling,53,47
-"143,555,736",Russia,Control,95,92
-"143,555,736",Russia,Personal_Devices_and_Computing,423,408
-"143,555,736",Russia,All,942,891
-"143,555,736",Russia,Physical_Sciences_and_Engineering,50,45
-"143,555,736",Russia,Generic_and_Unspecified,143,133
-"143,555,736",Russia,Machine_Learning,698,661
-"143,555,736",Russia,Ontology_Engineering,21,20
-"143,555,736",Russia,Knowledge_Representation,39,36
-"143,555,736",Russia,Telecommunications,145,140
-"143,555,736",Russia,Analytics_and_Algorithms,37,33
-"143,555,736",Russia,Business,77,68
-"143,555,736",Russia,Logic_Programming,106,100
-"143,555,736",Russia,Transportation,77,76
-"6,760,087",Serbia,All,36,5
-"5,637,022",Singapore,Planning_and_Scheduling,68,52
-"5,637,022",Singapore,Security__eg_cybersecurity,59,48
-"5,637,022",Singapore,Physical_Sciences_and_Engineering,31,22
-"5,637,022",Singapore,Knowledge_Representation,49,36
-"5,637,022",Singapore,Machine_Learning,422,306
-"5,637,022",Singapore,Life_Sciences,155,110
-"5,637,022",Singapore,Control,53,45
-"5,637,022",Singapore,All,573,414
-"5,637,022",Singapore,Measuring_and_Testing,79,64
-"5,637,022",Singapore,Logic_Programming,88,68
-"5,637,022",Singapore,Probabilistic_Reasoning,39,31
-"5,637,022",Singapore,Analytics_and_Algorithms,63,49
-"5,637,022",Singapore,Personal_Devices_and_Computing,281,217
-"5,637,022",Singapore,Generic_and_Unspecified,127,91
-"5,637,022",Singapore,Computer_Vision,146,113
-"5,637,022",Singapore,Telecommunications,111,100
-"5,637,022",Singapore,Banking_and_Finance,62,54
-"5,637,022",Singapore,Business,98,71
-"5,637,022",Singapore,Transportation,39,34
-"5,431,752",Slovakia,All,23,4
-"5,431,752",Slovakia,Machine_Learning,21,4
-"59,893,885",South Africa,All,261,255
-"59,893,885",South Africa,Machine_Learning,183,180
-"59,893,885",South Africa,Generic_and_Unspecified,75,72
-"51,628,117",South Korea,Energy_Management,2515,1659
-"51,628,117",South Korea,Physical_Sciences_and_Engineering,2093,1397
-"51,628,117",South Korea,Business,8821,4692
-"51,628,117",South Korea,Life_Sciences,7638,4789
-"51,628,117",South Korea,Banking_and_Finance,1561,942
-"51,628,117",South Korea,Probabilistic_Reasoning,1480,1045
-"51,628,117",South Korea,Computer_Vision,10683,7058
-"51,628,117",South Korea,Analytics_and_Algorithms,3571,2355
-"51,628,117",South Korea,Fuzzy_Logic,197,144
-"51,628,117",South Korea,Machine_Learning,36003,23395
-"51,628,117",South Korea,All,49014,31644
-"51,628,117",South Korea,Control,3558,2472
-"51,628,117",South Korea,Security__eg_cybersecurity,3049,1928
-"51,628,117",South Korea,Speech_Processing,2761,1759
-"51,628,117",South Korea,Telecommunications,8684,5235
-"51,628,117",South Korea,Knowledge_Representation,871,607
-"51,628,117",South Korea,Transportation,3077,2038
-"51,628,117",South Korea,Logic_Programming,1975,1318
-"51,628,117",South Korea,Personal_Devices_and_Computing,14164,9058
-"51,628,117",South Korea,Industrial_and_Manufacturing,3098,1977
-"51,628,117",South Korea,Planning_and_Scheduling,3901,2123
-"51,628,117",South Korea,Measuring_and_Testing,5596,3650
-"51,628,117",South Korea,Agricultural,947,540
-"51,628,117",South Korea,Ontology_Engineering,644,383
-"51,628,117",South Korea,Generic_and_Unspecified,12994,8500
-"47,615,034",Spain,Transportation,56,51
-"47,615,034",Spain,Speech_Processing,27,24
-"47,615,034",Spain,Logic_Programming,47,43
-"47,615,034",Spain,Measuring_and_Testing,121,112
-"47,615,034",Spain,Computer_Vision,181,176
-"47,615,034",Spain,Generic_and_Unspecified,155,125
-"47,615,034",Spain,Probabilistic_Reasoning,44,39
-"47,615,034",Spain,Physical_Sciences_and_Engineering,48,36
-"47,615,034",Spain,Security__eg_cybersecurity,25,20
-"47,615,034",Spain,Personal_Devices_and_Computing,207,187
-"47,615,034",Spain,Analytics_and_Algorithms,114,109
-"47,615,034",Spain,Industrial_and_Manufacturing,70,62
-"47,615,034",Spain,Life_Sciences,190,176
-"47,615,034",Spain,Business,46,36
-"47,615,034",Spain,Planning_and_Scheduling,31,27
-"47,615,034",Spain,Machine_Learning,487,451
-"47,615,034",Spain,All,657,586
-"47,615,034",Spain,Control,110,102
-"47,615,034",Spain,Telecommunications,116,108
-"10,486,941",Sweden,Industrial_and_Manufacturing,25,21
-"10,486,941",Sweden,Control,48,33
-"10,486,941",Sweden,Machine_Learning,142,95
-"10,486,941",Sweden,Measuring_and_Testing,41,32
-"10,486,941",Sweden,Telecommunications,40,31
-"10,486,941",Sweden,Generic_and_Unspecified,28,15
-"10,486,941",Sweden,Transportation,34,20
-"10,486,941",Sweden,Computer_Vision,35,25
-"10,486,941",Sweden,Personal_Devices_and_Computing,57,36
-"10,486,941",Sweden,All,169,109
-"8,769,741",Switzerland,Machine_Learning,27,10
-"8,769,741",Switzerland,All,35,14
-"23,412,899",Taiwan,Transportation,58,51
-"23,412,899",Taiwan,Agricultural,23,21
-"23,412,899",Taiwan,Probabilistic_Reasoning,156,142
-"23,412,899",Taiwan,Energy_Management,63,53
-"23,412,899",Taiwan,Business,134,109
-"23,412,899",Taiwan,Ontology_Engineering,61,50
-"23,412,899",Taiwan,Industrial_and_Manufacturing,135,119
-"23,412,899",Taiwan,Computer_Vision,557,500
-"23,412,899",Taiwan,Analytics_and_Algorithms,266,209
-"23,412,899",Taiwan,Telecommunications,295,243
-"23,412,899",Taiwan,Speech_Processing,64,56
-"23,412,899",Taiwan,Life_Sciences,430,340
-"23,412,899",Taiwan,Measuring_and_Testing,224,177
-"23,412,899",Taiwan,Physical_Sciences_and_Engineering,64,42
-"23,412,899",Taiwan,Security__eg_cybersecurity,58,47
-"23,412,899",Taiwan,Fuzzy_Logic,47,43
-"23,412,899",Taiwan,Logic_Programming,156,135
-"23,412,899",Taiwan,Planning_and_Scheduling,93,79
-"23,412,899",Taiwan,Knowledge_Representation,63,58
-"23,412,899",Taiwan,Machine_Learning,2515,2116
-"23,412,899",Taiwan,Personal_Devices_and_Computing,757,657
-"23,412,899",Taiwan,Generic_and_Unspecified,970,800
-"23,412,899",Taiwan,Banking_and_Finance,32,27
-"23,412,899",Taiwan,Control,180,153
-"23,412,899",Taiwan,All,3500,2922
-"85,341,241",Turkey,Personal_Devices_and_Computing,61,7
-"85,341,241",Turkey,Generic_and_Unspecified,115,4
-"85,341,241",Turkey,Business,50,3
-"85,341,241",Turkey,Machine_Learning,159,11
-"85,341,241",Turkey,Measuring_and_Testing,34,2
-"85,341,241",Turkey,Planning_and_Scheduling,38,2
-"85,341,241",Turkey,Life_Sciences,51,1
-"85,341,241",Turkey,All,269,17
-"85,341,241",Turkey,Security__eg_cybersecurity,23,0
-"85,341,241",Turkey,Analytics_and_Algorithms,40,0
-"85,341,241",Turkey,Banking_and_Finance,28,2
-"85,341,241",Turkey,Telecommunications,55,5
-"85,341,241",Turkey,Control,20,3
-"85,341,241",Turkey,Computer_Vision,23,3
-"38,000,000",Ukraine,All,38,36
-"66,971,411",United Kingdom,Industrial_and_Manufacturing,164,91
-"66,971,411",United Kingdom,Computer_Vision,837,462
-"66,971,411",United Kingdom,Analytics_and_Algorithms,506,190
-"66,971,411",United Kingdom,Ontology_Engineering,95,43
-"66,971,411",United Kingdom,Probabilistic_Reasoning,237,134
-"66,971,411",United Kingdom,Energy_Management,97,49
-"66,971,411",United Kingdom,Personal_Devices_and_Computing,1195,682
-"66,971,411",United Kingdom,Logic_Programming,201,117
-"66,971,411",United Kingdom,All,3635,1585
-"66,971,411",United Kingdom,Measuring_and_Testing,489,255
-"66,971,411",United Kingdom,Knowledge_Representation,122,67
-"66,971,411",United Kingdom,Generic_and_Unspecified,478,201
-"66,971,411",United Kingdom,Agricultural,64,37
-"66,971,411",United Kingdom,Banking_and_Finance,131,56
-"66,971,411",United Kingdom,Transportation,346,180
-"66,971,411",United Kingdom,Control,385,220
-"66,971,411",United Kingdom,Planning_and_Scheduling,243,104
-"66,971,411",United Kingdom,Security__eg_cybersecurity,214,112
-"66,971,411",United Kingdom,Life_Sciences,584,234
-"66,971,411",United Kingdom,Telecommunications,783,333
-"66,971,411",United Kingdom,Machine_Learning,3130,1381
-"66,971,411",United Kingdom,Physical_Sciences_and_Engineering,218,126
-"66,971,411",United Kingdom,Business,315,132
-"66,971,411",United Kingdom,Fuzzy_Logic,38,26
-"66,971,411",United Kingdom,Speech_Processing,156,98
-"333,287,557",United States,Personal_Devices_and_Computing,43785,36706
-"333,287,557",United States,Fuzzy_Logic,805,654
-"333,287,557",United States,Physical_Sciences_and_Engineering,2442,1749
-"333,287,557",United States,Banking_and_Finance,4085,3200
-"333,287,557",United States,Energy_Management,1604,1197
-"333,287,557",United States,Measuring_and_Testing,8799,6837
-"333,287,557",United States,Transportation,7977,6735
-"333,287,557",United States,Probabilistic_Reasoning,5686,4510
-"333,287,557",United States,Generic_and_Unspecified,13513,9882
-"333,287,557",United States,Control,10024,8349
-"333,287,557",United States,Ontology_Engineering,2541,2091
-"333,287,557",United States,Industrial_and_Manufacturing,3013,2298
-"333,287,557",United States,Analytics_and_Algorithms,9475,6797
-"333,287,557",United States,Logic_Programming,13240,10894
-"333,287,557",United States,Business,11599,8588
-"333,287,557",United States,Knowledge_Representation,6766,5466
-"333,287,557",United States,Agricultural,969,688
-"333,287,557",United States,Computer_Vision,18834,15470
-"333,287,557",United States,Security__eg_cybersecurity,6033,5115
-"333,287,557",United States,Life_Sciences,12320,7930
-"333,287,557",United States,Machine_Learning,66707,52724
-"333,287,557",United States,Telecommunications,20479,16812
-"333,287,557",United States,Speech_Processing,4639,3914
-"333,287,557",United States,All,85425,66774
-"333,287,557",United States,Planning_and_Scheduling,7749,5664
-"46,234,830",Argentina,Ontology_Engineering,0,0
-"46,234,830",Argentina,Fuzzy_Logic,0,0
-"9,042,528",Austria,Ontology_Engineering,0,0
-"9,042,528",Austria,Speech_Processing,0,0
-"10,175,016",Azerbaijan,Industrial_and_Manufacturing,0,0
-"10,175,016",Azerbaijan,Business,0,0
-"10,175,016",Azerbaijan,Life_Sciences,0,0
-"10,175,016",Azerbaijan,Measuring_and_Testing,0,0
-"10,175,016",Azerbaijan,Security__eg_cybersecurity,0,0
-"10,175,016",Azerbaijan,Physical_Sciences_and_Engineering,0,0
-"10,175,016",Azerbaijan,Computer_Vision,0,0
-"10,175,016",Azerbaijan,Machine_Learning,0,0
-"10,175,016",Azerbaijan,Analytics_and_Algorithms,0,0
-"10,175,016",Azerbaijan,Banking_and_Finance,0,0
-"10,175,016",Azerbaijan,Ontology_Engineering,0,0
-"10,175,016",Azerbaijan,Speech_Processing,0,0
-"10,175,016",Azerbaijan,Knowledge_Representation,0,0
-"10,175,016",Azerbaijan,Transportation,0,0
-"10,175,016",Azerbaijan,Logic_Programming,0,0
-"10,175,016",Azerbaijan,Energy_Management,0,0
-"10,175,016",Azerbaijan,Telecommunications,0,0
-"10,175,016",Azerbaijan,Probabilistic_Reasoning,0,0
-"10,175,016",Azerbaijan,Agricultural,0,0
-"10,175,016",Azerbaijan,Planning_and_Scheduling,0,0
-"10,175,016",Azerbaijan,Fuzzy_Logic,0,0
-"10,175,016",Azerbaijan,Control,0,0
-"11,669,446",Belgium,Knowledge_Representation,0,0
-"11,669,446",Belgium,Logic_Programming,0,0
-"11,669,446",Belgium,Probabilistic_Reasoning,0,0
-"11,669,446",Belgium,Banking_and_Finance,0,0
-"11,669,446",Belgium,Ontology_Engineering,0,0
-"6,465,097",Bulgaria,Transportation,0,0
-"6,465,097",Bulgaria,Fuzzy_Logic,0,0
-"6,465,097",Bulgaria,Ontology_Engineering,0,0
-"6,465,097",Bulgaria,Speech_Processing,0,0
-"6,465,097",Bulgaria,Analytics_and_Algorithms,0,0
-"6,465,097",Bulgaria,Physical_Sciences_and_Engineering,0,0
-"6,465,097",Bulgaria,Computer_Vision,0,0
-"6,465,097",Bulgaria,Probabilistic_Reasoning,0,0
-"19,603,733",Chile,Speech_Processing,0,0
-"19,603,733",Chile,Agricultural,0,0
-"19,603,733",Chile,Computer_Vision,0,0
-"19,603,733",Chile,Knowledge_Representation,0,0
-"19,603,733",Chile,Energy_Management,0,0
-"19,603,733",Chile,Analytics_and_Algorithms,0,0
-"19,603,733",Chile,Fuzzy_Logic,0,0
-"19,603,733",Chile,Probabilistic_Reasoning,0,0
-"19,603,733",Chile,Ontology_Engineering,0,0
-"19,603,733",Chile,Banking_and_Finance,0,0
-"51,874,024",Colombia,Knowledge_Representation,0,0
-"51,874,024",Colombia,Speech_Processing,0,0
-"51,874,024",Colombia,Logic_Programming,0,0
-"51,874,024",Colombia,Energy_Management,0,0
-"51,874,024",Colombia,Agricultural,0,0
-"51,874,024",Colombia,Ontology_Engineering,0,0
-"5,180,829",Costa Rica,Measuring_and_Testing,0,0
-"5,180,829",Costa Rica,Analytics_and_Algorithms,0,0
-"5,180,829",Costa Rica,Energy_Management,0,0
-"5,180,829",Costa Rica,Security__eg_cybersecurity,0,0
-"5,180,829",Costa Rica,Planning_and_Scheduling,0,0
-"5,180,829",Costa Rica,Telecommunications,0,0
-"5,180,829",Costa Rica,Physical_Sciences_and_Engineering,0,0
-"5,180,829",Costa Rica,Speech_Processing,0,0
-"5,180,829",Costa Rica,Control,0,0
-"5,180,829",Costa Rica,Personal_Devices_and_Computing,0,0
-"5,180,829",Costa Rica,Knowledge_Representation,0,0
-"5,180,829",Costa Rica,Probabilistic_Reasoning,0,0
-"5,180,829",Costa Rica,Business,0,0
-"5,180,829",Costa Rica,Logic_Programming,0,0
-"5,180,829",Costa Rica,Ontology_Engineering,0,0
-"5,180,829",Costa Rica,Banking_and_Finance,0,0
-"5,180,829",Costa Rica,Computer_Vision,0,0
-"5,180,829",Costa Rica,Fuzzy_Logic,0,0
-"5,180,829",Costa Rica,Transportation,0,0
-"5,180,829",Costa Rica,Agricultural,0,0
-"3,854,000",Croatia,Energy_Management,0,0
-"3,854,000",Croatia,Knowledge_Representation,0,0
-"3,854,000",Croatia,Logic_Programming,0,0
-"3,854,000",Croatia,Planning_and_Scheduling,0,0
-"3,854,000",Croatia,Transportation,0,0
-"3,854,000",Croatia,Probabilistic_Reasoning,0,0
-"3,854,000",Croatia,Analytics_and_Algorithms,0,0
-"3,854,000",Croatia,Business,0,0
-"3,854,000",Croatia,Security__eg_cybersecurity,0,0
-"3,854,000",Croatia,Banking_and_Finance,0,0
-"3,854,000",Croatia,Fuzzy_Logic,0,0
-"11,212,191",Cuba,Fuzzy_Logic,0,0
-"11,212,191",Cuba,Probabilistic_Reasoning,0,0
-"11,212,191",Cuba,Ontology_Engineering,0,0
-"11,212,191",Cuba,Knowledge_Representation,0,0
-"11,212,191",Cuba,Measuring_and_Testing,0,0
-"11,212,191",Cuba,Life_Sciences,0,0
-"11,212,191",Cuba,Planning_and_Scheduling,0,0
-"11,212,191",Cuba,Banking_and_Finance,0,0
-"11,212,191",Cuba,Agricultural,0,0
-"11,212,191",Cuba,Logic_Programming,0,0
-"11,212,191",Cuba,Machine_Learning,0,0
-"11,212,191",Cuba,Security__eg_cybersecurity,0,0
-"11,212,191",Cuba,Speech_Processing,0,0
-"11,212,191",Cuba,Transportation,0,0
-"11,212,191",Cuba,Business,0,0
-"11,212,191",Cuba,Computer_Vision,0,0
-"11,212,191",Cuba,Personal_Devices_and_Computing,0,0
-"11,212,191",Cuba,Analytics_and_Algorithms,0,0
-"10,526,073",Czech Republic,Knowledge_Representation,0,0
-"10,526,073",Czech Republic,Banking_and_Finance,0,0
-"10,526,073",Czech Republic,Probabilistic_Reasoning,0,0
-"10,526,073",Czech Republic,Speech_Processing,0,0
-"10,526,073",Czech Republic,Fuzzy_Logic,0,0
-"10,526,073",Czech Republic,Ontology_Engineering,0,0
-"10,526,073",Czech Republic,Security__eg_cybersecurity,0,0
-"5,903,037",Denmark,Ontology_Engineering,0,0
-"5,903,037",Denmark,Fuzzy_Logic,0,0
-"1,344,768",Estonia,Speech_Processing,0,0
-"1,344,768",Estonia,Energy_Management,0,0
-"1,344,768",Estonia,Transportation,0,0
-"1,344,768",Estonia,Analytics_and_Algorithms,0,0
-"1,344,768",Estonia,Planning_and_Scheduling,0,0
-"1,344,768",Estonia,Computer_Vision,0,0
-"1,344,768",Estonia,Generic_and_Unspecified,0,0
-"1,344,768",Estonia,Security__eg_cybersecurity,0,0
-"1,344,768",Estonia,Control,0,0
-"1,344,768",Estonia,Life_Sciences,0,0
-"1,344,768",Estonia,Banking_and_Finance,0,0
-"1,344,768",Estonia,Business,0,0
-"1,344,768",Estonia,Logic_Programming,0,0
-"1,344,768",Estonia,Agricultural,0,0
-"1,344,768",Estonia,Knowledge_Representation,0,0
-"1,344,768",Estonia,Ontology_Engineering,0,0
-"1,344,768",Estonia,Physical_Sciences_and_Engineering,0,0
-"1,344,768",Estonia,Probabilistic_Reasoning,0,0
-"1,344,768",Estonia,Industrial_and_Manufacturing,0,0
-"1,344,768",Estonia,Fuzzy_Logic,0,0
-"1,344,768",Estonia,Telecommunications,0,0
-"1,344,768",Estonia,Personal_Devices_and_Computing,0,0
-"1,344,768",Estonia,Measuring_and_Testing,0,0
-"10,566,531",Greece,Banking_and_Finance,0,0
-"10,566,531",Greece,Knowledge_Representation,0,0
-"9,683,505",Hungary,Ontology_Engineering,0,0
-"9,683,505",Hungary,Fuzzy_Logic,0,0
-"9,683,505",Hungary,Knowledge_Representation,0,0
-"275,501,339",Indonesia,Measuring_and_Testing,0,0
-"275,501,339",Indonesia,Knowledge_Representation,0,0
-"275,501,339",Indonesia,Physical_Sciences_and_Engineering,0,0
-"275,501,339",Indonesia,Generic_and_Unspecified,0,0
-"275,501,339",Indonesia,Computer_Vision,0,0
-"275,501,339",Indonesia,Industrial_and_Manufacturing,0,0
-"275,501,339",Indonesia,Agricultural,0,0
-"275,501,339",Indonesia,Control,0,0
-"275,501,339",Indonesia,Planning_and_Scheduling,0,0
-"275,501,339",Indonesia,Speech_Processing,0,0
-"275,501,339",Indonesia,Probabilistic_Reasoning,0,0
-"275,501,339",Indonesia,Fuzzy_Logic,0,0
-"275,501,339",Indonesia,Ontology_Engineering,0,0
-"275,501,339",Indonesia,Energy_Management,0,0
-"275,501,339",Indonesia,Analytics_and_Algorithms,0,0
-"275,501,339",Indonesia,Transportation,0,0
-"275,501,339",Indonesia,Security__eg_cybersecurity,0,0
-"88,550,570",Iran,Planning_and_Scheduling,0,0
-"88,550,570",Iran,Machine_Learning,0,0
-"88,550,570",Iran,Physical_Sciences_and_Engineering,0,0
-"88,550,570",Iran,Ontology_Engineering,0,0
-"88,550,570",Iran,Control,0,0
-"88,550,570",Iran,Industrial_and_Manufacturing,0,0
-"88,550,570",Iran,Agricultural,0,0
-"88,550,570",Iran,Generic_and_Unspecified,0,0
-"88,550,570",Iran,Knowledge_Representation,0,0
-"88,550,570",Iran,Business,0,0
-"88,550,570",Iran,Transportation,0,0
-"88,550,570",Iran,Banking_and_Finance,0,0
-"88,550,570",Iran,Measuring_and_Testing,0,0
-"88,550,570",Iran,Analytics_and_Algorithms,0,0
-"88,550,570",Iran,Speech_Processing,0,0
-"88,550,570",Iran,Energy_Management,0,0
-"88,550,570",Iran,Life_Sciences,0,0
-"88,550,570",Iran,Computer_Vision,0,0
-"88,550,570",Iran,Fuzzy_Logic,0,0
-"5,086,988",Republic of Ireland,Security__eg_cybersecurity,0,0
-"5,086,988",Republic of Ireland,Physical_Sciences_and_Engineering,0,0
-"5,086,988",Republic of Ireland,Telecommunications,0,0
-"5,086,988",Republic of Ireland,Measuring_and_Testing,0,0
-"5,086,988",Republic of Ireland,Logic_Programming,0,0
-"5,086,988",Republic of Ireland,Ontology_Engineering,0,0
-"5,086,988",Republic of Ireland,Fuzzy_Logic,0,0
-"5,086,988",Republic of Ireland,Knowledge_Representation,0,0
-"5,086,988",Republic of Ireland,Energy_Management,0,0
-"5,086,988",Republic of Ireland,Analytics_and_Algorithms,0,0
-"5,086,988",Republic of Ireland,Speech_Processing,0,0
-"9,550,600",Israel,Fuzzy_Logic,0,0
-"11,285,869",Jordan,Logic_Programming,0,0
-"11,285,869",Jordan,Ontology_Engineering,0,0
-"11,285,869",Jordan,Transportation,0,0
-"11,285,869",Jordan,Fuzzy_Logic,0,0
-"11,285,869",Jordan,Probabilistic_Reasoning,0,0
-"11,285,869",Jordan,Physical_Sciences_and_Engineering,0,0
-"11,285,869",Jordan,Personal_Devices_and_Computing,0,0
-"11,285,869",Jordan,Knowledge_Representation,0,0
-"11,285,869",Jordan,Computer_Vision,0,0
-"11,285,869",Jordan,Speech_Processing,0,0
-"11,285,869",Jordan,Planning_and_Scheduling,0,0
-"11,285,869",Jordan,Banking_and_Finance,0,0
-"11,285,869",Jordan,Energy_Management,0,0
-"11,285,869",Jordan,Analytics_and_Algorithms,0,0
-"54,027,487",Kenya,Knowledge_Representation,0,0
-"54,027,487",Kenya,Probabilistic_Reasoning,0,0
-"54,027,487",Kenya,Life_Sciences,0,0
-"54,027,487",Kenya,Personal_Devices_and_Computing,0,0
-"54,027,487",Kenya,Agricultural,0,0
-"54,027,487",Kenya,Security__eg_cybersecurity,0,0
-"54,027,487",Kenya,Analytics_and_Algorithms,0,0
-"54,027,487",Kenya,Physical_Sciences_and_Engineering,0,0
-"54,027,487",Kenya,Fuzzy_Logic,0,0
-"54,027,487",Kenya,Banking_and_Finance,0,0
-"54,027,487",Kenya,Energy_Management,0,0
-"54,027,487",Kenya,Ontology_Engineering,0,0
-"54,027,487",Kenya,Telecommunications,0,0
-"54,027,487",Kenya,Generic_and_Unspecified,0,0
-"54,027,487",Kenya,Planning_and_Scheduling,0,0
-"54,027,487",Kenya,Industrial_and_Manufacturing,0,0
-"54,027,487",Kenya,Logic_Programming,0,0
-"54,027,487",Kenya,Speech_Processing,0,0
-"54,027,487",Kenya,Business,0,0
-"1,883,379",Latvia,Energy_Management,0,0
-"1,883,379",Latvia,Control,0,0
-"1,883,379",Latvia,Analytics_and_Algorithms,0,0
-"1,883,379",Latvia,Banking_and_Finance,0,0
-"1,883,379",Latvia,Agricultural,0,0
-"1,883,379",Latvia,Fuzzy_Logic,0,0
-"1,883,379",Latvia,Life_Sciences,0,0
-"1,883,379",Latvia,Probabilistic_Reasoning,0,0
-"1,883,379",Latvia,Computer_Vision,0,0
-"1,883,379",Latvia,Knowledge_Representation,0,0
-"1,883,379",Latvia,Security__eg_cybersecurity,0,0
-"1,883,379",Latvia,Speech_Processing,0,0
-"1,883,379",Latvia,Measuring_and_Testing,0,0
-"1,883,379",Latvia,Planning_and_Scheduling,0,0
-"1,883,379",Latvia,Business,0,0
-"1,883,379",Latvia,Transportation,0,0
-"1,883,379",Latvia,Logic_Programming,0,0
-"1,883,379",Latvia,Ontology_Engineering,0,0
-"1,883,379",Latvia,Generic_and_Unspecified,0,0
-"1,883,379",Latvia,Physical_Sciences_and_Engineering,0,0
-"1,883,379",Latvia,Personal_Devices_and_Computing,0,0
-"1,883,379",Latvia,Industrial_and_Manufacturing,0,0
-"2,833,000",Lithuania,Knowledge_Representation,0,0
-"2,833,000",Lithuania,Fuzzy_Logic,0,0
-"2,833,000",Lithuania,Ontology_Engineering,0,0
-"2,833,000",Lithuania,Speech_Processing,0,0
-"2,592,477",Moldova,Industrial_and_Manufacturing,0,0
-"2,592,477",Moldova,Probabilistic_Reasoning,0,0
-"2,592,477",Moldova,Banking_and_Finance,0,0
-"2,592,477",Moldova,Ontology_Engineering,0,0
-"2,592,477",Moldova,Knowledge_Representation,0,0
-"2,592,477",Moldova,Physical_Sciences_and_Engineering,0,0
-"2,592,477",Moldova,Analytics_and_Algorithms,0,0
-"2,592,477",Moldova,Measuring_and_Testing,0,0
-"2,592,477",Moldova,Telecommunications,0,0
-"2,592,477",Moldova,Life_Sciences,0,0
-"2,592,477",Moldova,Business,0,0
-"2,592,477",Moldova,Fuzzy_Logic,0,0
-"2,592,477",Moldova,Control,0,0
-"2,592,477",Moldova,Transportation,0,0
-"2,592,477",Moldova,Energy_Management,0,0
-"2,592,477",Moldova,Generic_and_Unspecified,0,0
-"2,592,477",Moldova,Logic_Programming,0,0
-"2,592,477",Moldova,Security__eg_cybersecurity,0,0
-"2,592,477",Moldova,Speech_Processing,0,0
-"2,592,477",Moldova,Planning_and_Scheduling,0,0
-"2,592,477",Moldova,Agricultural,0,0
-"37,457,971",Morocco,Speech_Processing,0,0
-"37,457,971",Morocco,Knowledge_Representation,0,0
-"4,576,298",Oman,Telecommunications,0,0
-"4,576,298",Oman,Logic_Programming,0,0
-"4,576,298",Oman,Generic_and_Unspecified,0,0
-"4,576,298",Oman,Banking_and_Finance,0,0
-"4,576,298",Oman,Probabilistic_Reasoning,0,0
-"4,576,298",Oman,Energy_Management,0,0
-"4,576,298",Oman,Agricultural,0,0
-"4,576,298",Oman,Fuzzy_Logic,0,0
-"4,576,298",Oman,Physical_Sciences_and_Engineering,0,0
-"4,576,298",Oman,Personal_Devices_and_Computing,0,0
-"4,576,298",Oman,Ontology_Engineering,0,0
-"4,576,298",Oman,Planning_and_Scheduling,0,0
-"4,576,298",Oman,Analytics_and_Algorithms,0,0
-"4,576,298",Oman,Knowledge_Representation,0,0
-"4,576,298",Oman,Measuring_and_Testing,0,0
-"4,576,298",Oman,Industrial_and_Manufacturing,0,0
-"4,576,298",Oman,Speech_Processing,0,0
-"4,576,298",Oman,Business,0,0
-"4,576,298",Oman,Computer_Vision,0,0
-"4,576,298",Oman,Security__eg_cybersecurity,0,0
-"4,408,581",Panama,Fuzzy_Logic,0,0
-"4,408,581",Panama,Energy_Management,0,0
-"4,408,581",Panama,Physical_Sciences_and_Engineering,0,0
-"4,408,581",Panama,Knowledge_Representation,0,0
-"4,408,581",Panama,Speech_Processing,0,0
-"4,408,581",Panama,Transportation,0,0
-"4,408,581",Panama,Personal_Devices_and_Computing,0,0
-"4,408,581",Panama,Business,0,0
-"4,408,581",Panama,Telecommunications,0,0
-"4,408,581",Panama,Machine_Learning,0,0
-"4,408,581",Panama,Agricultural,0,0
-"4,408,581",Panama,Ontology_Engineering,0,0
-"4,408,581",Panama,Analytics_and_Algorithms,0,0
-"4,408,581",Panama,Security__eg_cybersecurity,0,0
-"4,408,581",Panama,Probabilistic_Reasoning,0,0
-"4,408,581",Panama,Banking_and_Finance,0,0
-"4,408,581",Panama,Industrial_and_Manufacturing,0,0
-"4,408,581",Panama,Computer_Vision,0,0
-"4,408,581",Panama,Measuring_and_Testing,0,0
-"4,408,581",Panama,Logic_Programming,0,0
-"4,408,581",Panama,Planning_and_Scheduling,0,0
-"34,049,588",Peru,Fuzzy_Logic,0,0
-"34,049,588",Peru,Speech_Processing,0,0
-"34,049,588",Peru,Ontology_Engineering,0,0
-"10,379,007",Portugal,Ontology_Engineering,0,0
-"10,379,007",Portugal,Fuzzy_Logic,0,0
-"10,379,007",Portugal,Banking_and_Finance,0,0
-"18,956,666",Romania,Knowledge_Representation,0,0
-"18,956,666",Romania,Security__eg_cybersecurity,0,0
-"18,956,666",Romania,Banking_and_Finance,0,0
-"18,956,666",Romania,Industrial_and_Manufacturing,0,0
-"18,956,666",Romania,Transportation,0,0
-"18,956,666",Romania,Logic_Programming,0,0
-"18,956,666",Romania,Speech_Processing,0,0
-"18,956,666",Romania,Measuring_and_Testing,0,0
-"18,956,666",Romania,Agricultural,0,0
-"33,660",San Marino,Energy_Management,0,0
-"33,660",San Marino,Probabilistic_Reasoning,0,0
-"33,660",San Marino,Security__eg_cybersecurity,0,0
-"33,660",San Marino,Personal_Devices_and_Computing,0,0
-"33,660",San Marino,Ontology_Engineering,0,0
-"33,660",San Marino,Planning_and_Scheduling,0,0
-"33,660",San Marino,Analytics_and_Algorithms,0,0
-"33,660",San Marino,Logic_Programming,0,0
-"33,660",San Marino,Business,0,0
-"33,660",San Marino,Knowledge_Representation,0,0
-"33,660",San Marino,Banking_and_Finance,0,0
-"33,660",San Marino,Fuzzy_Logic,0,0
-"33,660",San Marino,Transportation,0,0
-"36,408,820",Saudi Arabia,Speech_Processing,0,0
-"36,408,820",Saudi Arabia,Ontology_Engineering,0,0
-"36,408,820",Saudi Arabia,Telecommunications,0,0
-"36,408,820",Saudi Arabia,Logic_Programming,0,0
-"36,408,820",Saudi Arabia,Personal_Devices_and_Computing,0,0
-"36,408,820",Saudi Arabia,Knowledge_Representation,0,0
-"36,408,820",Saudi Arabia,Fuzzy_Logic,0,0
-"36,408,820",Saudi Arabia,Analytics_and_Algorithms,0,0
-"36,408,820",Saudi Arabia,Transportation,0,0
-"36,408,820",Saudi Arabia,Security__eg_cybersecurity,0,0
-"36,408,820",Saudi Arabia,Measuring_and_Testing,0,0
-"36,408,820",Saudi Arabia,Probabilistic_Reasoning,0,0
-"36,408,820",Saudi Arabia,Computer_Vision,0,0
-"6,760,087",Serbia,Speech_Processing,0,0
-"6,760,087",Serbia,Fuzzy_Logic,0,0
-"6,760,087",Serbia,Logic_Programming,0,0
-"6,760,087",Serbia,Knowledge_Representation,0,0
-"6,760,087",Serbia,Security__eg_cybersecurity,0,0
-"6,760,087",Serbia,Planning_and_Scheduling,0,0
-"6,760,087",Serbia,Banking_and_Finance,0,0
-"6,760,087",Serbia,Analytics_and_Algorithms,0,0
-"5,431,752",Slovakia,Planning_and_Scheduling,0,0
-"5,431,752",Slovakia,Ontology_Engineering,0,0
-"5,431,752",Slovakia,Computer_Vision,0,0
-"5,431,752",Slovakia,Business,0,0
-"5,431,752",Slovakia,Agricultural,0,0
-"5,431,752",Slovakia,Knowledge_Representation,0,0
-"5,431,752",Slovakia,Telecommunications,0,0
-"5,431,752",Slovakia,Analytics_and_Algorithms,0,0
-"5,431,752",Slovakia,Measuring_and_Testing,0,0
-"5,431,752",Slovakia,Fuzzy_Logic,0,0
-"5,431,752",Slovakia,Logic_Programming,0,0
-"5,431,752",Slovakia,Banking_and_Finance,0,0
-"5,431,752",Slovakia,Control,0,0
-"5,431,752",Slovakia,Speech_Processing,0,0
-"5,431,752",Slovakia,Physical_Sciences_and_Engineering,0,0
-"5,431,752",Slovakia,Personal_Devices_and_Computing,0,0
-"2,108,732",Slovenia,Industrial_and_Manufacturing,0,0
-"2,108,732",Slovenia,Ontology_Engineering,0,0
-"2,108,732",Slovenia,Speech_Processing,0,0
-"2,108,732",Slovenia,Banking_and_Finance,0,0
-"2,108,732",Slovenia,Security__eg_cybersecurity,0,0
-"2,108,732",Slovenia,Planning_and_Scheduling,0,0
-"2,108,732",Slovenia,Business,0,0
-"2,108,732",Slovenia,Fuzzy_Logic,0,0
-"2,108,732",Slovenia,Transportation,0,0
-"2,108,732",Slovenia,Knowledge_Representation,0,0
-"59,893,885",South Africa,Control,0,0
-"59,893,885",South Africa,Knowledge_Representation,0,0
-"59,893,885",South Africa,Speech_Processing,0,0
-"59,893,885",South Africa,Transportation,0,0
-"22,181,000",Sri Lanka,Transportation,0,0
-"22,181,000",Sri Lanka,Generic_and_Unspecified,0,0
-"22,181,000",Sri Lanka,Security__eg_cybersecurity,0,0
-"22,181,000",Sri Lanka,Personal_Devices_and_Computing,0,0
-"22,181,000",Sri Lanka,Ontology_Engineering,0,0
-"22,181,000",Sri Lanka,Business,0,0
-"22,181,000",Sri Lanka,Control,0,0
-"22,181,000",Sri Lanka,Banking_and_Finance,0,0
-"22,181,000",Sri Lanka,Logic_Programming,0,0
-"22,181,000",Sri Lanka,Speech_Processing,0,0
-"22,181,000",Sri Lanka,Computer_Vision,0,0
-"22,181,000",Sri Lanka,Fuzzy_Logic,0,0
-"22,181,000",Sri Lanka,Planning_and_Scheduling,0,0
-"22,181,000",Sri Lanka,Telecommunications,0,0
-"22,181,000",Sri Lanka,Knowledge_Representation,0,0
-"22,181,000",Sri Lanka,Industrial_and_Manufacturing,0,0
-"22,181,000",Sri Lanka,Probabilistic_Reasoning,0,0
-"22,181,000",Sri Lanka,Agricultural,0,0
-"22,181,000",Sri Lanka,Energy_Management,0,0
-"22,181,000",Sri Lanka,Measuring_and_Testing,0,0
-"22,181,000",Sri Lanka,Physical_Sciences_and_Engineering,0,0
-"71,697,030",Thailand,Fuzzy_Logic,0,0
-"71,697,030",Thailand,Agricultural,0,0
-"71,697,030",Thailand,Measuring_and_Testing,0,0
-"71,697,030",Thailand,Speech_Processing,0,0
-"71,697,030",Thailand,Probabilistic_Reasoning,0,0
-"71,697,030",Thailand,Personal_Devices_and_Computing,0,0
-"71,697,030",Thailand,Planning_and_Scheduling,0,0
-"71,697,030",Thailand,Security__eg_cybersecurity,0,0
-"71,697,030",Thailand,Banking_and_Finance,0,0
-"71,697,030",Thailand,Transportation,0,0
-"71,697,030",Thailand,Analytics_and_Algorithms,0,0
-"71,697,030",Thailand,Knowledge_Representation,0,0
-"71,697,030",Thailand,Industrial_and_Manufacturing,0,0
-"71,697,030",Thailand,Control,0,0
-"71,697,030",Thailand,Telecommunications,0,0
-"71,697,030",Thailand,Ontology_Engineering,0,0
-"71,697,030",Thailand,Energy_Management,0,0
-"71,697,030",Thailand,Logic_Programming,0,0
-"71,697,030",Thailand,Physical_Sciences_and_Engineering,0,0
-"71,697,030",Thailand,Computer_Vision,0,0
-"71,697,030",Thailand,Life_Sciences,0,0
-"71,697,030",Thailand,Generic_and_Unspecified,0,0
-"12,356,117",Tunisia,Computer_Vision,0,0
-"12,356,117",Tunisia,Speech_Processing,0,0
-"12,356,117",Tunisia,Transportation,0,0
-"12,356,117",Tunisia,Physical_Sciences_and_Engineering,0,0
-"12,356,117",Tunisia,Ontology_Engineering,0,0
-"12,356,117",Tunisia,Business,0,0
-"12,356,117",Tunisia,Banking_and_Finance,0,0
-"12,356,117",Tunisia,Logic_Programming,0,0
-"12,356,117",Tunisia,Measuring_and_Testing,0,0
-"12,356,117",Tunisia,Industrial_and_Manufacturing,0,0
-"12,356,117",Tunisia,Probabilistic_Reasoning,0,0
-"12,356,117",Tunisia,Knowledge_Representation,0,0
-"12,356,117",Tunisia,Planning_and_Scheduling,0,0
-"12,356,117",Tunisia,Fuzzy_Logic,0,0
-"12,356,117",Tunisia,Energy_Management,0,0
-"85,341,241",Turkey,Ontology_Engineering,0,0
-"38,000,000",Ukraine,Planning_and_Scheduling,0,0
-"38,000,000",Ukraine,Energy_Management,0,0
-"38,000,000",Ukraine,Telecommunications,0,0
-"38,000,000",Ukraine,Banking_and_Finance,0,0
-"38,000,000",Ukraine,Measuring_and_Testing,0,0
-"38,000,000",Ukraine,Speech_Processing,0,0
-"38,000,000",Ukraine,Transportation,0,0
-"38,000,000",Ukraine,Business,0,0
-"38,000,000",Ukraine,Security__eg_cybersecurity,0,0
-"38,000,000",Ukraine,Analytics_and_Algorithms,0,0
-"3,422,794",Uruguay,Control,0,0
-"3,422,794",Uruguay,Security__eg_cybersecurity,0,0
-"3,422,794",Uruguay,Business,0,0
-"3,422,794",Uruguay,Knowledge_Representation,0,0
-"3,422,794",Uruguay,Transportation,0,0
-"3,422,794",Uruguay,Speech_Processing,0,0
-"3,422,794",Uruguay,Ontology_Engineering,0,0
-"3,422,794",Uruguay,Physical_Sciences_and_Engineering,0,0
-"3,422,794",Uruguay,Probabilistic_Reasoning,0,0
-"3,422,794",Uruguay,Planning_and_Scheduling,0,0
-"3,422,794",Uruguay,Life_Sciences,0,0
-"3,422,794",Uruguay,Logic_Programming,0,0
-"46,234,830",Argentina,Transportation,1,1
-"46,234,830",Argentina,Knowledge_Representation,1,1
-"46,234,830",Argentina,Speech_Processing,1,1
-"9,042,528",Austria,Fuzzy_Logic,1,0
-"10,175,016",Azerbaijan,All,1,0
-"10,175,016",Azerbaijan,Generic_and_Unspecified,1,0
-"10,175,016",Azerbaijan,Personal_Devices_and_Computing,1,0
-"6,465,097",Bulgaria,Knowledge_Representation,1,1
-"6,465,097",Bulgaria,Agricultural,1,1
-"6,465,097",Bulgaria,Security__eg_cybersecurity,1,1
-"6,465,097",Bulgaria,Telecommunications,1,1
-"19,603,733",Chile,Planning_and_Scheduling,1,0
-"19,603,733",Chile,Industrial_and_Manufacturing,1,0
-"19,603,733",Chile,Control,1,1
-"19,603,733",Chile,Security__eg_cybersecurity,1,0
-"19,603,733",Chile,Business,1,0
-"51,874,024",Colombia,Banking_and_Finance,1,0
-"51,874,024",Colombia,Fuzzy_Logic,1,0
-"51,874,024",Colombia,Security__eg_cybersecurity,1,0
-"51,874,024",Colombia,Industrial_and_Manufacturing,1,0
-"51,874,024",Colombia,Transportation,1,0
-"5,180,829",Costa Rica,Machine_Learning,1,1
-"5,180,829",Costa Rica,Generic_and_Unspecified,1,0
-"5,180,829",Costa Rica,Life_Sciences,1,0
-"5,180,829",Costa Rica,Industrial_and_Manufacturing,1,1
-"3,854,000",Croatia,Agricultural,1,1
-"3,854,000",Croatia,Speech_Processing,1,1
-"3,854,000",Croatia,Telecommunications,1,1
-"3,854,000",Croatia,Life_Sciences,1,0
-"3,854,000",Croatia,Ontology_Engineering,1,1
-"3,854,000",Croatia,Personal_Devices_and_Computing,1,1
-"11,212,191",Cuba,Industrial_and_Manufacturing,1,1
-"11,212,191",Cuba,Physical_Sciences_and_Engineering,1,1
-"11,212,191",Cuba,Telecommunications,1,1
-"11,212,191",Cuba,Generic_and_Unspecified,1,1
-"11,212,191",Cuba,All,1,1
-"11,212,191",Cuba,Energy_Management,1,1
-"11,212,191",Cuba,Control,1,1
-"10,526,073",Czech Republic,Industrial_and_Manufacturing,1,1
-"10,526,073",Czech Republic,Agricultural,1,1
-"10,526,073",Czech Republic,Energy_Management,1,1
-"10,526,073",Czech Republic,Planning_and_Scheduling,1,1
-"10,526,073",Czech Republic,Computer_Vision,1,1
-"10,526,073",Czech Republic,Physical_Sciences_and_Engineering,1,0
-"5,903,037",Denmark,Knowledge_Representation,1,1
-"1,344,768",Estonia,All,1,1
-"1,344,768",Estonia,Machine_Learning,1,1
-#FIELD!,Eurasian Patent Organization,Energy_Management,1,1
-#FIELD!,Eurasian Patent Organization,Banking_and_Finance,1,1
-#FIELD!,Eurasian Patent Organization,Logic_Programming,1,0
-#FIELD!,Eurasian Patent Organization,Planning_and_Scheduling,1,0
-#FIELD!,Eurasian Patent Organization,Agricultural,1,0
-"10,566,531",Greece,Logic_Programming,1,1
-"10,566,531",Greece,Fuzzy_Logic,1,1
-"275,501,339",Indonesia,Business,1,1
-"275,501,339",Indonesia,Life_Sciences,1,1
-"275,501,339",Indonesia,Logic_Programming,1,0
-#FIELD!,International Bureau of WIPO,Fuzzy_Logic,1,1
-#FIELD!,International Bureau of WIPO,Energy_Management,1,0
-#FIELD!,International Bureau of WIPO,Speech_Processing,1,1
-"88,550,570",Iran,All,1,1
-"88,550,570",Iran,Logic_Programming,1,1
-"88,550,570",Iran,Security__eg_cybersecurity,1,1
-"88,550,570",Iran,Telecommunications,1,1
-"88,550,570",Iran,Probabilistic_Reasoning,1,1
-"88,550,570",Iran,Personal_Devices_and_Computing,1,1
-"5,086,988",Republic of Ireland,Computer_Vision,1,1
-"5,086,988",Republic of Ireland,Control,1,0
-"5,086,988",Republic of Ireland,Probabilistic_Reasoning,1,0
-"5,086,988",Republic of Ireland,Agricultural,1,0
-"5,086,988",Republic of Ireland,Transportation,1,0
-"5,086,988",Republic of Ireland,Industrial_and_Manufacturing,1,0
-"5,086,988",Republic of Ireland,Banking_and_Finance,1,0
-"5,086,988",Republic of Ireland,Life_Sciences,1,1
-"5,086,988",Republic of Ireland,Generic_and_Unspecified,1,0
-"9,550,600",Israel,Energy_Management,1,0
-"11,285,869",Jordan,Generic_and_Unspecified,1,1
-"11,285,869",Jordan,Life_Sciences,1,0
-"11,285,869",Jordan,Business,1,0
-"11,285,869",Jordan,Measuring_and_Testing,1,0
-"11,285,869",Jordan,Security__eg_cybersecurity,1,1
-"11,285,869",Jordan,Control,1,0
-"11,285,869",Jordan,Telecommunications,1,0
-"11,285,869",Jordan,Agricultural,1,0
-"54,027,487",Kenya,Machine_Learning,1,1
-"54,027,487",Kenya,Computer_Vision,1,1
-"54,027,487",Kenya,Transportation,1,1
-"54,027,487",Kenya,Control,1,1
-"54,027,487",Kenya,All,1,1
-"54,027,487",Kenya,Measuring_and_Testing,1,1
-"1,883,379",Latvia,Telecommunications,1,1
-"2,833,000",Lithuania,Planning_and_Scheduling,1,1
-"2,833,000",Lithuania,Banking_and_Finance,1,1
-"2,833,000",Lithuania,Transportation,1,1
-"2,833,000",Lithuania,Agricultural,1,1
-"2,833,000",Lithuania,Probabilistic_Reasoning,1,1
-"2,833,000",Lithuania,Business,1,1
-"650,774",Luxembourg,Speech_Processing,1,1
-"2,592,477",Moldova,Personal_Devices_and_Computing,1,0
-"2,592,477",Moldova,All,1,0
-"2,592,477",Moldova,Machine_Learning,1,0
-"2,592,477",Moldova,Computer_Vision,1,0
-"37,457,971",Morocco,Transportation,1,1
-"37,457,971",Morocco,Logic_Programming,1,1
-"37,457,971",Morocco,Fuzzy_Logic,1,0
-"5,124,100",New Zealand,Fuzzy_Logic,1,1
-"5,457,127",Norway,Ontology_Engineering,1,1
-"5,457,127",Norway,Knowledge_Representation,1,0
-"5,457,127",Norway,Fuzzy_Logic,1,0
-"5,457,127",Norway,Speech_Processing,1,1
-"4,576,298",Oman,Transportation,1,0
-"4,576,298",Oman,All,1,0
-"4,576,298",Oman,Life_Sciences,1,0
-"4,576,298",Oman,Control,1,0
-"4,576,298",Oman,Machine_Learning,1,0
-"4,408,581",Panama,Control,1,0
-"4,408,581",Panama,Life_Sciences,1,0
-"34,049,588",Peru,Knowledge_Representation,1,0
-"34,049,588",Peru,Probabilistic_Reasoning,1,1
-"34,049,588",Peru,Transportation,1,0
-"115,559,009",Philippines,Energy_Management,1,1
-"37,561,599",Poland,Ontology_Engineering,1,1
-"10,379,007",Portugal,Energy_Management,1,1
-"10,379,007",Portugal,Speech_Processing,1,0
-"18,956,666",Romania,Analytics_and_Algorithms,1,1
-"18,956,666",Romania,Personal_Devices_and_Computing,1,0
-"18,956,666",Romania,Planning_and_Scheduling,1,0
-"18,956,666",Romania,Fuzzy_Logic,1,0
-"33,660",San Marino,Life_Sciences,1,0
-"33,660",San Marino,Physical_Sciences_and_Engineering,1,0
-"33,660",San Marino,Computer_Vision,1,1
-"33,660",San Marino,Industrial_and_Manufacturing,1,1
-"33,660",San Marino,Measuring_and_Testing,1,0
-"33,660",San Marino,Telecommunications,1,1
-"33,660",San Marino,Generic_and_Unspecified,1,0
-"33,660",San Marino,Agricultural,1,1
-"33,660",San Marino,Speech_Processing,1,1
-"33,660",San Marino,Control,1,1
-"36,408,820",Saudi Arabia,Energy_Management,1,0
-"36,408,820",Saudi Arabia,Control,1,1
-"36,408,820",Saudi Arabia,Agricultural,1,0
-"36,408,820",Saudi Arabia,Planning_and_Scheduling,1,0
-"36,408,820",Saudi Arabia,Banking_and_Finance,1,0
-"36,408,820",Saudi Arabia,Physical_Sciences_and_Engineering,1,1
-"36,408,820",Saudi Arabia,Business,1,0
-"36,408,820",Saudi Arabia,Life_Sciences,1,1
-"6,760,087",Serbia,Business,1,0
-"6,760,087",Serbia,Energy_Management,1,1
-"6,760,087",Serbia,Physical_Sciences_and_Engineering,1,0
-"6,760,087",Serbia,Ontology_Engineering,1,0
-"6,760,087",Serbia,Telecommunications,1,1
-"6,760,087",Serbia,Personal_Devices_and_Computing,1,0
-"5,431,752",Slovakia,Transportation,1,0
-"5,431,752",Slovakia,Security__eg_cybersecurity,1,0
-"5,431,752",Slovakia,Probabilistic_Reasoning,1,0
-"5,431,752",Slovakia,Energy_Management,1,0
-"5,431,752",Slovakia,Life_Sciences,1,1
-"2,108,732",Slovenia,Agricultural,1,1
-"2,108,732",Slovenia,Probabilistic_Reasoning,1,1
-"2,108,732",Slovenia,Logic_Programming,1,1
-"2,108,732",Slovenia,Energy_Management,1,1
-"59,893,885",South Africa,Life_Sciences,1,1
-"59,893,885",South Africa,Agricultural,1,1
-"59,893,885",South Africa,Industrial_and_Manufacturing,1,0
-"59,893,885",South Africa,Analytics_and_Algorithms,1,1
-"59,893,885",South Africa,Security__eg_cybersecurity,1,1
-"59,893,885",South Africa,Logic_Programming,1,0
-"59,893,885",South Africa,Measuring_and_Testing,1,1
-"59,893,885",South Africa,Banking_and_Finance,1,1
-"22,181,000",Sri Lanka,Analytics_and_Algorithms,1,1
-"22,181,000",Sri Lanka,Life_Sciences,1,1
-"22,181,000",Sri Lanka,All,1,1
-"22,181,000",Sri Lanka,Machine_Learning,1,1
-"10,486,941",Sweden,Ontology_Engineering,1,1
-"8,769,741",Switzerland,Security__eg_cybersecurity,1,1
-"8,769,741",Switzerland,Fuzzy_Logic,1,1
-"8,769,741",Switzerland,Ontology_Engineering,1,0
-"8,769,741",Switzerland,Energy_Management,1,1
-"71,697,030",Thailand,Machine_Learning,1,0
-"71,697,030",Thailand,All,1,0
-"71,697,030",Thailand,Business,1,0
-"12,356,117",Tunisia,Life_Sciences,1,1
-"12,356,117",Tunisia,Analytics_and_Algorithms,1,1
-"12,356,117",Tunisia,Agricultural,1,0
-"12,356,117",Tunisia,Personal_Devices_and_Computing,1,1
-"38,000,000",Ukraine,Industrial_and_Manufacturing,1,1
-"38,000,000",Ukraine,Knowledge_Representation,1,1
-"38,000,000",Ukraine,Physical_Sciences_and_Engineering,1,1
-"38,000,000",Ukraine,Ontology_Engineering,1,1
-"38,000,000",Ukraine,Logic_Programming,1,1
-"38,000,000",Ukraine,Agricultural,1,1
-"38,000,000",Ukraine,Control,1,0
-"38,000,000",Ukraine,Probabilistic_Reasoning,1,1
-"3,422,794",Uruguay,Fuzzy_Logic,1,1
-"3,422,794",Uruguay,Analytics_and_Algorithms,1,1
-"3,422,794",Uruguay,Telecommunications,1,0
-"3,422,794",Uruguay,Computer_Vision,1,1
-"3,422,794",Uruguay,Measuring_and_Testing,1,0
-"3,422,794",Uruguay,Energy_Management,1,0
-"3,422,794",Uruguay,Banking_and_Finance,1,0
-"3,422,794",Uruguay,Personal_Devices_and_Computing,1,1
-"3,422,794",Uruguay,Generic_and_Unspecified,1,0
-"46,234,830",Argentina,Energy_Management,2,1
-"46,234,830",Argentina,Security__eg_cybersecurity,2,0
-"46,234,830",Argentina,Banking_and_Finance,2,0
-"9,042,528",Austria,Agricultural,2,2
-"11,669,446",Belgium,Energy_Management,2,2
-"11,669,446",Belgium,Fuzzy_Logic,2,2
-"6,465,097",Bulgaria,Banking_and_Finance,2,2
-"6,465,097",Bulgaria,Logic_Programming,2,2
-"6,465,097",Bulgaria,Energy_Management,2,1
-"6,465,097",Bulgaria,Measuring_and_Testing,2,2
-"6,465,097",Bulgaria,Industrial_and_Manufacturing,2,2
-"6,465,097",Bulgaria,Planning_and_Scheduling,2,2
-"19,603,733",Chile,Transportation,2,1
-"19,603,733",Chile,Telecommunications,2,0
-"19,603,733",Chile,Physical_Sciences_and_Engineering,2,1
-"19,603,733",Chile,Generic_and_Unspecified,2,0
-"19,603,733",Chile,Logic_Programming,2,1
-"19,603,733",Chile,Life_Sciences,2,0
-"51,874,024",Colombia,Personal_Devices_and_Computing,2,0
-"51,874,024",Colombia,Telecommunications,2,1
-"51,874,024",Colombia,Analytics_and_Algorithms,2,0
-"5,180,829",Costa Rica,All,2,1
-"3,854,000",Croatia,Control,2,2
-"3,854,000",Croatia,Computer_Vision,2,2
-"3,854,000",Croatia,Physical_Sciences_and_Engineering,2,1
-"3,854,000",Croatia,Industrial_and_Manufacturing,2,2
-"10,526,073",Czech Republic,Personal_Devices_and_Computing,2,2
-"10,526,073",Czech Republic,Transportation,2,2
-"10,526,073",Czech Republic,Business,2,2
-"10,526,073",Czech Republic,Analytics_and_Algorithms,2,1
-"10,526,073",Czech Republic,Logic_Programming,2,2
-"10,526,073",Czech Republic,Life_Sciences,2,1
-"10,526,073",Czech Republic,Telecommunications,2,1
-"10,566,531",Greece,Transportation,2,2
-"275,501,339",Indonesia,Telecommunications,2,1
-"275,501,339",Indonesia,All,2,1
-"275,501,339",Indonesia,Machine_Learning,2,1
-"275,501,339",Indonesia,Banking_and_Finance,2,1
-"275,501,339",Indonesia,Personal_Devices_and_Computing,2,1
-"5,086,988",Republic of Ireland,Personal_Devices_and_Computing,2,1
-"5,086,988",Republic of Ireland,Planning_and_Scheduling,2,0
-"5,086,988",Republic of Ireland,Business,2,0
-"11,285,869",Jordan,Industrial_and_Manufacturing,2,1
-"1,883,379",Latvia,Machine_Learning,2,1
-"1,883,379",Latvia,All,2,1
-"2,833,000",Lithuania,Control,2,2
-"2,833,000",Lithuania,Security__eg_cybersecurity,2,2
-"2,833,000",Lithuania,Energy_Management,2,2
-"2,833,000",Lithuania,Industrial_and_Manufacturing,2,2
-"2,833,000",Lithuania,Logic_Programming,2,2
-"33,938,221",Malaysia,Speech_Processing,2,2
-"37,457,971",Morocco,Banking_and_Finance,2,1
-"37,457,971",Morocco,Ontology_Engineering,2,0
-"37,457,971",Morocco,Probabilistic_Reasoning,2,1
-"37,457,971",Morocco,Industrial_and_Manufacturing,2,2
-"37,457,971",Morocco,Energy_Management,2,1
-"17,942,942",Netherlands,Fuzzy_Logic,2,1
-"5,457,127",Norway,Security__eg_cybersecurity,2,2
-"4,408,581",Panama,Generic_and_Unspecified,2,0
-"4,408,581",Panama,All,2,0
-"34,049,588",Peru,Energy_Management,2,1
-"34,049,588",Peru,Agricultural,2,2
-"115,559,009",Philippines,Fuzzy_Logic,2,0
-"37,561,599",Poland,Fuzzy_Logic,2,1
-"37,561,599",Poland,Speech_Processing,2,2
-"18,956,666",Romania,Physical_Sciences_and_Engineering,2,1
-"18,956,666",Romania,Energy_Management,2,0
-"18,956,666",Romania,Life_Sciences,2,2
-"18,956,666",Romania,Telecommunications,2,2
-"18,956,666",Romania,Business,2,1
-"33,660",San Marino,Machine_Learning,2,2
-"36,408,820",Saudi Arabia,Industrial_and_Manufacturing,2,1
-"6,760,087",Serbia,Agricultural,2,1
-"6,760,087",Serbia,Life_Sciences,2,1
-"6,760,087",Serbia,Transportation,2,2
-"6,760,087",Serbia,Probabilistic_Reasoning,2,0
-"5,431,752",Slovakia,Generic_and_Unspecified,2,0
-"5,431,752",Slovakia,Industrial_and_Manufacturing,2,0
-"2,108,732",Slovenia,Physical_Sciences_and_Engineering,2,1
-"59,893,885",South Africa,Telecommunications,2,0
-"59,893,885",South Africa,Energy_Management,2,1
-"59,893,885",South Africa,Physical_Sciences_and_Engineering,2,1
-"10,486,941",Sweden,Knowledge_Representation,2,2
-"8,769,741",Switzerland,Measuring_and_Testing,2,1
-"8,769,741",Switzerland,Speech_Processing,2,1
-"8,769,741",Switzerland,Agricultural,2,0
-"8,769,741",Switzerland,Knowledge_Representation,2,1
-"8,769,741",Switzerland,Probabilistic_Reasoning,2,2
-"12,356,117",Tunisia,Telecommunications,2,1
-"12,356,117",Tunisia,Security__eg_cybersecurity,2,0
-"12,356,117",Tunisia,Control,2,0
-"85,341,241",Turkey,Knowledge_Representation,2,0
-"38,000,000",Ukraine,Life_Sciences,2,1
-"38,000,000",Ukraine,Computer_Vision,2,1
-"38,000,000",Ukraine,Personal_Devices_and_Computing,2,1
-"3,422,794",Uruguay,Machine_Learning,2,1
-"46,234,830",Argentina,Probabilistic_Reasoning,3,1
-"46,234,830",Argentina,Control,3,2
-"46,234,830",Argentina,Industrial_and_Manufacturing,3,1
-"9,042,528",Austria,Logic_Programming,3,2
-"9,042,528",Austria,Banking_and_Finance,3,2
-"9,042,528",Austria,Knowledge_Representation,3,2
-"9,042,528",Austria,Probabilistic_Reasoning,3,3
-"11,669,446",Belgium,Speech_Processing,3,3
-"6,465,097",Bulgaria,Business,3,3
-"19,603,733",Chile,Personal_Devices_and_Computing,3,0
-"19,603,733",Chile,Measuring_and_Testing,3,0
-"51,874,024",Colombia,Control,3,0
-"51,874,024",Colombia,Physical_Sciences_and_Engineering,3,1
-"51,874,024",Colombia,Planning_and_Scheduling,3,0
-"51,874,024",Colombia,Probabilistic_Reasoning,3,1
-"3,854,000",Croatia,Generic_and_Unspecified,3,2
-"5,903,037",Denmark,Banking_and_Finance,3,3
-"10,566,531",Greece,Ontology_Engineering,3,3
-"10,566,531",Greece,Security__eg_cybersecurity,3,2
-"9,683,505",Hungary,Agricultural,3,2
-"9,550,600",Israel,Knowledge_Representation,3,1
-"9,550,600",Israel,Banking_and_Finance,3,1
-"58,856,847",Italy,Ontology_Engineering,3,1
-"58,856,847",Italy,Fuzzy_Logic,3,2
-"11,285,869",Jordan,Machine_Learning,3,1
-"33,938,221",Malaysia,Fuzzy_Logic,3,3
-"33,938,221",Malaysia,Agricultural,3,3
-"37,457,971",Morocco,Physical_Sciences_and_Engineering,3,2
-"37,457,971",Morocco,Security__eg_cybersecurity,3,3
-"17,942,942",Netherlands,Banking_and_Finance,3,3
-"17,942,942",Netherlands,Speech_Processing,3,3
-"5,124,100",New Zealand,Banking_and_Finance,3,3
-"5,124,100",New Zealand,Transportation,3,3
-"5,457,127",Norway,Banking_and_Finance,3,3
-"5,457,127",Norway,Logic_Programming,3,2
-"34,049,588",Peru,Security__eg_cybersecurity,3,2
-"34,049,588",Peru,Logic_Programming,3,1
-"115,559,009",Philippines,Ontology_Engineering,3,1
-"115,559,009",Philippines,Security__eg_cybersecurity,3,2
-"115,559,009",Philippines,Speech_Processing,3,1
-"115,559,009",Philippines,Transportation,3,3
-"115,559,009",Philippines,Knowledge_Representation,3,3
-"115,559,009",Philippines,Control,3,2
-"115,559,009",Philippines,Industrial_and_Manufacturing,3,2
-"18,956,666",Romania,Control,3,2
-"143,555,736",Russia,Energy_Management,3,2
-"33,660",San Marino,All,3,2
-"36,408,820",Saudi Arabia,Machine_Learning,3,2
-"36,408,820",Saudi Arabia,Generic_and_Unspecified,3,2
-"6,760,087",Serbia,Measuring_and_Testing,3,1
-"6,760,087",Serbia,Computer_Vision,3,2
-"6,760,087",Serbia,Industrial_and_Manufacturing,3,3
-"2,108,732",Slovenia,Measuring_and_Testing,3,2
-"2,108,732",Slovenia,Telecommunications,3,3
-"2,108,732",Slovenia,Control,3,3
-"2,108,732",Slovenia,Personal_Devices_and_Computing,3,3
-"59,893,885",South Africa,Computer_Vision,3,3
-"59,893,885",South Africa,Ontology_Engineering,3,3
-"59,893,885",South Africa,Fuzzy_Logic,3,3
-"10,486,941",Sweden,Fuzzy_Logic,3,2
-"8,769,741",Switzerland,Telecommunications,3,2
-"8,769,741",Switzerland,Physical_Sciences_and_Engineering,3,2
-"85,341,241",Turkey,Probabilistic_Reasoning,3,0
-"38,000,000",Ukraine,Fuzzy_Logic,3,3
-"3,422,794",Uruguay,Industrial_and_Manufacturing,3,2
-"3,422,794",Uruguay,Agricultural,3,2
-"46,234,830",Argentina,Logic_Programming,4,3
-"9,042,528",Austria,Security__eg_cybersecurity,4,1
-"11,669,446",Belgium,Agricultural,4,4
-"11,669,446",Belgium,Security__eg_cybersecurity,4,2
-"6,465,097",Bulgaria,Control,4,3
-"51,874,024",Colombia,Computer_Vision,4,0
-"51,874,024",Colombia,Business,4,0
-"3,854,000",Croatia,Measuring_and_Testing,4,3
-"10,526,073",Czech Republic,Control,4,3
-"10,526,073",Czech Republic,Generic_and_Unspecified,4,2
-#FIELD!,Eurasian Patent Organization,Computer_Vision,4,2
-#FIELD!,Eurasian Patent Organization,Analytics_and_Algorithms,4,3
-"5,556,880",Finland,Banking_and_Finance,4,0
-"5,556,880",Finland,Agricultural,4,1
-"5,556,880",Finland,Ontology_Engineering,4,3
-"10,566,531",Greece,Industrial_and_Manufacturing,4,3
-"10,566,531",Greece,Agricultural,4,4
-"10,566,531",Greece,Probabilistic_Reasoning,4,2
-"9,683,505",Hungary,Speech_Processing,4,3
-"9,683,505",Hungary,Transportation,4,4
-"9,683,505",Hungary,Logic_Programming,4,3
-"9,550,600",Israel,Ontology_Engineering,4,4
-"11,285,869",Jordan,All,4,2
-"2,833,000",Lithuania,Analytics_and_Algorithms,4,4
-"2,833,000",Lithuania,Measuring_and_Testing,4,2
-"2,833,000",Lithuania,Physical_Sciences_and_Engineering,4,2
-"33,938,221",Malaysia,Energy_Management,4,4
-"37,457,971",Morocco,Agricultural,4,2
-"37,457,971",Morocco,Analytics_and_Algorithms,4,4
-"37,457,971",Morocco,Control,4,4
-"17,942,942",Netherlands,Security__eg_cybersecurity,4,4
-"5,124,100",New Zealand,Logic_Programming,4,3
-"5,124,100",New Zealand,Knowledge_Representation,4,3
-"5,124,100",New Zealand,Ontology_Engineering,4,4
-"5,124,100",New Zealand,Industrial_and_Manufacturing,4,3
-"5,124,100",New Zealand,Energy_Management,4,2
-"5,457,127",Norway,Planning_and_Scheduling,4,3
-"5,457,127",Norway,Probabilistic_Reasoning,4,3
-"115,559,009",Philippines,Logic_Programming,4,4
-"115,559,009",Philippines,Analytics_and_Algorithms,4,2
-"37,561,599",Poland,Banking_and_Finance,4,4
-"10,379,007",Portugal,Security__eg_cybersecurity,4,3
-"10,379,007",Portugal,Planning_and_Scheduling,4,2
-"10,379,007",Portugal,Physical_Sciences_and_Engineering,4,3
-"10,379,007",Portugal,Probabilistic_Reasoning,4,3
-"10,379,007",Portugal,Business,4,2
-"10,379,007",Portugal,Knowledge_Representation,4,3
-"10,379,007",Portugal,Agricultural,4,2
-"10,379,007",Portugal,Transportation,4,4
-"18,956,666",Romania,Ontology_Engineering,4,0
-"18,956,666",Romania,Computer_Vision,4,3
-"18,956,666",Romania,Probabilistic_Reasoning,4,1
-"6,760,087",Serbia,Control,4,4
-"5,637,022",Singapore,Fuzzy_Logic,4,3
-"2,108,732",Slovenia,Analytics_and_Algorithms,4,4
-"8,769,741",Switzerland,Transportation,4,2
-"8,769,741",Switzerland,Analytics_and_Algorithms,4,2
-"12,356,117",Tunisia,Generic_and_Unspecified,4,1
-"12,356,117",Tunisia,Machine_Learning,4,1
-"85,341,241",Turkey,Speech_Processing,4,0
-"3,422,794",Uruguay,All,4,2
-"9,042,528",Austria,Planning_and_Scheduling,5,4
-"11,669,446",Belgium,Transportation,5,4
-"6,465,097",Bulgaria,Life_Sciences,5,5
-"51,874,024",Colombia,Measuring_and_Testing,5,1
-"51,874,024",Colombia,Generic_and_Unspecified,5,0
-"10,526,073",Czech Republic,Measuring_and_Testing,5,3
-"5,903,037",Denmark,Energy_Management,5,5
-"5,903,037",Denmark,Logic_Programming,5,5
-#FIELD!,Eurasian Patent Organization,Generic_and_Unspecified,5,3
-"10,566,531",Greece,Physical_Sciences_and_Engineering,5,3
-"10,566,531",Greece,Energy_Management,5,4
-"10,566,531",Greece,Speech_Processing,5,4
-"9,683,505",Hungary,Probabilistic_Reasoning,5,5
-"9,683,505",Hungary,Security__eg_cybersecurity,5,4
-"1,417,173,173",India,Agricultural,5,4
-#FIELD!,International Bureau of WIPO,Industrial_and_Manufacturing,5,2
-#FIELD!,International Bureau of WIPO,Probabilistic_Reasoning,5,2
-"9,550,600",Israel,Agricultural,5,2
-"58,856,847",Italy,Knowledge_Representation,5,2
-"33,938,221",Malaysia,Industrial_and_Manufacturing,5,5
-"33,938,221",Malaysia,Knowledge_Representation,5,4
-"127,504,125",Mexico,Fuzzy_Logic,5,2
-"37,457,971",Morocco,Planning_and_Scheduling,5,5
-"37,457,971",Morocco,Life_Sciences,5,2
-"5,124,100",New Zealand,Physical_Sciences_and_Engineering,5,3
-"5,457,127",Norway,Business,5,3
-"34,049,588",Peru,Industrial_and_Manufacturing,5,2
-"34,049,588",Peru,Life_Sciences,5,4
-"34,049,588",Peru,Control,5,4
-"34,049,588",Peru,Analytics_and_Algorithms,5,3
-"115,559,009",Philippines,Agricultural,5,5
-"115,559,009",Philippines,Physical_Sciences_and_Engineering,5,3
-"2,108,732",Slovenia,Generic_and_Unspecified,5,4
-"2,108,732",Slovenia,Computer_Vision,5,5
-"2,108,732",Slovenia,Life_Sciences,5,4
-"59,893,885",South Africa,Probabilistic_Reasoning,5,5
-"10,486,941",Sweden,Speech_Processing,5,4
-"8,769,741",Switzerland,Planning_and_Scheduling,5,1
-"8,769,741",Switzerland,Control,5,2
-"8,769,741",Switzerland,Logic_Programming,5,2
-"8,769,741",Switzerland,Banking_and_Finance,5,2
-"8,769,741",Switzerland,Industrial_and_Manufacturing,5,3
-"8,769,741",Switzerland,Computer_Vision,5,2
-"85,341,241",Turkey,Fuzzy_Logic,5,0
-"38,000,000",Ukraine,Generic_and_Unspecified,5,5
-"46,234,830",Argentina,Analytics_and_Algorithms,6,3
-"9,042,528",Austria,Business,6,5
-"9,042,528",Austria,Telecommunications,6,4
-"11,669,446",Belgium,Telecommunications,6,5
-"11,669,446",Belgium,Business,6,6
-"11,669,446",Belgium,Planning_and_Scheduling,6,6
-"3,854,000",Croatia,Machine_Learning,6,4
-"5,556,880",Finland,Transportation,6,4
-"10,566,531",Greece,Control,6,6
-"9,683,505",Hungary,Energy_Management,6,6
-"9,683,505",Hungary,Analytics_and_Algorithms,6,5
-"9,683,505",Hungary,Banking_and_Finance,6,5
-"9,550,600",Israel,Speech_Processing,6,1
-"2,833,000",Lithuania,Personal_Devices_and_Computing,6,6
-"2,833,000",Lithuania,Computer_Vision,6,6
-"2,833,000",Lithuania,Telecommunications,6,6
-"650,774",Luxembourg,Banking_and_Finance,6,6
-"33,938,221",Malaysia,Ontology_Engineering,6,6
-"33,938,221",Malaysia,Analytics_and_Algorithms,6,6
-"127,504,125",Mexico,Ontology_Engineering,6,4
-"37,457,971",Morocco,Telecommunications,6,6
-"37,457,971",Morocco,Business,6,6
-"5,124,100",New Zealand,Business,6,4
-"5,124,100",New Zealand,Planning_and_Scheduling,6,4
-"5,124,100",New Zealand,Probabilistic_Reasoning,6,5
-"5,124,100",New Zealand,Security__eg_cybersecurity,6,4
-"5,124,100",New Zealand,Agricultural,6,6
-"5,124,100",New Zealand,Speech_Processing,6,6
-"5,457,127",Norway,Energy_Management,6,3
-"5,457,127",Norway,Computer_Vision,6,3
-"5,457,127",Norway,Life_Sciences,6,4
-"34,049,588",Peru,Planning_and_Scheduling,6,3
-"34,049,588",Peru,Business,6,3
-"34,049,588",Peru,Banking_and_Finance,6,4
-"115,559,009",Philippines,Life_Sciences,6,5
-"37,561,599",Poland,Knowledge_Representation,6,4
-"10,379,007",Portugal,Logic_Programming,6,5
-"10,379,007",Portugal,Industrial_and_Manufacturing,6,6
-"36,408,820",Saudi Arabia,All,6,4
-"5,637,022",Singapore,Energy_Management,6,6
-"5,637,022",Singapore,Agricultural,6,5
-"59,893,885",South Africa,Planning_and_Scheduling,6,4
-"59,893,885",South Africa,Business,6,4
-"47,615,034",Spain,Ontology_Engineering,6,5
-"8,769,741",Switzerland,Life_Sciences,6,4
-"8,769,741",Switzerland,Business,6,1
-"8,769,741",Switzerland,Generic_and_Unspecified,6,2
-"85,341,241",Turkey,Energy_Management,6,0
-"11,669,446",Belgium,Analytics_and_Algorithms,7,7
-"11,669,446",Belgium,Control,7,5
-"6,465,097",Bulgaria,Personal_Devices_and_Computing,7,7
-"5,903,037",Denmark,Probabilistic_Reasoning,7,7
-"5,903,037",Denmark,Agricultural,7,7
-"5,556,880",Finland,Probabilistic_Reasoning,7,5
-"67,749,632",France,Agricultural,7,5
-"10,566,531",Greece,Analytics_and_Algorithms,7,5
-"9,683,505",Hungary,Physical_Sciences_and_Engineering,7,6
-"650,774",Luxembourg,Agricultural,7,7
-"650,774",Luxembourg,Knowledge_Representation,7,7
-"33,938,221",Malaysia,Probabilistic_Reasoning,7,7
-"33,938,221",Malaysia,Transportation,7,7
-"33,938,221",Malaysia,Banking_and_Finance,7,7
-"37,457,971",Morocco,Generic_and_Unspecified,7,2
-"37,457,971",Morocco,Measuring_and_Testing,7,5
-"17,942,942",Netherlands,Knowledge_Representation,7,7
-"5,124,100",New Zealand,Control,7,6
-"5,457,127",Norway,Industrial_and_Manufacturing,7,6
-"6,760,087",Serbia,Generic_and_Unspecified,7,0
-"59,893,885",South Africa,Personal_Devices_and_Computing,7,5
-"85,341,241",Turkey,Physical_Sciences_and_Engineering,7,0
-"9,042,528",Austria,Industrial_and_Manufacturing,8,5
-"9,042,528",Austria,Generic_and_Unspecified,8,6
-"11,669,446",Belgium,Life_Sciences,8,8
-"11,669,446",Belgium,Generic_and_Unspecified,8,6
-"11,669,446",Belgium,Physical_Sciences_and_Engineering,8,8
-"215,313,498",Brazil,Fuzzy_Logic,8,4
-"5,903,037",Denmark,Security__eg_cybersecurity,8,8
-"5,903,037",Denmark,Planning_and_Scheduling,8,7
-"5,556,880",Finland,Fuzzy_Logic,8,4
-"5,556,880",Finland,Knowledge_Representation,8,4
-"10,566,531",Greece,Planning_and_Scheduling,8,7
-"10,566,531",Greece,Telecommunications,8,7
-"9,683,505",Hungary,Planning_and_Scheduling,8,8
-#FIELD!,International Bureau of WIPO,Business,8,3
-"5,086,988",Republic of Ireland,All,8,5
-"58,856,847",Italy,Speech_Processing,8,3
-"2,833,000",Lithuania,Life_Sciences,8,7
-"650,774",Luxembourg,Ontology_Engineering,8,8
-"33,938,221",Malaysia,Physical_Sciences_and_Engineering,8,8
-"17,942,942",Netherlands,Probabilistic_Reasoning,8,8
-"5,124,100",New Zealand,Analytics_and_Algorithms,8,8
-"5,457,127",Norway,Agricultural,8,6
-"5,457,127",Norway,Analytics_and_Algorithms,8,6
-"5,457,127",Norway,Telecommunications,8,8
-"5,457,127",Norway,Physical_Sciences_and_Engineering,8,6
-"34,049,588",Peru,Telecommunications,8,6
-"34,049,588",Peru,Personal_Devices_and_Computing,8,8
-"115,559,009",Philippines,Planning_and_Scheduling,8,7
-"37,561,599",Poland,Security__eg_cybersecurity,8,6
-"37,561,599",Poland,Energy_Management,8,6
-"37,561,599",Poland,Agricultural,8,6
-"10,379,007",Portugal,Measuring_and_Testing,8,6
-"2,108,732",Slovenia,Machine_Learning,8,8
-"12,356,117",Tunisia,All,8,2
-"46,234,830",Argentina,Planning_and_Scheduling,9,7
-"46,234,830",Argentina,Life_Sciences,9,3
-"11,669,446",Belgium,Personal_Devices_and_Computing,9,8
-"11,669,446",Belgium,Measuring_and_Testing,9,7
-"11,669,446",Belgium,Industrial_and_Manufacturing,9,9
-"19,603,733",Chile,Machine_Learning,9,1
-"3,854,000",Croatia,All,9,6
-"5,903,037",Denmark,Physical_Sciences_and_Engineering,9,7
-"5,556,880",Finland,Speech_Processing,9,4
-"9,683,505",Hungary,Business,9,8
-"1,417,173,173",India,Energy_Management,9,4
-"9,550,600",Israel,Physical_Sciences_and_Engineering,9,1
-"650,774",Luxembourg,Transportation,9,8
-"33,938,221",Malaysia,Security__eg_cybersecurity,9,9
-"17,942,942",Netherlands,Logic_Programming,9,9
-"17,942,942",Netherlands,Agricultural,9,9
-"17,942,942",Netherlands,Energy_Management,9,9
-"10,379,007",Portugal,Control,9,9
-"47,615,034",Spain,Fuzzy_Logic,9,7
-"10,486,941",Sweden,Logic_Programming,9,6
-"46,234,830",Argentina,Business,10,7
-"46,234,830",Argentina,Personal_Devices_and_Computing,10,6
-"51,874,024",Colombia,Life_Sciences,10,1
-"5,903,037",Denmark,Business,10,9
-"5,556,880",Finland,Energy_Management,10,7
-"9,683,505",Hungary,Control,10,10
-"9,683,505",Hungary,Industrial_and_Manufacturing,10,10
-"9,550,600",Israel,Probabilistic_Reasoning,10,5
-"9,550,600",Israel,Industrial_and_Manufacturing,10,5
-"2,833,000",Lithuania,Generic_and_Unspecified,10,9
-"37,457,971",Morocco,Computer_Vision,10,10
-"17,942,942",Netherlands,Ontology_Engineering,10,10
-"115,559,009",Philippines,Measuring_and_Testing,10,7
-"37,561,599",Poland,Planning_and_Scheduling,10,8
-"37,561,599",Poland,Physical_Sciences_and_Engineering,10,9
-"9,042,528",Austria,Physical_Sciences_and_Engineering,11,8
-"11,669,446",Belgium,Computer_Vision,11,11
-"19,603,733",Chile,All,11,1
-"10,526,073",Czech Republic,Machine_Learning,11,9
-"9,550,600",Israel,Planning_and_Scheduling,11,6
-"33,938,221",Malaysia,Logic_Programming,11,10
-"17,942,942",Netherlands,Transportation,11,11
-"17,942,942",Netherlands,Physical_Sciences_and_Engineering,11,11
-"5,457,127",Norway,Transportation,11,8
-"34,049,588",Peru,Measuring_and_Testing,11,6
-"34,049,588",Peru,Generic_and_Unspecified,11,9
-"115,559,009",Philippines,Probabilistic_Reasoning,11,8
-"115,559,009",Philippines,Banking_and_Finance,11,6
-"115,559,009",Philippines,Business,11,9
-"143,555,736",Russia,Agricultural,11,11
-"46,234,830",Argentina,Telecommunications,12,3
-"6,465,097",Bulgaria,Machine_Learning,12,12
-"51,874,024",Colombia,Machine_Learning,12,2
-"10,566,531",Greece,Generic_and_Unspecified,12,7
-"10,566,531",Greece,Measuring_and_Testing,12,10
-"10,566,531",Greece,Business,12,10
-"1,417,173,173",India,Fuzzy_Logic,12,9
-"17,942,942",Netherlands,Industrial_and_Manufacturing,12,12
-"5,124,100",New Zealand,Telecommunications,12,11
-"5,457,127",Norway,Control,12,8
-"34,049,588",Peru,Computer_Vision,12,8
-"37,561,599",Poland,Logic_Programming,12,10
-"37,561,599",Poland,Transportation,12,12
-"10,379,007",Portugal,Analytics_and_Algorithms,12,8
-"85,341,241",Turkey,Logic_Programming,12,2
-"46,234,830",Argentina,Generic_and_Unspecified,13,4
-"46,234,830",Argentina,Computer_Vision,13,7
-"5,903,037",Denmark,Industrial_and_Manufacturing,13,11
-"5,903,037",Denmark,Speech_Processing,13,12
-"9,550,600",Israel,Logic_Programming,13,7
-"37,457,971",Morocco,Personal_Devices_and_Computing,13,8
-"5,457,127",Norway,Generic_and_Unspecified,13,10
-"34,049,588",Peru,Physical_Sciences_and_Engineering,13,7
-"115,559,009",Philippines,Telecommunications,13,6
-"10,486,941",Sweden,Banking_and_Finance,13,11
-"10,486,941",Sweden,Planning_and_Scheduling,13,7
-"9,042,528",Austria,Life_Sciences,14,9
-"215,313,498",Brazil,Ontology_Engineering,14,9
-"67,749,632",France,Fuzzy_Logic,14,10
-"9,683,505",Hungary,Telecommunications,14,12
-"1,417,173,173",India,Physical_Sciences_and_Engineering,14,8
-"58,856,847",Italy,Logic_Programming,14,6
-"650,774",Luxembourg,Logic_Programming,14,14
-"33,938,221",Malaysia,Measuring_and_Testing,14,13
-"33,938,221",Malaysia,Planning_and_Scheduling,14,13
-"17,942,942",Netherlands,Planning_and_Scheduling,14,14
-"5,457,127",Norway,Personal_Devices_and_Computing,14,10
-"5,637,022",Singapore,Ontology_Engineering,14,6
-"2,108,732",Slovenia,All,14,13
-"10,486,941",Sweden,Business,14,7
-"10,486,941",Sweden,Energy_Management,14,10
-"8,769,741",Switzerland,Personal_Devices_and_Computing,14,5
-"9,042,528",Austria,Analytics_and_Algorithms,15,10
-"9,550,600",Israel,Business,15,6
-"2,833,000",Lithuania,Machine_Learning,15,14
-"650,774",Luxembourg,Fuzzy_Logic,15,14
-"127,504,125",Mexico,Knowledge_Representation,15,7
-"5,457,127",Norway,Measuring_and_Testing,15,12
-"37,561,599",Poland,Business,15,11
-"37,561,599",Poland,Probabilistic_Reasoning,15,15
-"5,637,022",Singapore,Speech_Processing,15,11
-"10,486,941",Sweden,Agricultural,15,10
-"10,486,941",Sweden,Probabilistic_Reasoning,15,10
-"10,486,941",Sweden,Security__eg_cybersecurity,15,12
-"9,042,528",Austria,Computer_Vision,16,14
-"10,526,073",Czech Republic,All,16,12
-"5,556,880",Finland,Physical_Sciences_and_Engineering,16,10
-"5,556,880",Finland,Security__eg_cybersecurity,16,9
-"9,683,505",Hungary,Measuring_and_Testing,16,13
-"58,856,847",Italy,Probabilistic_Reasoning,16,8
-"58,856,847",Italy,Banking_and_Finance,16,6
-"650,774",Luxembourg,Industrial_and_Manufacturing,16,15
-"127,504,125",Mexico,Speech_Processing,16,9
-"10,379,007",Portugal,Generic_and_Unspecified,16,9
-"10,379,007",Portugal,Telecommunications,16,14
-"10,486,941",Sweden,Physical_Sciences_and_Engineering,16,12
-"85,341,241",Turkey,Industrial_and_Manufacturing,16,2
-"46,234,830",Argentina,Measuring_and_Testing,17,6
-"5,903,037",Denmark,Transportation,17,17
-"650,774",Luxembourg,Probabilistic_Reasoning,17,17
-"33,938,221",Malaysia,Control,17,17
-"33,938,221",Malaysia,Life_Sciences,17,17
-"17,942,942",Netherlands,Control,17,17
-"5,124,100",New Zealand,Measuring_and_Testing,17,15
-"47,615,034",Spain,Banking_and_Finance,17,15
-"85,341,241",Turkey,Agricultural,17,0
-"51,874,024",Colombia,All,18,2
-"10,566,531",Greece,Life_Sciences,18,14
-"9,683,505",Hungary,Life_Sciences,18,13
-"650,774",Luxembourg,Physical_Sciences_and_Engineering,18,18
-"650,774",Luxembourg,Energy_Management,18,17
-"33,938,221",Malaysia,Telecommunications,18,18
-"33,938,221",Malaysia,Business,18,17
-"5,124,100",New Zealand,Computer_Vision,18,18
-"5,124,100",New Zealand,Generic_and_Unspecified,18,15
-"46,234,830",Argentina,Agricultural,19,11
-"46,234,830",Argentina,Physical_Sciences_and_Engineering,19,9
-"5,556,880",Finland,Logic_Programming,19,9
-"67,749,632",France,Ontology_Engineering,19,14
-"9,683,505",Hungary,Generic_and_Unspecified,19,13
-"33,938,221",Malaysia,Computer_Vision,19,19
-"17,942,942",Netherlands,Business,19,19
-"10,379,007",Portugal,Life_Sciences,19,12
-"5,637,022",Singapore,Industrial_and_Manufacturing,19,17
-"47,615,034",Spain,Knowledge_Representation,19,17
-"85,341,241",Turkey,Transportation,19,1
-"5,556,880",Finland,Industrial_and_Manufacturing,22,15
-"10,566,531",Greece,Computer_Vision,22,19
-"9,550,600",Israel,Control,22,12
-"127,504,125",Mexico,Energy_Management,22,16
-"37,457,971",Morocco,Machine_Learning,22,16
-"17,942,942",Netherlands,Generic_and_Unspecified,22,21
-"5,124,100",New Zealand,Personal_Devices_and_Computing,22,21
-"10,379,007",Portugal,Computer_Vision,22,19
-"5,903,037",Denmark,Generic_and_Unspecified,29,27
-"67,749,632",France,Speech_Processing,29,16
-"58,856,847",Italy,Security__eg_cybersecurity,29,8
-"650,774",Luxembourg,Analytics_and_Algorithms,29,29
-"127,504,125",Mexico,Security__eg_cybersecurity,29,20
-"143,555,736",Russia,Banking_and_Finance,29,25
-"143,555,736",Russia,Industrial_and_Manufacturing,29,28
-"11,669,446",Belgium,Machine_Learning,30,27
-"5,556,880",Finland,Business,30,13
-"37,457,971",Morocco,All,30,18
-"143,555,736",Russia,Speech_Processing,30,27
-"6,760,087",Serbia,Machine_Learning,30,5
-"47,615,034",Spain,Agricultural,30,27
-"10,486,941",Sweden,Life_Sciences,30,22
-"10,486,941",Sweden,Analytics_and_Algorithms,30,23
-"38,000,000",Ukraine,Machine_Learning,30,28
-"9,042,528",Austria,Control,42,32
-"6,465,097",Bulgaria,Generic_and_Unspecified,42,37
-"5,903,037",Denmark,Telecommunications,42,39
-"5,556,880",Finland,Measuring_and_Testing,42,26
-"58,856,847",Italy,Transportation,42,27
-"650,774",Luxembourg,Business,42,42
-"17,942,942",Netherlands,Life_Sciences,42,41
-"10,379,007",Portugal,Machine_Learning,42,33
-"47,615,034",Spain,Energy_Management,42,33
+﻿population (millions),country,field,num_patent_applications,num_patent_granted
+46234830,Argentina,All,56,25
+46234830,Argentina,Machine_Learning,44,20
+25978935,Australia,Industrial_and_Manufacturing,274,197
+25978935,Australia,Knowledge_Representation,187,138
+25978935,Australia,Generic_and_Unspecified,959,606
+25978935,Australia,Agricultural,237,172
+25978935,Australia,Fuzzy_Logic,92,83
+25978935,Australia,Speech_Processing,140,106
+25978935,Australia,Transportation,219,183
+25978935,Australia,Telecommunications,813,605
+25978935,Australia,Logic_Programming,355,265
+25978935,Australia,Personal_Devices_and_Computing,1658,1263
+25978935,Australia,Probabilistic_Reasoning,261,180
+25978935,Australia,Banking_and_Finance,263,176
+25978935,Australia,Ontology_Engineering,90,70
+25978935,Australia,Energy_Management,168,125
+25978935,Australia,Control,472,361
+25978935,Australia,Machine_Learning,3652,2494
+25978935,Australia,Planning_and_Scheduling,487,305
+25978935,Australia,Life_Sciences,1703,982
+25978935,Australia,Physical_Sciences_and_Engineering,296,207
+25978935,Australia,Security__eg_cybersecurity,376,284
+25978935,Australia,Business,651,413
+25978935,Australia,Computer_Vision,1144,831
+25978935,Australia,Analytics_and_Algorithms,816,497
+25978935,Australia,All,4721,3212
+25978935,Australia,Measuring_and_Testing,737,503
+9042528,Austria,Energy_Management,23,15
+9042528,Austria,All,84,62
+9042528,Austria,Measuring_and_Testing,26,20
+9042528,Austria,Transportation,28,21
+9042528,Austria,Machine_Learning,74,54
+9042528,Austria,Personal_Devices_and_Computing,26,20
+11669446,Belgium,All,40,35
+215313498,Brazil,Personal_Devices_and_Computing,267,205
+215313498,Brazil,Logic_Programming,75,50
+215313498,Brazil,Planning_and_Scheduling,87,57
+215313498,Brazil,Knowledge_Representation,32,20
+215313498,Brazil,Probabilistic_Reasoning,45,32
+215313498,Brazil,Banking_and_Finance,33,24
+215313498,Brazil,Machine_Learning,600,439
+215313498,Brazil,Physical_Sciences_and_Engineering,80,52
+215313498,Brazil,Generic_and_Unspecified,180,110
+215313498,Brazil,Computer_Vision,198,160
+215313498,Brazil,Analytics_and_Algorithms,111,76
+215313498,Brazil,Measuring_and_Testing,197,144
+215313498,Brazil,All,797,551
+215313498,Brazil,Speech_Processing,27,18
+215313498,Brazil,Business,106,68
+215313498,Brazil,Energy_Management,24,14
+215313498,Brazil,Security__eg_cybersecurity,32,25
+215313498,Brazil,Agricultural,94,67
+215313498,Brazil,Life_Sciences,244,168
+215313498,Brazil,Transportation,79,66
+215313498,Brazil,Control,127,98
+215313498,Brazil,Industrial_and_Manufacturing,65,52
+215313498,Brazil,Telecommunications,142,98
+6465097,Bulgaria,All,56,51
+38929902,Canada,Analytics_and_Algorithms,811,459
+38929902,Canada,All,4665,2655
+38929902,Canada,Knowledge_Representation,225,141
+38929902,Canada,Energy_Management,125,75
+38929902,Canada,Industrial_and_Manufacturing,299,203
+38929902,Canada,Computer_Vision,1070,736
+38929902,Canada,Banking_and_Finance,303,160
+38929902,Canada,Ontology_Engineering,93,55
+38929902,Canada,Control,467,328
+38929902,Canada,Probabilistic_Reasoning,298,173
+38929902,Canada,Physical_Sciences_and_Engineering,373,216
+38929902,Canada,Speech_Processing,128,76
+38929902,Canada,Telecommunications,770,528
+38929902,Canada,Logic_Programming,461,309
+38929902,Canada,Transportation,285,223
+38929902,Canada,Agricultural,188,116
+38929902,Canada,Personal_Devices_and_Computing,1726,1167
+38929902,Canada,Measuring_and_Testing,776,483
+38929902,Canada,Security__eg_cybersecurity,305,196
+38929902,Canada,Life_Sciences,1657,851
+38929902,Canada,Generic_and_Unspecified,1010,506
+38929902,Canada,Machine_Learning,3589,2115
+38929902,Canada,Planning_and_Scheduling,542,285
+38929902,Canada,Business,741,378
+38929902,Canada,Fuzzy_Logic,46,26
+1412175000,China,Generic_and_Unspecified,107113,53690
+1412175000,China,Business,71497,26750
+1412175000,China,Transportation,48527,26104
+1412175000,China,Ontology_Engineering,41011,19367
+1412175000,China,Measuring_and_Testing,46856,22091
+1412175000,China,Banking_and_Finance,14098,4036
+1412175000,China,Industrial_and_Manufacturing,37555,18308
+1412175000,China,Machine_Learning,474957,218870
+1412175000,China,Physical_Sciences_and_Engineering,18624,8714
+1412175000,China,Personal_Devices_and_Computing,281139,133053
+1412175000,China,Probabilistic_Reasoning,33402,16290
+1412175000,China,All,599182,273154
+1412175000,China,Knowledge_Representation,13383,5072
+1412175000,China,Analytics_and_Algorithms,47984,21836
+1412175000,China,Speech_Processing,17169,8108
+1412175000,China,Planning_and_Scheduling,58411,22296
+1412175000,China,Security__eg_cybersecurity,21557,8754
+1412175000,China,Energy_Management,39423,15536
+1412175000,China,Fuzzy_Logic,10052,4462
+1412175000,China,Control,21006,11161
+1412175000,China,Computer_Vision,100423,51377
+1412175000,China,Life_Sciences,43238,18283
+1412175000,China,Telecommunications,50756,24897
+1412175000,China,Logic_Programming,25731,10001
+1412175000,China,Agricultural,9166,4102
+5903037,Denmark,Personal_Devices_and_Computing,41,40
+5903037,Denmark,Measuring_and_Testing,28,24
+5903037,Denmark,Life_Sciences,48,42
+5903037,Denmark,Control,32,31
+5903037,Denmark,All,137,125
+5903037,Denmark,Machine_Learning,110,100
+5903037,Denmark,Analytics_and_Algorithms,31,27
+5903037,Denmark,Computer_Vision,34,33
+5556880,Finland,Analytics_and_Algorithms,73,49
+5556880,Finland,Telecommunications,111,69
+5556880,Finland,All,241,146
+5556880,Finland,Life_Sciences,44,29
+5556880,Finland,Machine_Learning,190,120
+5556880,Finland,Generic_and_Unspecified,49,26
+5556880,Finland,Personal_Devices_and_Computing,99,58
+5556880,Finland,Computer_Vision,51,30
+5556880,Finland,Planning_and_Scheduling,23,10
+5556880,Finland,Control,36,28
+67749632,France,Planning_and_Scheduling,81,43
+67749632,France,Security__eg_cybersecurity,100,79
+67749632,France,Banking_and_Finance,57,40
+67749632,France,Business,111,59
+67749632,France,Probabilistic_Reasoning,66,49
+67749632,France,Control,236,167
+67749632,France,Transportation,261,180
+67749632,France,Computer_Vision,311,240
+67749632,France,Life_Sciences,213,140
+67749632,France,Knowledge_Representation,31,25
+67749632,France,Logic_Programming,67,49
+67749632,France,Energy_Management,75,57
+67749632,France,Generic_and_Unspecified,504,311
+67749632,France,Telecommunications,272,183
+67749632,France,Machine_Learning,1115,786
+67749632,France,Industrial_and_Manufacturing,63,44
+67749632,France,Physical_Sciences_and_Engineering,52,41
+67749632,France,Personal_Devices_and_Computing,495,346
+67749632,France,All,1602,1068
+67749632,France,Measuring_and_Testing,266,195
+67749632,France,Analytics_and_Algorithms,215,131
+84079811,Germany,Transportation,1403,834
+84079811,Germany,Probabilistic_Reasoning,223,136
+84079811,Germany,Banking_and_Finance,167,104
+84079811,Germany,Fuzzy_Logic,38,18
+84079811,Germany,Agricultural,70,37
+84079811,Germany,Industrial_and_Manufacturing,550,316
+84079811,Germany,Security__eg_cybersecurity,234,135
+84079811,Germany,Energy_Management,431,140
+84079811,Germany,Analytics_and_Algorithms,874,354
+84079811,Germany,Ontology_Engineering,91,48
+84079811,Germany,Measuring_and_Testing,1279,649
+84079811,Germany,Personal_Devices_and_Computing,1804,933
+84079811,Germany,Computer_Vision,1183,719
+84079811,Germany,Machine_Learning,5168,2383
+84079811,Germany,Logic_Programming,292,183
+84079811,Germany,Business,298,163
+84079811,Germany,Speech_Processing,141,78
+84079811,Germany,Life_Sciences,648,368
+84079811,Germany,Physical_Sciences_and_Engineering,273,123
+84079811,Germany,Control,1738,949
+84079811,Germany,Knowledge_Representation,143,82
+84079811,Germany,Planning_and_Scheduling,274,149
+84079811,Germany,Telecommunications,798,450
+84079811,Germany,Generic_and_Unspecified,1086,554
+84079811,Germany,All,6238,2936
+10566531,Greece,Machine_Learning,60,52
+10566531,Greece,All,73,59
+10566531,Greece,Personal_Devices_and_Computing,33,27
+9683505,Hungary,All,68,51
+9683505,Hungary,Machine_Learning,47,36
+9683505,Hungary,Computer_Vision,28,21
+9683505,Hungary,Personal_Devices_and_Computing,25,16
+1417173173,India,Transportation,33,26
+1417173173,India,Machine_Learning,475,372
+1417173173,India,Analytics_and_Algorithms,70,56
+1417173173,India,Banking_and_Finance,28,16
+1417173173,India,Security__eg_cybersecurity,44,32
+1417173173,India,Telecommunications,125,94
+1417173173,India,Knowledge_Representation,112,80
+1417173173,India,Life_Sciences,97,69
+1417173173,India,Control,73,65
+1417173173,India,Planning_and_Scheduling,114,65
+1417173173,India,Speech_Processing,25,16
+1417173173,India,Business,152,88
+1417173173,India,All,725,523
+1417173173,India,Personal_Devices_and_Computing,429,343
+1417173173,India,Industrial_and_Manufacturing,26,19
+1417173173,India,Logic_Programming,189,134
+1417173173,India,Generic_and_Unspecified,137,85
+1417173173,India,Measuring_and_Testing,44,37
+1417173173,India,Computer_Vision,205,174
+1417173173,India,Ontology_Engineering,48,38
+1417173173,India,Probabilistic_Reasoning,87,70
+9550600,Israel,Computer_Vision,45,24
+9550600,Israel,Machine_Learning,146,55
+9550600,Israel,Telecommunications,61,30
+9550600,Israel,Personal_Devices_and_Computing,77,42
+9550600,Israel,Measuring_and_Testing,38,18
+9550600,Israel,Analytics_and_Algorithms,43,11
+9550600,Israel,Generic_and_Unspecified,34,14
+9550600,Israel,Transportation,23,12
+9550600,Israel,All,180,68
+9550600,Israel,Life_Sciences,38,4
+9550600,Israel,Security__eg_cybersecurity,31,18
+58856847,Italy,Generic_and_Unspecified,85,25
+58856847,Italy,Energy_Management,20,11
+58856847,Italy,Life_Sciences,106,43
+58856847,Italy,Machine_Learning,336,127
+58856847,Italy,Planning_and_Scheduling,24,10
+58856847,Italy,Industrial_and_Manufacturing,43,18
+58856847,Italy,Measuring_and_Testing,77,40
+58856847,Italy,Control,52,26
+58856847,Italy,Telecommunications,64,28
+58856847,Italy,Personal_Devices_and_Computing,99,42
+58856847,Italy,Physical_Sciences_and_Engineering,24,11
+58856847,Italy,Business,34,13
+58856847,Italy,Computer_Vision,90,34
+58856847,Italy,Analytics_and_Algorithms,81,37
+58856847,Italy,Agricultural,21,8
+58856847,Italy,All,421,151
+125124989,Japan,Speech_Processing,898,731
+125124989,Japan,Transportation,2057,1739
+125124989,Japan,Generic_and_Unspecified,4760,3379
+125124989,Japan,Business,1728,1303
+125124989,Japan,Fuzzy_Logic,94,76
+125124989,Japan,Telecommunications,2926,2192
+125124989,Japan,All,25567,17816
+125124989,Japan,Knowledge_Representation,735,606
+125124989,Japan,Logic_Programming,1836,1499
+125124989,Japan,Life_Sciences,4356,2781
+125124989,Japan,Agricultural,258,190
+125124989,Japan,Measuring_and_Testing,2757,2012
+125124989,Japan,Planning_and_Scheduling,1239,938
+125124989,Japan,Banking_and_Finance,515,397
+125124989,Japan,Computer_Vision,5653,4235
+125124989,Japan,Industrial_and_Manufacturing,1835,1411
+125124989,Japan,Machine_Learning,20732,14435
+125124989,Japan,Ontology_Engineering,189,130
+125124989,Japan,Analytics_and_Algorithms,2332,1660
+125124989,Japan,Probabilistic_Reasoning,1193,915
+125124989,Japan,Control,3418,2877
+125124989,Japan,Security__eg_cybersecurity,705,555
+125124989,Japan,Personal_Devices_and_Computing,7084,5665
+125124989,Japan,Physical_Sciences_and_Engineering,848,647
+125124989,Japan,Energy_Management,753,603
+2833000,Lithuania,All,26,24
+650774,Luxembourg,All,293,288
+650774,Luxembourg,Telecommunications,35,34
+650774,Luxembourg,Control,35,33
+650774,Luxembourg,Life_Sciences,35,34
+650774,Luxembourg,Security__eg_cybersecurity,27,27
+650774,Luxembourg,Planning_and_Scheduling,37,37
+650774,Luxembourg,Measuring_and_Testing,53,52
+650774,Luxembourg,Computer_Vision,36,36
+650774,Luxembourg,Machine_Learning,217,213
+650774,Luxembourg,Generic_and_Unspecified,58,57
+650774,Luxembourg,Personal_Devices_and_Computing,101,99
+33938221,Malaysia,Generic_and_Unspecified,26,24
+33938221,Malaysia,Machine_Learning,69,69
+33938221,Malaysia,All,106,103
+33938221,Malaysia,Personal_Devices_and_Computing,34,34
+127504125,Mexico,Control,89,68
+127504125,Mexico,Machine_Learning,443,282
+127504125,Mexico,Telecommunications,118,78
+127504125,Mexico,All,612,369
+127504125,Mexico,Analytics_and_Algorithms,82,53
+127504125,Mexico,Generic_and_Unspecified,162,86
+127504125,Mexico,Business,92,61
+127504125,Mexico,Probabilistic_Reasoning,27,20
+127504125,Mexico,Transportation,56,47
+127504125,Mexico,Planning_and_Scheduling,67,47
+127504125,Mexico,Logic_Programming,40,26
+127504125,Mexico,Agricultural,43,34
+127504125,Mexico,Life_Sciences,181,107
+127504125,Mexico,Measuring_and_Testing,127,90
+127504125,Mexico,Banking_and_Finance,27,20
+127504125,Mexico,Physical_Sciences_and_Engineering,64,41
+127504125,Mexico,Personal_Devices_and_Computing,167,128
+127504125,Mexico,Industrial_and_Manufacturing,78,60
+127504125,Mexico,Computer_Vision,124,95
+17942942,Netherlands,Machine_Learning,185,180
+17942942,Netherlands,Personal_Devices_and_Computing,46,45
+17942942,Netherlands,Computer_Vision,44,43
+17942942,Netherlands,Analytics_and_Algorithms,31,30
+17942942,Netherlands,Telecommunications,24,23
+17942942,Netherlands,Measuring_and_Testing,40,37
+17942942,Netherlands,All,212,206
+5124100,New Zealand,Machine_Learning,47,42
+5124100,New Zealand,Life_Sciences,34,31
+5124100,New Zealand,All,66,58
+5457127,Norway,Machine_Learning,34,25
+5457127,Norway,All,45,33
+34049588,Peru,Machine_Learning,25,15
+34049588,Peru,All,36,22
+115559009,Philippines,Machine_Learning,96,52
+115559009,Philippines,All,120,65
+115559009,Philippines,Personal_Devices_and_Computing,38,27
+115559009,Philippines,Computer_Vision,43,30
+115559009,Philippines,Generic_and_Unspecified,20,12
+37561599,Poland,Personal_Devices_and_Computing,57,48
+37561599,Poland,Generic_and_Unspecified,43,35
+37561599,Poland,Industrial_and_Manufacturing,26,22
+37561599,Poland,Measuring_and_Testing,35,27
+37561599,Poland,All,171,137
+37561599,Poland,Control,20,18
+37561599,Poland,Machine_Learning,128,104
+37561599,Poland,Computer_Vision,51,43
+37561599,Poland,Life_Sciences,44,35
+37561599,Poland,Analytics_and_Algorithms,32,25
+37561599,Poland,Telecommunications,33,28
+10379007,Portugal,All,60,44
+10379007,Portugal,Personal_Devices_and_Computing,21,18
+18956666,Romania,Generic_and_Unspecified,21,2
+18956666,Romania,Machine_Learning,46,6
+18956666,Romania,All,68,8
+143555736,Russia,Fuzzy_Logic,79,79
+143555736,Russia,Security__eg_cybersecurity,88,84
+143555736,Russia,Measuring_and_Testing,143,139
+143555736,Russia,Life_Sciences,136,129
+143555736,Russia,Probabilistic_Reasoning,125,123
+143555736,Russia,Computer_Vision,161,158
+143555736,Russia,Planning_and_Scheduling,53,47
+143555736,Russia,Control,95,92
+143555736,Russia,Personal_Devices_and_Computing,423,408
+143555736,Russia,All,942,891
+143555736,Russia,Physical_Sciences_and_Engineering,50,45
+143555736,Russia,Generic_and_Unspecified,143,133
+143555736,Russia,Machine_Learning,698,661
+143555736,Russia,Ontology_Engineering,21,20
+143555736,Russia,Knowledge_Representation,39,36
+143555736,Russia,Telecommunications,145,140
+143555736,Russia,Analytics_and_Algorithms,37,33
+143555736,Russia,Business,77,68
+143555736,Russia,Logic_Programming,106,100
+143555736,Russia,Transportation,77,76
+6760087,Serbia,All,36,5
+5637022,Singapore,Planning_and_Scheduling,68,52
+5637022,Singapore,Security__eg_cybersecurity,59,48
+5637022,Singapore,Physical_Sciences_and_Engineering,31,22
+5637022,Singapore,Knowledge_Representation,49,36
+5637022,Singapore,Machine_Learning,422,306
+5637022,Singapore,Life_Sciences,155,110
+5637022,Singapore,Control,53,45
+5637022,Singapore,All,573,414
+5637022,Singapore,Measuring_and_Testing,79,64
+5637022,Singapore,Logic_Programming,88,68
+5637022,Singapore,Probabilistic_Reasoning,39,31
+5637022,Singapore,Analytics_and_Algorithms,63,49
+5637022,Singapore,Personal_Devices_and_Computing,281,217
+5637022,Singapore,Generic_and_Unspecified,127,91
+5637022,Singapore,Computer_Vision,146,113
+5637022,Singapore,Telecommunications,111,100
+5637022,Singapore,Banking_and_Finance,62,54
+5637022,Singapore,Business,98,71
+5637022,Singapore,Transportation,39,34
+5431752,Slovakia,All,23,4
+5431752,Slovakia,Machine_Learning,21,4
+59893885,South Africa,All,261,255
+59893885,South Africa,Machine_Learning,183,180
+59893885,South Africa,Generic_and_Unspecified,75,72
+51628117,South Korea,Energy_Management,2515,1659
+51628117,South Korea,Physical_Sciences_and_Engineering,2093,1397
+51628117,South Korea,Business,8821,4692
+51628117,South Korea,Life_Sciences,7638,4789
+51628117,South Korea,Banking_and_Finance,1561,942
+51628117,South Korea,Probabilistic_Reasoning,1480,1045
+51628117,South Korea,Computer_Vision,10683,7058
+51628117,South Korea,Analytics_and_Algorithms,3571,2355
+51628117,South Korea,Fuzzy_Logic,197,144
+51628117,South Korea,Machine_Learning,36003,23395
+51628117,South Korea,All,49014,31644
+51628117,South Korea,Control,3558,2472
+51628117,South Korea,Security__eg_cybersecurity,3049,1928
+51628117,South Korea,Speech_Processing,2761,1759
+51628117,South Korea,Telecommunications,8684,5235
+51628117,South Korea,Knowledge_Representation,871,607
+51628117,South Korea,Transportation,3077,2038
+51628117,South Korea,Logic_Programming,1975,1318
+51628117,South Korea,Personal_Devices_and_Computing,14164,9058
+51628117,South Korea,Industrial_and_Manufacturing,3098,1977
+51628117,South Korea,Planning_and_Scheduling,3901,2123
+51628117,South Korea,Measuring_and_Testing,5596,3650
+51628117,South Korea,Agricultural,947,540
+51628117,South Korea,Ontology_Engineering,644,383
+51628117,South Korea,Generic_and_Unspecified,12994,8500
+47615034,Spain,Transportation,56,51
+47615034,Spain,Speech_Processing,27,24
+47615034,Spain,Logic_Programming,47,43
+47615034,Spain,Measuring_and_Testing,121,112
+47615034,Spain,Computer_Vision,181,176
+47615034,Spain,Generic_and_Unspecified,155,125
+47615034,Spain,Probabilistic_Reasoning,44,39
+47615034,Spain,Physical_Sciences_and_Engineering,48,36
+47615034,Spain,Security__eg_cybersecurity,25,20
+47615034,Spain,Personal_Devices_and_Computing,207,187
+47615034,Spain,Analytics_and_Algorithms,114,109
+47615034,Spain,Industrial_and_Manufacturing,70,62
+47615034,Spain,Life_Sciences,190,176
+47615034,Spain,Business,46,36
+47615034,Spain,Planning_and_Scheduling,31,27
+47615034,Spain,Machine_Learning,487,451
+47615034,Spain,All,657,586
+47615034,Spain,Control,110,102
+47615034,Spain,Telecommunications,116,108
+10486941,Sweden,Industrial_and_Manufacturing,25,21
+10486941,Sweden,Control,48,33
+10486941,Sweden,Machine_Learning,142,95
+10486941,Sweden,Measuring_and_Testing,41,32
+10486941,Sweden,Telecommunications,40,31
+10486941,Sweden,Generic_and_Unspecified,28,15
+10486941,Sweden,Transportation,34,20
+10486941,Sweden,Computer_Vision,35,25
+10486941,Sweden,Personal_Devices_and_Computing,57,36
+10486941,Sweden,All,169,109
+8769741,Switzerland,Machine_Learning,27,10
+8769741,Switzerland,All,35,14
+23412899,Taiwan,Transportation,58,51
+23412899,Taiwan,Agricultural,23,21
+23412899,Taiwan,Probabilistic_Reasoning,156,142
+23412899,Taiwan,Energy_Management,63,53
+23412899,Taiwan,Business,134,109
+23412899,Taiwan,Ontology_Engineering,61,50
+23412899,Taiwan,Industrial_and_Manufacturing,135,119
+23412899,Taiwan,Computer_Vision,557,500
+23412899,Taiwan,Analytics_and_Algorithms,266,209
+23412899,Taiwan,Telecommunications,295,243
+23412899,Taiwan,Speech_Processing,64,56
+23412899,Taiwan,Life_Sciences,430,340
+23412899,Taiwan,Measuring_and_Testing,224,177
+23412899,Taiwan,Physical_Sciences_and_Engineering,64,42
+23412899,Taiwan,Security__eg_cybersecurity,58,47
+23412899,Taiwan,Fuzzy_Logic,47,43
+23412899,Taiwan,Logic_Programming,156,135
+23412899,Taiwan,Planning_and_Scheduling,93,79
+23412899,Taiwan,Knowledge_Representation,63,58
+23412899,Taiwan,Machine_Learning,2515,2116
+23412899,Taiwan,Personal_Devices_and_Computing,757,657
+23412899,Taiwan,Generic_and_Unspecified,970,800
+23412899,Taiwan,Banking_and_Finance,32,27
+23412899,Taiwan,Control,180,153
+23412899,Taiwan,All,3500,2922
+85341241,Turkey,Personal_Devices_and_Computing,61,7
+85341241,Turkey,Generic_and_Unspecified,115,4
+85341241,Turkey,Business,50,3
+85341241,Turkey,Machine_Learning,159,11
+85341241,Turkey,Measuring_and_Testing,34,2
+85341241,Turkey,Planning_and_Scheduling,38,2
+85341241,Turkey,Life_Sciences,51,1
+85341241,Turkey,All,269,17
+85341241,Turkey,Security__eg_cybersecurity,23,0
+85341241,Turkey,Analytics_and_Algorithms,40,0
+85341241,Turkey,Banking_and_Finance,28,2
+85341241,Turkey,Telecommunications,55,5
+85341241,Turkey,Control,20,3
+85341241,Turkey,Computer_Vision,23,3
+38000000,Ukraine,All,38,36
+66971411,United Kingdom,Industrial_and_Manufacturing,164,91
+66971411,United Kingdom,Computer_Vision,837,462
+66971411,United Kingdom,Analytics_and_Algorithms,506,190
+66971411,United Kingdom,Ontology_Engineering,95,43
+66971411,United Kingdom,Probabilistic_Reasoning,237,134
+66971411,United Kingdom,Energy_Management,97,49
+66971411,United Kingdom,Personal_Devices_and_Computing,1195,682
+66971411,United Kingdom,Logic_Programming,201,117
+66971411,United Kingdom,All,3635,1585
+66971411,United Kingdom,Measuring_and_Testing,489,255
+66971411,United Kingdom,Knowledge_Representation,122,67
+66971411,United Kingdom,Generic_and_Unspecified,478,201
+66971411,United Kingdom,Agricultural,64,37
+66971411,United Kingdom,Banking_and_Finance,131,56
+66971411,United Kingdom,Transportation,346,180
+66971411,United Kingdom,Control,385,220
+66971411,United Kingdom,Planning_and_Scheduling,243,104
+66971411,United Kingdom,Security__eg_cybersecurity,214,112
+66971411,United Kingdom,Life_Sciences,584,234
+66971411,United Kingdom,Telecommunications,783,333
+66971411,United Kingdom,Machine_Learning,3130,1381
+66971411,United Kingdom,Physical_Sciences_and_Engineering,218,126
+66971411,United Kingdom,Business,315,132
+66971411,United Kingdom,Fuzzy_Logic,38,26
+66971411,United Kingdom,Speech_Processing,156,98
+333287557,United States,Personal_Devices_and_Computing,43785,36706
+333287557,United States,Fuzzy_Logic,805,654
+333287557,United States,Physical_Sciences_and_Engineering,2442,1749
+333287557,United States,Banking_and_Finance,4085,3200
+333287557,United States,Energy_Management,1604,1197
+333287557,United States,Measuring_and_Testing,8799,6837
+333287557,United States,Transportation,7977,6735
+333287557,United States,Probabilistic_Reasoning,5686,4510
+333287557,United States,Generic_and_Unspecified,13513,9882
+333287557,United States,Control,10024,8349
+333287557,United States,Ontology_Engineering,2541,2091
+333287557,United States,Industrial_and_Manufacturing,3013,2298
+333287557,United States,Analytics_and_Algorithms,9475,6797
+333287557,United States,Logic_Programming,13240,10894
+333287557,United States,Business,11599,8588
+333287557,United States,Knowledge_Representation,6766,5466
+333287557,United States,Agricultural,969,688
+333287557,United States,Computer_Vision,18834,15470
+333287557,United States,Security__eg_cybersecurity,6033,5115
+333287557,United States,Life_Sciences,12320,7930
+333287557,United States,Machine_Learning,66707,52724
+333287557,United States,Telecommunications,20479,16812
+333287557,United States,Speech_Processing,4639,3914
+333287557,United States,All,85425,66774
+333287557,United States,Planning_and_Scheduling,7749,5664
+46234830,Argentina,Ontology_Engineering,0,0
+46234830,Argentina,Fuzzy_Logic,0,0
+9042528,Austria,Ontology_Engineering,0,0
+9042528,Austria,Speech_Processing,0,0
+10175016,Azerbaijan,Industrial_and_Manufacturing,0,0
+10175016,Azerbaijan,Business,0,0
+10175016,Azerbaijan,Life_Sciences,0,0
+10175016,Azerbaijan,Measuring_and_Testing,0,0
+10175016,Azerbaijan,Security__eg_cybersecurity,0,0
+10175016,Azerbaijan,Physical_Sciences_and_Engineering,0,0
+10175016,Azerbaijan,Computer_Vision,0,0
+10175016,Azerbaijan,Machine_Learning,0,0
+10175016,Azerbaijan,Analytics_and_Algorithms,0,0
+10175016,Azerbaijan,Banking_and_Finance,0,0
+10175016,Azerbaijan,Ontology_Engineering,0,0
+10175016,Azerbaijan,Speech_Processing,0,0
+10175016,Azerbaijan,Knowledge_Representation,0,0
+10175016,Azerbaijan,Transportation,0,0
+10175016,Azerbaijan,Logic_Programming,0,0
+10175016,Azerbaijan,Energy_Management,0,0
+10175016,Azerbaijan,Telecommunications,0,0
+10175016,Azerbaijan,Probabilistic_Reasoning,0,0
+10175016,Azerbaijan,Agricultural,0,0
+10175016,Azerbaijan,Planning_and_Scheduling,0,0
+10175016,Azerbaijan,Fuzzy_Logic,0,0
+10175016,Azerbaijan,Control,0,0
+11669446,Belgium,Knowledge_Representation,0,0
+11669446,Belgium,Logic_Programming,0,0
+11669446,Belgium,Probabilistic_Reasoning,0,0
+11669446,Belgium,Banking_and_Finance,0,0
+11669446,Belgium,Ontology_Engineering,0,0
+6465097,Bulgaria,Transportation,0,0
+6465097,Bulgaria,Fuzzy_Logic,0,0
+6465097,Bulgaria,Ontology_Engineering,0,0
+6465097,Bulgaria,Speech_Processing,0,0
+6465097,Bulgaria,Analytics_and_Algorithms,0,0
+6465097,Bulgaria,Physical_Sciences_and_Engineering,0,0
+6465097,Bulgaria,Computer_Vision,0,0
+6465097,Bulgaria,Probabilistic_Reasoning,0,0
+19603733,Chile,Speech_Processing,0,0
+19603733,Chile,Agricultural,0,0
+19603733,Chile,Computer_Vision,0,0
+19603733,Chile,Knowledge_Representation,0,0
+19603733,Chile,Energy_Management,0,0
+19603733,Chile,Analytics_and_Algorithms,0,0
+19603733,Chile,Fuzzy_Logic,0,0
+19603733,Chile,Probabilistic_Reasoning,0,0
+19603733,Chile,Ontology_Engineering,0,0
+19603733,Chile,Banking_and_Finance,0,0
+51874024,Colombia,Knowledge_Representation,0,0
+51874024,Colombia,Speech_Processing,0,0
+51874024,Colombia,Logic_Programming,0,0
+51874024,Colombia,Energy_Management,0,0
+51874024,Colombia,Agricultural,0,0
+51874024,Colombia,Ontology_Engineering,0,0
+5180829,Costa Rica,Measuring_and_Testing,0,0
+5180829,Costa Rica,Analytics_and_Algorithms,0,0
+5180829,Costa Rica,Energy_Management,0,0
+5180829,Costa Rica,Security__eg_cybersecurity,0,0
+5180829,Costa Rica,Planning_and_Scheduling,0,0
+5180829,Costa Rica,Telecommunications,0,0
+5180829,Costa Rica,Physical_Sciences_and_Engineering,0,0
+5180829,Costa Rica,Speech_Processing,0,0
+5180829,Costa Rica,Control,0,0
+5180829,Costa Rica,Personal_Devices_and_Computing,0,0
+5180829,Costa Rica,Knowledge_Representation,0,0
+5180829,Costa Rica,Probabilistic_Reasoning,0,0
+5180829,Costa Rica,Business,0,0
+5180829,Costa Rica,Logic_Programming,0,0
+5180829,Costa Rica,Ontology_Engineering,0,0
+5180829,Costa Rica,Banking_and_Finance,0,0
+5180829,Costa Rica,Computer_Vision,0,0
+5180829,Costa Rica,Fuzzy_Logic,0,0
+5180829,Costa Rica,Transportation,0,0
+5180829,Costa Rica,Agricultural,0,0
+3854000,Croatia,Energy_Management,0,0
+3854000,Croatia,Knowledge_Representation,0,0
+3854000,Croatia,Logic_Programming,0,0
+3854000,Croatia,Planning_and_Scheduling,0,0
+3854000,Croatia,Transportation,0,0
+3854000,Croatia,Probabilistic_Reasoning,0,0
+3854000,Croatia,Analytics_and_Algorithms,0,0
+3854000,Croatia,Business,0,0
+3854000,Croatia,Security__eg_cybersecurity,0,0
+3854000,Croatia,Banking_and_Finance,0,0
+3854000,Croatia,Fuzzy_Logic,0,0
+11212191,Cuba,Fuzzy_Logic,0,0
+11212191,Cuba,Probabilistic_Reasoning,0,0
+11212191,Cuba,Ontology_Engineering,0,0
+11212191,Cuba,Knowledge_Representation,0,0
+11212191,Cuba,Measuring_and_Testing,0,0
+11212191,Cuba,Life_Sciences,0,0
+11212191,Cuba,Planning_and_Scheduling,0,0
+11212191,Cuba,Banking_and_Finance,0,0
+11212191,Cuba,Agricultural,0,0
+11212191,Cuba,Logic_Programming,0,0
+11212191,Cuba,Machine_Learning,0,0
+11212191,Cuba,Security__eg_cybersecurity,0,0
+11212191,Cuba,Speech_Processing,0,0
+11212191,Cuba,Transportation,0,0
+11212191,Cuba,Business,0,0
+11212191,Cuba,Computer_Vision,0,0
+11212191,Cuba,Personal_Devices_and_Computing,0,0
+11212191,Cuba,Analytics_and_Algorithms,0,0
+10526073,Czech Republic,Knowledge_Representation,0,0
+10526073,Czech Republic,Banking_and_Finance,0,0
+10526073,Czech Republic,Probabilistic_Reasoning,0,0
+10526073,Czech Republic,Speech_Processing,0,0
+10526073,Czech Republic,Fuzzy_Logic,0,0
+10526073,Czech Republic,Ontology_Engineering,0,0
+10526073,Czech Republic,Security__eg_cybersecurity,0,0
+5903037,Denmark,Ontology_Engineering,0,0
+5903037,Denmark,Fuzzy_Logic,0,0
+1344768,Estonia,Speech_Processing,0,0
+1344768,Estonia,Energy_Management,0,0
+1344768,Estonia,Transportation,0,0
+1344768,Estonia,Analytics_and_Algorithms,0,0
+1344768,Estonia,Planning_and_Scheduling,0,0
+1344768,Estonia,Computer_Vision,0,0
+1344768,Estonia,Generic_and_Unspecified,0,0
+1344768,Estonia,Security__eg_cybersecurity,0,0
+1344768,Estonia,Control,0,0
+1344768,Estonia,Life_Sciences,0,0
+1344768,Estonia,Banking_and_Finance,0,0
+1344768,Estonia,Business,0,0
+1344768,Estonia,Logic_Programming,0,0
+1344768,Estonia,Agricultural,0,0
+1344768,Estonia,Knowledge_Representation,0,0
+1344768,Estonia,Ontology_Engineering,0,0
+1344768,Estonia,Physical_Sciences_and_Engineering,0,0
+1344768,Estonia,Probabilistic_Reasoning,0,0
+1344768,Estonia,Industrial_and_Manufacturing,0,0
+1344768,Estonia,Fuzzy_Logic,0,0
+1344768,Estonia,Telecommunications,0,0
+1344768,Estonia,Personal_Devices_and_Computing,0,0
+1344768,Estonia,Measuring_and_Testing,0,0
+10566531,Greece,Banking_and_Finance,0,0
+10566531,Greece,Knowledge_Representation,0,0
+9683505,Hungary,Ontology_Engineering,0,0
+9683505,Hungary,Fuzzy_Logic,0,0
+9683505,Hungary,Knowledge_Representation,0,0
+275501339,Indonesia,Measuring_and_Testing,0,0
+275501339,Indonesia,Knowledge_Representation,0,0
+275501339,Indonesia,Physical_Sciences_and_Engineering,0,0
+275501339,Indonesia,Generic_and_Unspecified,0,0
+275501339,Indonesia,Computer_Vision,0,0
+275501339,Indonesia,Industrial_and_Manufacturing,0,0
+275501339,Indonesia,Agricultural,0,0
+275501339,Indonesia,Control,0,0
+275501339,Indonesia,Planning_and_Scheduling,0,0
+275501339,Indonesia,Speech_Processing,0,0
+275501339,Indonesia,Probabilistic_Reasoning,0,0
+275501339,Indonesia,Fuzzy_Logic,0,0
+275501339,Indonesia,Ontology_Engineering,0,0
+275501339,Indonesia,Energy_Management,0,0
+275501339,Indonesia,Analytics_and_Algorithms,0,0
+275501339,Indonesia,Transportation,0,0
+275501339,Indonesia,Security__eg_cybersecurity,0,0
+88550570,Iran,Planning_and_Scheduling,0,0
+88550570,Iran,Machine_Learning,0,0
+88550570,Iran,Physical_Sciences_and_Engineering,0,0
+88550570,Iran,Ontology_Engineering,0,0
+88550570,Iran,Control,0,0
+88550570,Iran,Industrial_and_Manufacturing,0,0
+88550570,Iran,Agricultural,0,0
+88550570,Iran,Generic_and_Unspecified,0,0
+88550570,Iran,Knowledge_Representation,0,0
+88550570,Iran,Business,0,0
+88550570,Iran,Transportation,0,0
+88550570,Iran,Banking_and_Finance,0,0
+88550570,Iran,Measuring_and_Testing,0,0
+88550570,Iran,Analytics_and_Algorithms,0,0
+88550570,Iran,Speech_Processing,0,0
+88550570,Iran,Energy_Management,0,0
+88550570,Iran,Life_Sciences,0,0
+88550570,Iran,Computer_Vision,0,0
+88550570,Iran,Fuzzy_Logic,0,0
+5086988,Republic of Ireland,Security__eg_cybersecurity,0,0
+5086988,Republic of Ireland,Physical_Sciences_and_Engineering,0,0
+5086988,Republic of Ireland,Telecommunications,0,0
+5086988,Republic of Ireland,Measuring_and_Testing,0,0
+5086988,Republic of Ireland,Logic_Programming,0,0
+5086988,Republic of Ireland,Ontology_Engineering,0,0
+5086988,Republic of Ireland,Fuzzy_Logic,0,0
+5086988,Republic of Ireland,Knowledge_Representation,0,0
+5086988,Republic of Ireland,Energy_Management,0,0
+5086988,Republic of Ireland,Analytics_and_Algorithms,0,0
+5086988,Republic of Ireland,Speech_Processing,0,0
+9550600,Israel,Fuzzy_Logic,0,0
+11285869,Jordan,Logic_Programming,0,0
+11285869,Jordan,Ontology_Engineering,0,0
+11285869,Jordan,Transportation,0,0
+11285869,Jordan,Fuzzy_Logic,0,0
+11285869,Jordan,Probabilistic_Reasoning,0,0
+11285869,Jordan,Physical_Sciences_and_Engineering,0,0
+11285869,Jordan,Personal_Devices_and_Computing,0,0
+11285869,Jordan,Knowledge_Representation,0,0
+11285869,Jordan,Computer_Vision,0,0
+11285869,Jordan,Speech_Processing,0,0
+11285869,Jordan,Planning_and_Scheduling,0,0
+11285869,Jordan,Banking_and_Finance,0,0
+11285869,Jordan,Energy_Management,0,0
+11285869,Jordan,Analytics_and_Algorithms,0,0
+54027487,Kenya,Knowledge_Representation,0,0
+54027487,Kenya,Probabilistic_Reasoning,0,0
+54027487,Kenya,Life_Sciences,0,0
+54027487,Kenya,Personal_Devices_and_Computing,0,0
+54027487,Kenya,Agricultural,0,0
+54027487,Kenya,Security__eg_cybersecurity,0,0
+54027487,Kenya,Analytics_and_Algorithms,0,0
+54027487,Kenya,Physical_Sciences_and_Engineering,0,0
+54027487,Kenya,Fuzzy_Logic,0,0
+54027487,Kenya,Banking_and_Finance,0,0
+54027487,Kenya,Energy_Management,0,0
+54027487,Kenya,Ontology_Engineering,0,0
+54027487,Kenya,Telecommunications,0,0
+54027487,Kenya,Generic_and_Unspecified,0,0
+54027487,Kenya,Planning_and_Scheduling,0,0
+54027487,Kenya,Industrial_and_Manufacturing,0,0
+54027487,Kenya,Logic_Programming,0,0
+54027487,Kenya,Speech_Processing,0,0
+54027487,Kenya,Business,0,0
+1883379,Latvia,Energy_Management,0,0
+1883379,Latvia,Control,0,0
+1883379,Latvia,Analytics_and_Algorithms,0,0
+1883379,Latvia,Banking_and_Finance,0,0
+1883379,Latvia,Agricultural,0,0
+1883379,Latvia,Fuzzy_Logic,0,0
+1883379,Latvia,Life_Sciences,0,0
+1883379,Latvia,Probabilistic_Reasoning,0,0
+1883379,Latvia,Computer_Vision,0,0
+1883379,Latvia,Knowledge_Representation,0,0
+1883379,Latvia,Security__eg_cybersecurity,0,0
+1883379,Latvia,Speech_Processing,0,0
+1883379,Latvia,Measuring_and_Testing,0,0
+1883379,Latvia,Planning_and_Scheduling,0,0
+1883379,Latvia,Business,0,0
+1883379,Latvia,Transportation,0,0
+1883379,Latvia,Logic_Programming,0,0
+1883379,Latvia,Ontology_Engineering,0,0
+1883379,Latvia,Generic_and_Unspecified,0,0
+1883379,Latvia,Physical_Sciences_and_Engineering,0,0
+1883379,Latvia,Personal_Devices_and_Computing,0,0
+1883379,Latvia,Industrial_and_Manufacturing,0,0
+2833000,Lithuania,Knowledge_Representation,0,0
+2833000,Lithuania,Fuzzy_Logic,0,0
+2833000,Lithuania,Ontology_Engineering,0,0
+2833000,Lithuania,Speech_Processing,0,0
+2592477,Moldova,Industrial_and_Manufacturing,0,0
+2592477,Moldova,Probabilistic_Reasoning,0,0
+2592477,Moldova,Banking_and_Finance,0,0
+2592477,Moldova,Ontology_Engineering,0,0
+2592477,Moldova,Knowledge_Representation,0,0
+2592477,Moldova,Physical_Sciences_and_Engineering,0,0
+2592477,Moldova,Analytics_and_Algorithms,0,0
+2592477,Moldova,Measuring_and_Testing,0,0
+2592477,Moldova,Telecommunications,0,0
+2592477,Moldova,Life_Sciences,0,0
+2592477,Moldova,Business,0,0
+2592477,Moldova,Fuzzy_Logic,0,0
+2592477,Moldova,Control,0,0
+2592477,Moldova,Transportation,0,0
+2592477,Moldova,Energy_Management,0,0
+2592477,Moldova,Generic_and_Unspecified,0,0
+2592477,Moldova,Logic_Programming,0,0
+2592477,Moldova,Security__eg_cybersecurity,0,0
+2592477,Moldova,Speech_Processing,0,0
+2592477,Moldova,Planning_and_Scheduling,0,0
+2592477,Moldova,Agricultural,0,0
+37457971,Morocco,Speech_Processing,0,0
+37457971,Morocco,Knowledge_Representation,0,0
+4576298,Oman,Telecommunications,0,0
+4576298,Oman,Logic_Programming,0,0
+4576298,Oman,Generic_and_Unspecified,0,0
+4576298,Oman,Banking_and_Finance,0,0
+4576298,Oman,Probabilistic_Reasoning,0,0
+4576298,Oman,Energy_Management,0,0
+4576298,Oman,Agricultural,0,0
+4576298,Oman,Fuzzy_Logic,0,0
+4576298,Oman,Physical_Sciences_and_Engineering,0,0
+4576298,Oman,Personal_Devices_and_Computing,0,0
+4576298,Oman,Ontology_Engineering,0,0
+4576298,Oman,Planning_and_Scheduling,0,0
+4576298,Oman,Analytics_and_Algorithms,0,0
+4576298,Oman,Knowledge_Representation,0,0
+4576298,Oman,Measuring_and_Testing,0,0
+4576298,Oman,Industrial_and_Manufacturing,0,0
+4576298,Oman,Speech_Processing,0,0
+4576298,Oman,Business,0,0
+4576298,Oman,Computer_Vision,0,0
+4576298,Oman,Security__eg_cybersecurity,0,0
+4408581,Panama,Fuzzy_Logic,0,0
+4408581,Panama,Energy_Management,0,0
+4408581,Panama,Physical_Sciences_and_Engineering,0,0
+4408581,Panama,Knowledge_Representation,0,0
+4408581,Panama,Speech_Processing,0,0
+4408581,Panama,Transportation,0,0
+4408581,Panama,Personal_Devices_and_Computing,0,0
+4408581,Panama,Business,0,0
+4408581,Panama,Telecommunications,0,0
+4408581,Panama,Machine_Learning,0,0
+4408581,Panama,Agricultural,0,0
+4408581,Panama,Ontology_Engineering,0,0
+4408581,Panama,Analytics_and_Algorithms,0,0
+4408581,Panama,Security__eg_cybersecurity,0,0
+4408581,Panama,Probabilistic_Reasoning,0,0
+4408581,Panama,Banking_and_Finance,0,0
+4408581,Panama,Industrial_and_Manufacturing,0,0
+4408581,Panama,Computer_Vision,0,0
+4408581,Panama,Measuring_and_Testing,0,0
+4408581,Panama,Logic_Programming,0,0
+4408581,Panama,Planning_and_Scheduling,0,0
+34049588,Peru,Fuzzy_Logic,0,0
+34049588,Peru,Speech_Processing,0,0
+34049588,Peru,Ontology_Engineering,0,0
+10379007,Portugal,Ontology_Engineering,0,0
+10379007,Portugal,Fuzzy_Logic,0,0
+10379007,Portugal,Banking_and_Finance,0,0
+18956666,Romania,Knowledge_Representation,0,0
+18956666,Romania,Security__eg_cybersecurity,0,0
+18956666,Romania,Banking_and_Finance,0,0
+18956666,Romania,Industrial_and_Manufacturing,0,0
+18956666,Romania,Transportation,0,0
+18956666,Romania,Logic_Programming,0,0
+18956666,Romania,Speech_Processing,0,0
+18956666,Romania,Measuring_and_Testing,0,0
+18956666,Romania,Agricultural,0,0
+33660,San Marino,Energy_Management,0,0
+33660,San Marino,Probabilistic_Reasoning,0,0
+33660,San Marino,Security__eg_cybersecurity,0,0
+33660,San Marino,Personal_Devices_and_Computing,0,0
+33660,San Marino,Ontology_Engineering,0,0
+33660,San Marino,Planning_and_Scheduling,0,0
+33660,San Marino,Analytics_and_Algorithms,0,0
+33660,San Marino,Logic_Programming,0,0
+33660,San Marino,Business,0,0
+33660,San Marino,Knowledge_Representation,0,0
+33660,San Marino,Banking_and_Finance,0,0
+33660,San Marino,Fuzzy_Logic,0,0
+33660,San Marino,Transportation,0,0
+36408820,Saudi Arabia,Speech_Processing,0,0
+36408820,Saudi Arabia,Ontology_Engineering,0,0
+36408820,Saudi Arabia,Telecommunications,0,0
+36408820,Saudi Arabia,Logic_Programming,0,0
+36408820,Saudi Arabia,Personal_Devices_and_Computing,0,0
+36408820,Saudi Arabia,Knowledge_Representation,0,0
+36408820,Saudi Arabia,Fuzzy_Logic,0,0
+36408820,Saudi Arabia,Analytics_and_Algorithms,0,0
+36408820,Saudi Arabia,Transportation,0,0
+36408820,Saudi Arabia,Security__eg_cybersecurity,0,0
+36408820,Saudi Arabia,Measuring_and_Testing,0,0
+36408820,Saudi Arabia,Probabilistic_Reasoning,0,0
+36408820,Saudi Arabia,Computer_Vision,0,0
+6760087,Serbia,Speech_Processing,0,0
+6760087,Serbia,Fuzzy_Logic,0,0
+6760087,Serbia,Logic_Programming,0,0
+6760087,Serbia,Knowledge_Representation,0,0
+6760087,Serbia,Security__eg_cybersecurity,0,0
+6760087,Serbia,Planning_and_Scheduling,0,0
+6760087,Serbia,Banking_and_Finance,0,0
+6760087,Serbia,Analytics_and_Algorithms,0,0
+5431752,Slovakia,Planning_and_Scheduling,0,0
+5431752,Slovakia,Ontology_Engineering,0,0
+5431752,Slovakia,Computer_Vision,0,0
+5431752,Slovakia,Business,0,0
+5431752,Slovakia,Agricultural,0,0
+5431752,Slovakia,Knowledge_Representation,0,0
+5431752,Slovakia,Telecommunications,0,0
+5431752,Slovakia,Analytics_and_Algorithms,0,0
+5431752,Slovakia,Measuring_and_Testing,0,0
+5431752,Slovakia,Fuzzy_Logic,0,0
+5431752,Slovakia,Logic_Programming,0,0
+5431752,Slovakia,Banking_and_Finance,0,0
+5431752,Slovakia,Control,0,0
+5431752,Slovakia,Speech_Processing,0,0
+5431752,Slovakia,Physical_Sciences_and_Engineering,0,0
+5431752,Slovakia,Personal_Devices_and_Computing,0,0
+2108732,Slovenia,Industrial_and_Manufacturing,0,0
+2108732,Slovenia,Ontology_Engineering,0,0
+2108732,Slovenia,Speech_Processing,0,0
+2108732,Slovenia,Banking_and_Finance,0,0
+2108732,Slovenia,Security__eg_cybersecurity,0,0
+2108732,Slovenia,Planning_and_Scheduling,0,0
+2108732,Slovenia,Business,0,0
+2108732,Slovenia,Fuzzy_Logic,0,0
+2108732,Slovenia,Transportation,0,0
+2108732,Slovenia,Knowledge_Representation,0,0
+59893885,South Africa,Control,0,0
+59893885,South Africa,Knowledge_Representation,0,0
+59893885,South Africa,Speech_Processing,0,0
+59893885,South Africa,Transportation,0,0
+22181000,Sri Lanka,Transportation,0,0
+22181000,Sri Lanka,Generic_and_Unspecified,0,0
+22181000,Sri Lanka,Security__eg_cybersecurity,0,0
+22181000,Sri Lanka,Personal_Devices_and_Computing,0,0
+22181000,Sri Lanka,Ontology_Engineering,0,0
+22181000,Sri Lanka,Business,0,0
+22181000,Sri Lanka,Control,0,0
+22181000,Sri Lanka,Banking_and_Finance,0,0
+22181000,Sri Lanka,Logic_Programming,0,0
+22181000,Sri Lanka,Speech_Processing,0,0
+22181000,Sri Lanka,Computer_Vision,0,0
+22181000,Sri Lanka,Fuzzy_Logic,0,0
+22181000,Sri Lanka,Planning_and_Scheduling,0,0
+22181000,Sri Lanka,Telecommunications,0,0
+22181000,Sri Lanka,Knowledge_Representation,0,0
+22181000,Sri Lanka,Industrial_and_Manufacturing,0,0
+22181000,Sri Lanka,Probabilistic_Reasoning,0,0
+22181000,Sri Lanka,Agricultural,0,0
+22181000,Sri Lanka,Energy_Management,0,0
+22181000,Sri Lanka,Measuring_and_Testing,0,0
+22181000,Sri Lanka,Physical_Sciences_and_Engineering,0,0
+71697030,Thailand,Fuzzy_Logic,0,0
+71697030,Thailand,Agricultural,0,0
+71697030,Thailand,Measuring_and_Testing,0,0
+71697030,Thailand,Speech_Processing,0,0
+71697030,Thailand,Probabilistic_Reasoning,0,0
+71697030,Thailand,Personal_Devices_and_Computing,0,0
+71697030,Thailand,Planning_and_Scheduling,0,0
+71697030,Thailand,Security__eg_cybersecurity,0,0
+71697030,Thailand,Banking_and_Finance,0,0
+71697030,Thailand,Transportation,0,0
+71697030,Thailand,Analytics_and_Algorithms,0,0
+71697030,Thailand,Knowledge_Representation,0,0
+71697030,Thailand,Industrial_and_Manufacturing,0,0
+71697030,Thailand,Control,0,0
+71697030,Thailand,Telecommunications,0,0
+71697030,Thailand,Ontology_Engineering,0,0
+71697030,Thailand,Energy_Management,0,0
+71697030,Thailand,Logic_Programming,0,0
+71697030,Thailand,Physical_Sciences_and_Engineering,0,0
+71697030,Thailand,Computer_Vision,0,0
+71697030,Thailand,Life_Sciences,0,0
+71697030,Thailand,Generic_and_Unspecified,0,0
+12356117,Tunisia,Computer_Vision,0,0
+12356117,Tunisia,Speech_Processing,0,0
+12356117,Tunisia,Transportation,0,0
+12356117,Tunisia,Physical_Sciences_and_Engineering,0,0
+12356117,Tunisia,Ontology_Engineering,0,0
+12356117,Tunisia,Business,0,0
+12356117,Tunisia,Banking_and_Finance,0,0
+12356117,Tunisia,Logic_Programming,0,0
+12356117,Tunisia,Measuring_and_Testing,0,0
+12356117,Tunisia,Industrial_and_Manufacturing,0,0
+12356117,Tunisia,Probabilistic_Reasoning,0,0
+12356117,Tunisia,Knowledge_Representation,0,0
+12356117,Tunisia,Planning_and_Scheduling,0,0
+12356117,Tunisia,Fuzzy_Logic,0,0
+12356117,Tunisia,Energy_Management,0,0
+85341241,Turkey,Ontology_Engineering,0,0
+38000000,Ukraine,Planning_and_Scheduling,0,0
+38000000,Ukraine,Energy_Management,0,0
+38000000,Ukraine,Telecommunications,0,0
+38000000,Ukraine,Banking_and_Finance,0,0
+38000000,Ukraine,Measuring_and_Testing,0,0
+38000000,Ukraine,Speech_Processing,0,0
+38000000,Ukraine,Transportation,0,0
+38000000,Ukraine,Business,0,0
+38000000,Ukraine,Security__eg_cybersecurity,0,0
+38000000,Ukraine,Analytics_and_Algorithms,0,0
+3422794,Uruguay,Control,0,0
+3422794,Uruguay,Security__eg_cybersecurity,0,0
+3422794,Uruguay,Business,0,0
+3422794,Uruguay,Knowledge_Representation,0,0
+3422794,Uruguay,Transportation,0,0
+3422794,Uruguay,Speech_Processing,0,0
+3422794,Uruguay,Ontology_Engineering,0,0
+3422794,Uruguay,Physical_Sciences_and_Engineering,0,0
+3422794,Uruguay,Probabilistic_Reasoning,0,0
+3422794,Uruguay,Planning_and_Scheduling,0,0
+3422794,Uruguay,Life_Sciences,0,0
+3422794,Uruguay,Logic_Programming,0,0
+46234830,Argentina,Transportation,1,1
+46234830,Argentina,Knowledge_Representation,1,1
+46234830,Argentina,Speech_Processing,1,1
+9042528,Austria,Fuzzy_Logic,1,0
+10175016,Azerbaijan,All,1,0
+10175016,Azerbaijan,Generic_and_Unspecified,1,0
+10175016,Azerbaijan,Personal_Devices_and_Computing,1,0
+6465097,Bulgaria,Knowledge_Representation,1,1
+6465097,Bulgaria,Agricultural,1,1
+6465097,Bulgaria,Security__eg_cybersecurity,1,1
+6465097,Bulgaria,Telecommunications,1,1
+19603733,Chile,Planning_and_Scheduling,1,0
+19603733,Chile,Industrial_and_Manufacturing,1,0
+19603733,Chile,Control,1,1
+19603733,Chile,Security__eg_cybersecurity,1,0
+19603733,Chile,Business,1,0
+51874024,Colombia,Banking_and_Finance,1,0
+51874024,Colombia,Fuzzy_Logic,1,0
+51874024,Colombia,Security__eg_cybersecurity,1,0
+51874024,Colombia,Industrial_and_Manufacturing,1,0
+51874024,Colombia,Transportation,1,0
+5180829,Costa Rica,Machine_Learning,1,1
+5180829,Costa Rica,Generic_and_Unspecified,1,0
+5180829,Costa Rica,Life_Sciences,1,0
+5180829,Costa Rica,Industrial_and_Manufacturing,1,1
+3854000,Croatia,Agricultural,1,1
+3854000,Croatia,Speech_Processing,1,1
+3854000,Croatia,Telecommunications,1,1
+3854000,Croatia,Life_Sciences,1,0
+3854000,Croatia,Ontology_Engineering,1,1
+3854000,Croatia,Personal_Devices_and_Computing,1,1
+11212191,Cuba,Industrial_and_Manufacturing,1,1
+11212191,Cuba,Physical_Sciences_and_Engineering,1,1
+11212191,Cuba,Telecommunications,1,1
+11212191,Cuba,Generic_and_Unspecified,1,1
+11212191,Cuba,All,1,1
+11212191,Cuba,Energy_Management,1,1
+11212191,Cuba,Control,1,1
+10526073,Czech Republic,Industrial_and_Manufacturing,1,1
+10526073,Czech Republic,Agricultural,1,1
+10526073,Czech Republic,Energy_Management,1,1
+10526073,Czech Republic,Planning_and_Scheduling,1,1
+10526073,Czech Republic,Computer_Vision,1,1
+10526073,Czech Republic,Physical_Sciences_and_Engineering,1,0
+5903037,Denmark,Knowledge_Representation,1,1
+1344768,Estonia,All,1,1
+1344768,Estonia,Machine_Learning,1,1
+10566531,Greece,Logic_Programming,1,1
+10566531,Greece,Fuzzy_Logic,1,1
+275501339,Indonesia,Business,1,1
+275501339,Indonesia,Life_Sciences,1,1
+275501339,Indonesia,Logic_Programming,1,0
+88550570,Iran,All,1,1
+88550570,Iran,Logic_Programming,1,1
+88550570,Iran,Security__eg_cybersecurity,1,1
+88550570,Iran,Telecommunications,1,1
+88550570,Iran,Probabilistic_Reasoning,1,1
+88550570,Iran,Personal_Devices_and_Computing,1,1
+5086988,Republic of Ireland,Computer_Vision,1,1
+5086988,Republic of Ireland,Control,1,0
+5086988,Republic of Ireland,Probabilistic_Reasoning,1,0
+5086988,Republic of Ireland,Agricultural,1,0
+5086988,Republic of Ireland,Transportation,1,0
+5086988,Republic of Ireland,Industrial_and_Manufacturing,1,0
+5086988,Republic of Ireland,Banking_and_Finance,1,0
+5086988,Republic of Ireland,Life_Sciences,1,1
+5086988,Republic of Ireland,Generic_and_Unspecified,1,0
+9550600,Israel,Energy_Management,1,0
+11285869,Jordan,Generic_and_Unspecified,1,1
+11285869,Jordan,Life_Sciences,1,0
+11285869,Jordan,Business,1,0
+11285869,Jordan,Measuring_and_Testing,1,0
+11285869,Jordan,Security__eg_cybersecurity,1,1
+11285869,Jordan,Control,1,0
+11285869,Jordan,Telecommunications,1,0
+11285869,Jordan,Agricultural,1,0
+54027487,Kenya,Machine_Learning,1,1
+54027487,Kenya,Computer_Vision,1,1
+54027487,Kenya,Transportation,1,1
+54027487,Kenya,Control,1,1
+54027487,Kenya,All,1,1
+54027487,Kenya,Measuring_and_Testing,1,1
+1883379,Latvia,Telecommunications,1,1
+2833000,Lithuania,Planning_and_Scheduling,1,1
+2833000,Lithuania,Banking_and_Finance,1,1
+2833000,Lithuania,Transportation,1,1
+2833000,Lithuania,Agricultural,1,1
+2833000,Lithuania,Probabilistic_Reasoning,1,1
+2833000,Lithuania,Business,1,1
+650774,Luxembourg,Speech_Processing,1,1
+2592477,Moldova,Personal_Devices_and_Computing,1,0
+2592477,Moldova,All,1,0
+2592477,Moldova,Machine_Learning,1,0
+2592477,Moldova,Computer_Vision,1,0
+37457971,Morocco,Transportation,1,1
+37457971,Morocco,Logic_Programming,1,1
+37457971,Morocco,Fuzzy_Logic,1,0
+5124100,New Zealand,Fuzzy_Logic,1,1
+5457127,Norway,Ontology_Engineering,1,1
+5457127,Norway,Knowledge_Representation,1,0
+5457127,Norway,Fuzzy_Logic,1,0
+5457127,Norway,Speech_Processing,1,1
+4576298,Oman,Transportation,1,0
+4576298,Oman,All,1,0
+4576298,Oman,Life_Sciences,1,0
+4576298,Oman,Control,1,0
+4576298,Oman,Machine_Learning,1,0
+4408581,Panama,Control,1,0
+4408581,Panama,Life_Sciences,1,0
+34049588,Peru,Knowledge_Representation,1,0
+34049588,Peru,Probabilistic_Reasoning,1,1
+34049588,Peru,Transportation,1,0
+115559009,Philippines,Energy_Management,1,1
+37561599,Poland,Ontology_Engineering,1,1
+10379007,Portugal,Energy_Management,1,1
+10379007,Portugal,Speech_Processing,1,0
+18956666,Romania,Analytics_and_Algorithms,1,1
+18956666,Romania,Personal_Devices_and_Computing,1,0
+18956666,Romania,Planning_and_Scheduling,1,0
+18956666,Romania,Fuzzy_Logic,1,0
+33660,San Marino,Life_Sciences,1,0
+33660,San Marino,Physical_Sciences_and_Engineering,1,0
+33660,San Marino,Computer_Vision,1,1
+33660,San Marino,Industrial_and_Manufacturing,1,1
+33660,San Marino,Measuring_and_Testing,1,0
+33660,San Marino,Telecommunications,1,1
+33660,San Marino,Generic_and_Unspecified,1,0
+33660,San Marino,Agricultural,1,1
+33660,San Marino,Speech_Processing,1,1
+33660,San Marino,Control,1,1
+36408820,Saudi Arabia,Energy_Management,1,0
+36408820,Saudi Arabia,Control,1,1
+36408820,Saudi Arabia,Agricultural,1,0
+36408820,Saudi Arabia,Planning_and_Scheduling,1,0
+36408820,Saudi Arabia,Banking_and_Finance,1,0
+36408820,Saudi Arabia,Physical_Sciences_and_Engineering,1,1
+36408820,Saudi Arabia,Business,1,0
+36408820,Saudi Arabia,Life_Sciences,1,1
+6760087,Serbia,Business,1,0
+6760087,Serbia,Energy_Management,1,1
+6760087,Serbia,Physical_Sciences_and_Engineering,1,0
+6760087,Serbia,Ontology_Engineering,1,0
+6760087,Serbia,Telecommunications,1,1
+6760087,Serbia,Personal_Devices_and_Computing,1,0
+5431752,Slovakia,Transportation,1,0
+5431752,Slovakia,Security__eg_cybersecurity,1,0
+5431752,Slovakia,Probabilistic_Reasoning,1,0
+5431752,Slovakia,Energy_Management,1,0
+5431752,Slovakia,Life_Sciences,1,1
+2108732,Slovenia,Agricultural,1,1
+2108732,Slovenia,Probabilistic_Reasoning,1,1
+2108732,Slovenia,Logic_Programming,1,1
+2108732,Slovenia,Energy_Management,1,1
+59893885,South Africa,Life_Sciences,1,1
+59893885,South Africa,Agricultural,1,1
+59893885,South Africa,Industrial_and_Manufacturing,1,0
+59893885,South Africa,Analytics_and_Algorithms,1,1
+59893885,South Africa,Security__eg_cybersecurity,1,1
+59893885,South Africa,Logic_Programming,1,0
+59893885,South Africa,Measuring_and_Testing,1,1
+59893885,South Africa,Banking_and_Finance,1,1
+22181000,Sri Lanka,Analytics_and_Algorithms,1,1
+22181000,Sri Lanka,Life_Sciences,1,1
+22181000,Sri Lanka,All,1,1
+22181000,Sri Lanka,Machine_Learning,1,1
+10486941,Sweden,Ontology_Engineering,1,1
+8769741,Switzerland,Security__eg_cybersecurity,1,1
+8769741,Switzerland,Fuzzy_Logic,1,1
+8769741,Switzerland,Ontology_Engineering,1,0
+8769741,Switzerland,Energy_Management,1,1
+71697030,Thailand,Machine_Learning,1,0
+71697030,Thailand,All,1,0
+71697030,Thailand,Business,1,0
+12356117,Tunisia,Life_Sciences,1,1
+12356117,Tunisia,Analytics_and_Algorithms,1,1
+12356117,Tunisia,Agricultural,1,0
+12356117,Tunisia,Personal_Devices_and_Computing,1,1
+38000000,Ukraine,Industrial_and_Manufacturing,1,1
+38000000,Ukraine,Knowledge_Representation,1,1
+38000000,Ukraine,Physical_Sciences_and_Engineering,1,1
+38000000,Ukraine,Ontology_Engineering,1,1
+38000000,Ukraine,Logic_Programming,1,1
+38000000,Ukraine,Agricultural,1,1
+38000000,Ukraine,Control,1,0
+38000000,Ukraine,Probabilistic_Reasoning,1,1
+3422794,Uruguay,Fuzzy_Logic,1,1
+3422794,Uruguay,Analytics_and_Algorithms,1,1
+3422794,Uruguay,Telecommunications,1,0
+3422794,Uruguay,Computer_Vision,1,1
+3422794,Uruguay,Measuring_and_Testing,1,0
+3422794,Uruguay,Energy_Management,1,0
+3422794,Uruguay,Banking_and_Finance,1,0
+3422794,Uruguay,Personal_Devices_and_Computing,1,1
+3422794,Uruguay,Generic_and_Unspecified,1,0
+46234830,Argentina,Energy_Management,2,1
+46234830,Argentina,Security__eg_cybersecurity,2,0
+46234830,Argentina,Banking_and_Finance,2,0
+9042528,Austria,Agricultural,2,2
+11669446,Belgium,Energy_Management,2,2
+11669446,Belgium,Fuzzy_Logic,2,2
+6465097,Bulgaria,Banking_and_Finance,2,2
+6465097,Bulgaria,Logic_Programming,2,2
+6465097,Bulgaria,Energy_Management,2,1
+6465097,Bulgaria,Measuring_and_Testing,2,2
+6465097,Bulgaria,Industrial_and_Manufacturing,2,2
+6465097,Bulgaria,Planning_and_Scheduling,2,2
+19603733,Chile,Transportation,2,1
+19603733,Chile,Telecommunications,2,0
+19603733,Chile,Physical_Sciences_and_Engineering,2,1
+19603733,Chile,Generic_and_Unspecified,2,0
+19603733,Chile,Logic_Programming,2,1
+19603733,Chile,Life_Sciences,2,0
+51874024,Colombia,Personal_Devices_and_Computing,2,0
+51874024,Colombia,Telecommunications,2,1
+51874024,Colombia,Analytics_and_Algorithms,2,0
+5180829,Costa Rica,All,2,1
+3854000,Croatia,Control,2,2
+3854000,Croatia,Computer_Vision,2,2
+3854000,Croatia,Physical_Sciences_and_Engineering,2,1
+3854000,Croatia,Industrial_and_Manufacturing,2,2
+10526073,Czech Republic,Personal_Devices_and_Computing,2,2
+10526073,Czech Republic,Transportation,2,2
+10526073,Czech Republic,Business,2,2
+10526073,Czech Republic,Analytics_and_Algorithms,2,1
+10526073,Czech Republic,Logic_Programming,2,2
+10526073,Czech Republic,Life_Sciences,2,1
+10526073,Czech Republic,Telecommunications,2,1
+10566531,Greece,Transportation,2,2
+275501339,Indonesia,Telecommunications,2,1
+275501339,Indonesia,All,2,1
+275501339,Indonesia,Machine_Learning,2,1
+275501339,Indonesia,Banking_and_Finance,2,1
+275501339,Indonesia,Personal_Devices_and_Computing,2,1
+5086988,Republic of Ireland,Personal_Devices_and_Computing,2,1
+5086988,Republic of Ireland,Planning_and_Scheduling,2,0
+5086988,Republic of Ireland,Business,2,0
+11285869,Jordan,Industrial_and_Manufacturing,2,1
+1883379,Latvia,Machine_Learning,2,1
+1883379,Latvia,All,2,1
+2833000,Lithuania,Control,2,2
+2833000,Lithuania,Security__eg_cybersecurity,2,2
+2833000,Lithuania,Energy_Management,2,2
+2833000,Lithuania,Industrial_and_Manufacturing,2,2
+2833000,Lithuania,Logic_Programming,2,2
+33938221,Malaysia,Speech_Processing,2,2
+37457971,Morocco,Banking_and_Finance,2,1
+37457971,Morocco,Ontology_Engineering,2,0
+37457971,Morocco,Probabilistic_Reasoning,2,1
+37457971,Morocco,Industrial_and_Manufacturing,2,2
+37457971,Morocco,Energy_Management,2,1
+17942942,Netherlands,Fuzzy_Logic,2,1
+5457127,Norway,Security__eg_cybersecurity,2,2
+4408581,Panama,Generic_and_Unspecified,2,0
+4408581,Panama,All,2,0
+34049588,Peru,Energy_Management,2,1
+34049588,Peru,Agricultural,2,2
+115559009,Philippines,Fuzzy_Logic,2,0
+37561599,Poland,Fuzzy_Logic,2,1
+37561599,Poland,Speech_Processing,2,2
+18956666,Romania,Physical_Sciences_and_Engineering,2,1
+18956666,Romania,Energy_Management,2,0
+18956666,Romania,Life_Sciences,2,2
+18956666,Romania,Telecommunications,2,2
+18956666,Romania,Business,2,1
+33660,San Marino,Machine_Learning,2,2
+36408820,Saudi Arabia,Industrial_and_Manufacturing,2,1
+6760087,Serbia,Agricultural,2,1
+6760087,Serbia,Life_Sciences,2,1
+6760087,Serbia,Transportation,2,2
+6760087,Serbia,Probabilistic_Reasoning,2,0
+5431752,Slovakia,Generic_and_Unspecified,2,0
+5431752,Slovakia,Industrial_and_Manufacturing,2,0
+2108732,Slovenia,Physical_Sciences_and_Engineering,2,1
+59893885,South Africa,Telecommunications,2,0
+59893885,South Africa,Energy_Management,2,1
+59893885,South Africa,Physical_Sciences_and_Engineering,2,1
+10486941,Sweden,Knowledge_Representation,2,2
+8769741,Switzerland,Measuring_and_Testing,2,1
+8769741,Switzerland,Speech_Processing,2,1
+8769741,Switzerland,Agricultural,2,0
+8769741,Switzerland,Knowledge_Representation,2,1
+8769741,Switzerland,Probabilistic_Reasoning,2,2
+12356117,Tunisia,Telecommunications,2,1
+12356117,Tunisia,Security__eg_cybersecurity,2,0
+12356117,Tunisia,Control,2,0
+85341241,Turkey,Knowledge_Representation,2,0
+38000000,Ukraine,Life_Sciences,2,1
+38000000,Ukraine,Computer_Vision,2,1
+38000000,Ukraine,Personal_Devices_and_Computing,2,1
+3422794,Uruguay,Machine_Learning,2,1
+46234830,Argentina,Probabilistic_Reasoning,3,1
+46234830,Argentina,Control,3,2
+46234830,Argentina,Industrial_and_Manufacturing,3,1
+9042528,Austria,Logic_Programming,3,2
+9042528,Austria,Banking_and_Finance,3,2
+9042528,Austria,Knowledge_Representation,3,2
+9042528,Austria,Probabilistic_Reasoning,3,3
+11669446,Belgium,Speech_Processing,3,3
+6465097,Bulgaria,Business,3,3
+19603733,Chile,Personal_Devices_and_Computing,3,0
+19603733,Chile,Measuring_and_Testing,3,0
+51874024,Colombia,Control,3,0
+51874024,Colombia,Physical_Sciences_and_Engineering,3,1
+51874024,Colombia,Planning_and_Scheduling,3,0
+51874024,Colombia,Probabilistic_Reasoning,3,1
+3854000,Croatia,Generic_and_Unspecified,3,2
+5903037,Denmark,Banking_and_Finance,3,3
+10566531,Greece,Ontology_Engineering,3,3
+10566531,Greece,Security__eg_cybersecurity,3,2
+9683505,Hungary,Agricultural,3,2
+9550600,Israel,Knowledge_Representation,3,1
+9550600,Israel,Banking_and_Finance,3,1
+58856847,Italy,Ontology_Engineering,3,1
+58856847,Italy,Fuzzy_Logic,3,2
+11285869,Jordan,Machine_Learning,3,1
+33938221,Malaysia,Fuzzy_Logic,3,3
+33938221,Malaysia,Agricultural,3,3
+37457971,Morocco,Physical_Sciences_and_Engineering,3,2
+37457971,Morocco,Security__eg_cybersecurity,3,3
+17942942,Netherlands,Banking_and_Finance,3,3
+17942942,Netherlands,Speech_Processing,3,3
+5124100,New Zealand,Banking_and_Finance,3,3
+5124100,New Zealand,Transportation,3,3
+5457127,Norway,Banking_and_Finance,3,3
+5457127,Norway,Logic_Programming,3,2
+34049588,Peru,Security__eg_cybersecurity,3,2
+34049588,Peru,Logic_Programming,3,1
+115559009,Philippines,Ontology_Engineering,3,1
+115559009,Philippines,Security__eg_cybersecurity,3,2
+115559009,Philippines,Speech_Processing,3,1
+115559009,Philippines,Transportation,3,3
+115559009,Philippines,Knowledge_Representation,3,3
+115559009,Philippines,Control,3,2
+115559009,Philippines,Industrial_and_Manufacturing,3,2
+18956666,Romania,Control,3,2
+143555736,Russia,Energy_Management,3,2
+33660,San Marino,All,3,2
+36408820,Saudi Arabia,Machine_Learning,3,2
+36408820,Saudi Arabia,Generic_and_Unspecified,3,2
+6760087,Serbia,Measuring_and_Testing,3,1
+6760087,Serbia,Computer_Vision,3,2
+6760087,Serbia,Industrial_and_Manufacturing,3,3
+2108732,Slovenia,Measuring_and_Testing,3,2
+2108732,Slovenia,Telecommunications,3,3
+2108732,Slovenia,Control,3,3
+2108732,Slovenia,Personal_Devices_and_Computing,3,3
+59893885,South Africa,Computer_Vision,3,3
+59893885,South Africa,Ontology_Engineering,3,3
+59893885,South Africa,Fuzzy_Logic,3,3
+10486941,Sweden,Fuzzy_Logic,3,2
+8769741,Switzerland,Telecommunications,3,2
+8769741,Switzerland,Physical_Sciences_and_Engineering,3,2
+85341241,Turkey,Probabilistic_Reasoning,3,0
+38000000,Ukraine,Fuzzy_Logic,3,3
+3422794,Uruguay,Industrial_and_Manufacturing,3,2
+3422794,Uruguay,Agricultural,3,2
+46234830,Argentina,Logic_Programming,4,3
+9042528,Austria,Security__eg_cybersecurity,4,1
+11669446,Belgium,Agricultural,4,4
+11669446,Belgium,Security__eg_cybersecurity,4,2
+6465097,Bulgaria,Control,4,3
+51874024,Colombia,Computer_Vision,4,0
+51874024,Colombia,Business,4,0
+3854000,Croatia,Measuring_and_Testing,4,3
+10526073,Czech Republic,Control,4,3
+10526073,Czech Republic,Generic_and_Unspecified,4,2
+5556880,Finland,Banking_and_Finance,4,0
+5556880,Finland,Agricultural,4,1
+5556880,Finland,Ontology_Engineering,4,3
+10566531,Greece,Industrial_and_Manufacturing,4,3
+10566531,Greece,Agricultural,4,4
+10566531,Greece,Probabilistic_Reasoning,4,2
+9683505,Hungary,Speech_Processing,4,3
+9683505,Hungary,Transportation,4,4
+9683505,Hungary,Logic_Programming,4,3
+9550600,Israel,Ontology_Engineering,4,4
+11285869,Jordan,All,4,2
+2833000,Lithuania,Analytics_and_Algorithms,4,4
+2833000,Lithuania,Measuring_and_Testing,4,2
+2833000,Lithuania,Physical_Sciences_and_Engineering,4,2
+33938221,Malaysia,Energy_Management,4,4
+37457971,Morocco,Agricultural,4,2
+37457971,Morocco,Analytics_and_Algorithms,4,4
+37457971,Morocco,Control,4,4
+17942942,Netherlands,Security__eg_cybersecurity,4,4
+5124100,New Zealand,Logic_Programming,4,3
+5124100,New Zealand,Knowledge_Representation,4,3
+5124100,New Zealand,Ontology_Engineering,4,4
+5124100,New Zealand,Industrial_and_Manufacturing,4,3
+5124100,New Zealand,Energy_Management,4,2
+5457127,Norway,Planning_and_Scheduling,4,3
+5457127,Norway,Probabilistic_Reasoning,4,3
+115559009,Philippines,Logic_Programming,4,4
+115559009,Philippines,Analytics_and_Algorithms,4,2
+37561599,Poland,Banking_and_Finance,4,4
+10379007,Portugal,Security__eg_cybersecurity,4,3
+10379007,Portugal,Planning_and_Scheduling,4,2
+10379007,Portugal,Physical_Sciences_and_Engineering,4,3
+10379007,Portugal,Probabilistic_Reasoning,4,3
+10379007,Portugal,Business,4,2
+10379007,Portugal,Knowledge_Representation,4,3
+10379007,Portugal,Agricultural,4,2
+10379007,Portugal,Transportation,4,4
+18956666,Romania,Ontology_Engineering,4,0
+18956666,Romania,Computer_Vision,4,3
+18956666,Romania,Probabilistic_Reasoning,4,1
+6760087,Serbia,Control,4,4
+5637022,Singapore,Fuzzy_Logic,4,3
+2108732,Slovenia,Analytics_and_Algorithms,4,4
+8769741,Switzerland,Transportation,4,2
+8769741,Switzerland,Analytics_and_Algorithms,4,2
+12356117,Tunisia,Generic_and_Unspecified,4,1
+12356117,Tunisia,Machine_Learning,4,1
+85341241,Turkey,Speech_Processing,4,0
+3422794,Uruguay,All,4,2
+9042528,Austria,Planning_and_Scheduling,5,4
+11669446,Belgium,Transportation,5,4
+6465097,Bulgaria,Life_Sciences,5,5
+51874024,Colombia,Measuring_and_Testing,5,1
+51874024,Colombia,Generic_and_Unspecified,5,0
+10526073,Czech Republic,Measuring_and_Testing,5,3
+5903037,Denmark,Energy_Management,5,5
+5903037,Denmark,Logic_Programming,5,5
+10566531,Greece,Physical_Sciences_and_Engineering,5,3
+10566531,Greece,Energy_Management,5,4
+10566531,Greece,Speech_Processing,5,4
+9683505,Hungary,Probabilistic_Reasoning,5,5
+9683505,Hungary,Security__eg_cybersecurity,5,4
+1417173173,India,Agricultural,5,4
+9550600,Israel,Agricultural,5,2
+58856847,Italy,Knowledge_Representation,5,2
+33938221,Malaysia,Industrial_and_Manufacturing,5,5
+33938221,Malaysia,Knowledge_Representation,5,4
+127504125,Mexico,Fuzzy_Logic,5,2
+37457971,Morocco,Planning_and_Scheduling,5,5
+37457971,Morocco,Life_Sciences,5,2
+5124100,New Zealand,Physical_Sciences_and_Engineering,5,3
+5457127,Norway,Business,5,3
+34049588,Peru,Industrial_and_Manufacturing,5,2
+34049588,Peru,Life_Sciences,5,4
+34049588,Peru,Control,5,4
+34049588,Peru,Analytics_and_Algorithms,5,3
+115559009,Philippines,Agricultural,5,5
+115559009,Philippines,Physical_Sciences_and_Engineering,5,3
+2108732,Slovenia,Generic_and_Unspecified,5,4
+2108732,Slovenia,Computer_Vision,5,5
+2108732,Slovenia,Life_Sciences,5,4
+59893885,South Africa,Probabilistic_Reasoning,5,5
+10486941,Sweden,Speech_Processing,5,4
+8769741,Switzerland,Planning_and_Scheduling,5,1
+8769741,Switzerland,Control,5,2
+8769741,Switzerland,Logic_Programming,5,2
+8769741,Switzerland,Banking_and_Finance,5,2
+8769741,Switzerland,Industrial_and_Manufacturing,5,3
+8769741,Switzerland,Computer_Vision,5,2
+85341241,Turkey,Fuzzy_Logic,5,0
+38000000,Ukraine,Generic_and_Unspecified,5,5
+46234830,Argentina,Analytics_and_Algorithms,6,3
+9042528,Austria,Business,6,5
+9042528,Austria,Telecommunications,6,4
+11669446,Belgium,Telecommunications,6,5
+11669446,Belgium,Business,6,6
+11669446,Belgium,Planning_and_Scheduling,6,6
+3854000,Croatia,Machine_Learning,6,4
+5556880,Finland,Transportation,6,4
+10566531,Greece,Control,6,6
+9683505,Hungary,Energy_Management,6,6
+9683505,Hungary,Analytics_and_Algorithms,6,5
+9683505,Hungary,Banking_and_Finance,6,5
+9550600,Israel,Speech_Processing,6,1
+2833000,Lithuania,Personal_Devices_and_Computing,6,6
+2833000,Lithuania,Computer_Vision,6,6
+2833000,Lithuania,Telecommunications,6,6
+650774,Luxembourg,Banking_and_Finance,6,6
+33938221,Malaysia,Ontology_Engineering,6,6
+33938221,Malaysia,Analytics_and_Algorithms,6,6
+127504125,Mexico,Ontology_Engineering,6,4
+37457971,Morocco,Telecommunications,6,6
+37457971,Morocco,Business,6,6
+5124100,New Zealand,Business,6,4
+5124100,New Zealand,Planning_and_Scheduling,6,4
+5124100,New Zealand,Probabilistic_Reasoning,6,5
+5124100,New Zealand,Security__eg_cybersecurity,6,4
+5124100,New Zealand,Agricultural,6,6
+5124100,New Zealand,Speech_Processing,6,6
+5457127,Norway,Energy_Management,6,3
+5457127,Norway,Computer_Vision,6,3
+5457127,Norway,Life_Sciences,6,4
+34049588,Peru,Planning_and_Scheduling,6,3
+34049588,Peru,Business,6,3
+34049588,Peru,Banking_and_Finance,6,4
+115559009,Philippines,Life_Sciences,6,5
+37561599,Poland,Knowledge_Representation,6,4
+10379007,Portugal,Logic_Programming,6,5
+10379007,Portugal,Industrial_and_Manufacturing,6,6
+36408820,Saudi Arabia,All,6,4
+5637022,Singapore,Energy_Management,6,6
+5637022,Singapore,Agricultural,6,5
+59893885,South Africa,Planning_and_Scheduling,6,4
+59893885,South Africa,Business,6,4
+47615034,Spain,Ontology_Engineering,6,5
+8769741,Switzerland,Life_Sciences,6,4
+8769741,Switzerland,Business,6,1
+8769741,Switzerland,Generic_and_Unspecified,6,2
+85341241,Turkey,Energy_Management,6,0
+11669446,Belgium,Analytics_and_Algorithms,7,7
+11669446,Belgium,Control,7,5
+6465097,Bulgaria,Personal_Devices_and_Computing,7,7
+5903037,Denmark,Probabilistic_Reasoning,7,7
+5903037,Denmark,Agricultural,7,7
+5556880,Finland,Probabilistic_Reasoning,7,5
+67749632,France,Agricultural,7,5
+10566531,Greece,Analytics_and_Algorithms,7,5
+9683505,Hungary,Physical_Sciences_and_Engineering,7,6
+650774,Luxembourg,Agricultural,7,7
+650774,Luxembourg,Knowledge_Representation,7,7
+33938221,Malaysia,Probabilistic_Reasoning,7,7
+33938221,Malaysia,Transportation,7,7
+33938221,Malaysia,Banking_and_Finance,7,7
+37457971,Morocco,Generic_and_Unspecified,7,2
+37457971,Morocco,Measuring_and_Testing,7,5
+17942942,Netherlands,Knowledge_Representation,7,7
+5124100,New Zealand,Control,7,6
+5457127,Norway,Industrial_and_Manufacturing,7,6
+6760087,Serbia,Generic_and_Unspecified,7,0
+59893885,South Africa,Personal_Devices_and_Computing,7,5
+85341241,Turkey,Physical_Sciences_and_Engineering,7,0
+9042528,Austria,Industrial_and_Manufacturing,8,5
+9042528,Austria,Generic_and_Unspecified,8,6
+11669446,Belgium,Life_Sciences,8,8
+11669446,Belgium,Generic_and_Unspecified,8,6
+11669446,Belgium,Physical_Sciences_and_Engineering,8,8
+215313498,Brazil,Fuzzy_Logic,8,4
+5903037,Denmark,Security__eg_cybersecurity,8,8
+5903037,Denmark,Planning_and_Scheduling,8,7
+5556880,Finland,Fuzzy_Logic,8,4
+5556880,Finland,Knowledge_Representation,8,4
+10566531,Greece,Planning_and_Scheduling,8,7
+10566531,Greece,Telecommunications,8,7
+9683505,Hungary,Planning_and_Scheduling,8,8
+5086988,Republic of Ireland,All,8,5
+58856847,Italy,Speech_Processing,8,3
+2833000,Lithuania,Life_Sciences,8,7
+650774,Luxembourg,Ontology_Engineering,8,8
+33938221,Malaysia,Physical_Sciences_and_Engineering,8,8
+17942942,Netherlands,Probabilistic_Reasoning,8,8
+5124100,New Zealand,Analytics_and_Algorithms,8,8
+5457127,Norway,Agricultural,8,6
+5457127,Norway,Analytics_and_Algorithms,8,6
+5457127,Norway,Telecommunications,8,8
+5457127,Norway,Physical_Sciences_and_Engineering,8,6
+34049588,Peru,Telecommunications,8,6
+34049588,Peru,Personal_Devices_and_Computing,8,8
+115559009,Philippines,Planning_and_Scheduling,8,7
+37561599,Poland,Security__eg_cybersecurity,8,6
+37561599,Poland,Energy_Management,8,6
+37561599,Poland,Agricultural,8,6
+10379007,Portugal,Measuring_and_Testing,8,6
+2108732,Slovenia,Machine_Learning,8,8
+12356117,Tunisia,All,8,2
+46234830,Argentina,Planning_and_Scheduling,9,7
+46234830,Argentina,Life_Sciences,9,3
+11669446,Belgium,Personal_Devices_and_Computing,9,8
+11669446,Belgium,Measuring_and_Testing,9,7
+11669446,Belgium,Industrial_and_Manufacturing,9,9
+19603733,Chile,Machine_Learning,9,1
+3854000,Croatia,All,9,6
+5903037,Denmark,Physical_Sciences_and_Engineering,9,7
+5556880,Finland,Speech_Processing,9,4
+9683505,Hungary,Business,9,8
+1417173173,India,Energy_Management,9,4
+9550600,Israel,Physical_Sciences_and_Engineering,9,1
+650774,Luxembourg,Transportation,9,8
+33938221,Malaysia,Security__eg_cybersecurity,9,9
+17942942,Netherlands,Logic_Programming,9,9
+17942942,Netherlands,Agricultural,9,9
+17942942,Netherlands,Energy_Management,9,9
+10379007,Portugal,Control,9,9
+47615034,Spain,Fuzzy_Logic,9,7
+10486941,Sweden,Logic_Programming,9,6
+46234830,Argentina,Business,10,7
+46234830,Argentina,Personal_Devices_and_Computing,10,6
+51874024,Colombia,Life_Sciences,10,1
+5903037,Denmark,Business,10,9
+5556880,Finland,Energy_Management,10,7
+9683505,Hungary,Control,10,10
+9683505,Hungary,Industrial_and_Manufacturing,10,10
+9550600,Israel,Probabilistic_Reasoning,10,5
+9550600,Israel,Industrial_and_Manufacturing,10,5
+2833000,Lithuania,Generic_and_Unspecified,10,9
+37457971,Morocco,Computer_Vision,10,10
+17942942,Netherlands,Ontology_Engineering,10,10
+115559009,Philippines,Measuring_and_Testing,10,7
+37561599,Poland,Planning_and_Scheduling,10,8
+37561599,Poland,Physical_Sciences_and_Engineering,10,9
+9042528,Austria,Physical_Sciences_and_Engineering,11,8
+11669446,Belgium,Computer_Vision,11,11
+19603733,Chile,All,11,1
+10526073,Czech Republic,Machine_Learning,11,9
+9550600,Israel,Planning_and_Scheduling,11,6
+33938221,Malaysia,Logic_Programming,11,10
+17942942,Netherlands,Transportation,11,11
+17942942,Netherlands,Physical_Sciences_and_Engineering,11,11
+5457127,Norway,Transportation,11,8
+34049588,Peru,Measuring_and_Testing,11,6
+34049588,Peru,Generic_and_Unspecified,11,9
+115559009,Philippines,Probabilistic_Reasoning,11,8
+115559009,Philippines,Banking_and_Finance,11,6
+115559009,Philippines,Business,11,9
+143555736,Russia,Agricultural,11,11
+46234830,Argentina,Telecommunications,12,3
+6465097,Bulgaria,Machine_Learning,12,12
+51874024,Colombia,Machine_Learning,12,2
+10566531,Greece,Generic_and_Unspecified,12,7
+10566531,Greece,Measuring_and_Testing,12,10
+10566531,Greece,Business,12,10
+1417173173,India,Fuzzy_Logic,12,9
+17942942,Netherlands,Industrial_and_Manufacturing,12,12
+5124100,New Zealand,Telecommunications,12,11
+5457127,Norway,Control,12,8
+34049588,Peru,Computer_Vision,12,8
+37561599,Poland,Logic_Programming,12,10
+37561599,Poland,Transportation,12,12
+10379007,Portugal,Analytics_and_Algorithms,12,8
+85341241,Turkey,Logic_Programming,12,2
+46234830,Argentina,Generic_and_Unspecified,13,4
+46234830,Argentina,Computer_Vision,13,7
+5903037,Denmark,Industrial_and_Manufacturing,13,11
+5903037,Denmark,Speech_Processing,13,12
+9550600,Israel,Logic_Programming,13,7
+37457971,Morocco,Personal_Devices_and_Computing,13,8
+5457127,Norway,Generic_and_Unspecified,13,10
+34049588,Peru,Physical_Sciences_and_Engineering,13,7
+115559009,Philippines,Telecommunications,13,6
+10486941,Sweden,Banking_and_Finance,13,11
+10486941,Sweden,Planning_and_Scheduling,13,7
+9042528,Austria,Life_Sciences,14,9
+215313498,Brazil,Ontology_Engineering,14,9
+67749632,France,Fuzzy_Logic,14,10
+9683505,Hungary,Telecommunications,14,12
+1417173173,India,Physical_Sciences_and_Engineering,14,8
+58856847,Italy,Logic_Programming,14,6
+650774,Luxembourg,Logic_Programming,14,14
+33938221,Malaysia,Measuring_and_Testing,14,13
+33938221,Malaysia,Planning_and_Scheduling,14,13
+17942942,Netherlands,Planning_and_Scheduling,14,14
+5457127,Norway,Personal_Devices_and_Computing,14,10
+5637022,Singapore,Ontology_Engineering,14,6
+2108732,Slovenia,All,14,13
+10486941,Sweden,Business,14,7
+10486941,Sweden,Energy_Management,14,10
+8769741,Switzerland,Personal_Devices_and_Computing,14,5
+9042528,Austria,Analytics_and_Algorithms,15,10
+9550600,Israel,Business,15,6
+2833000,Lithuania,Machine_Learning,15,14
+650774,Luxembourg,Fuzzy_Logic,15,14
+127504125,Mexico,Knowledge_Representation,15,7
+5457127,Norway,Measuring_and_Testing,15,12
+37561599,Poland,Business,15,11
+37561599,Poland,Probabilistic_Reasoning,15,15
+5637022,Singapore,Speech_Processing,15,11
+10486941,Sweden,Agricultural,15,10
+10486941,Sweden,Probabilistic_Reasoning,15,10
+10486941,Sweden,Security__eg_cybersecurity,15,12
+9042528,Austria,Computer_Vision,16,14
+10526073,Czech Republic,All,16,12
+5556880,Finland,Physical_Sciences_and_Engineering,16,10
+5556880,Finland,Security__eg_cybersecurity,16,9
+9683505,Hungary,Measuring_and_Testing,16,13
+58856847,Italy,Probabilistic_Reasoning,16,8
+58856847,Italy,Banking_and_Finance,16,6
+650774,Luxembourg,Industrial_and_Manufacturing,16,15
+127504125,Mexico,Speech_Processing,16,9
+10379007,Portugal,Generic_and_Unspecified,16,9
+10379007,Portugal,Telecommunications,16,14
+10486941,Sweden,Physical_Sciences_and_Engineering,16,12
+85341241,Turkey,Industrial_and_Manufacturing,16,2
+46234830,Argentina,Measuring_and_Testing,17,6
+5903037,Denmark,Transportation,17,17
+650774,Luxembourg,Probabilistic_Reasoning,17,17
+33938221,Malaysia,Control,17,17
+33938221,Malaysia,Life_Sciences,17,17
+17942942,Netherlands,Control,17,17
+5124100,New Zealand,Measuring_and_Testing,17,15
+47615034,Spain,Banking_and_Finance,17,15
+85341241,Turkey,Agricultural,17,0
+51874024,Colombia,All,18,2
+10566531,Greece,Life_Sciences,18,14
+9683505,Hungary,Life_Sciences,18,13
+650774,Luxembourg,Physical_Sciences_and_Engineering,18,18
+650774,Luxembourg,Energy_Management,18,17
+33938221,Malaysia,Telecommunications,18,18
+33938221,Malaysia,Business,18,17
+5124100,New Zealand,Computer_Vision,18,18
+5124100,New Zealand,Generic_and_Unspecified,18,15
+46234830,Argentina,Agricultural,19,11
+46234830,Argentina,Physical_Sciences_and_Engineering,19,9
+5556880,Finland,Logic_Programming,19,9
+67749632,France,Ontology_Engineering,19,14
+9683505,Hungary,Generic_and_Unspecified,19,13
+33938221,Malaysia,Computer_Vision,19,19
+17942942,Netherlands,Business,19,19
+10379007,Portugal,Life_Sciences,19,12
+5637022,Singapore,Industrial_and_Manufacturing,19,17
+47615034,Spain,Knowledge_Representation,19,17
+85341241,Turkey,Transportation,19,1
+5556880,Finland,Industrial_and_Manufacturing,22,15
+10566531,Greece,Computer_Vision,22,19
+9550600,Israel,Control,22,12
+127504125,Mexico,Energy_Management,22,16
+37457971,Morocco,Machine_Learning,22,16
+17942942,Netherlands,Generic_and_Unspecified,22,21
+5124100,New Zealand,Personal_Devices_and_Computing,22,21
+10379007,Portugal,Computer_Vision,22,19
+5903037,Denmark,Generic_and_Unspecified,29,27
+67749632,France,Speech_Processing,29,16
+58856847,Italy,Security__eg_cybersecurity,29,8
+650774,Luxembourg,Analytics_and_Algorithms,29,29
+127504125,Mexico,Security__eg_cybersecurity,29,20
+143555736,Russia,Banking_and_Finance,29,25
+143555736,Russia,Industrial_and_Manufacturing,29,28
+11669446,Belgium,Machine_Learning,30,27
+5556880,Finland,Business,30,13
+37457971,Morocco,All,30,18
+143555736,Russia,Speech_Processing,30,27
+6760087,Serbia,Machine_Learning,30,5
+47615034,Spain,Agricultural,30,27
+10486941,Sweden,Life_Sciences,30,22
+10486941,Sweden,Analytics_and_Algorithms,30,23
+38000000,Ukraine,Machine_Learning,30,28
+9042528,Austria,Control,42,32
+6465097,Bulgaria,Generic_and_Unspecified,42,37
+5903037,Denmark,Telecommunications,42,39
+5556880,Finland,Measuring_and_Testing,42,26
+58856847,Italy,Transportation,42,27
+650774,Luxembourg,Business,42,42
+17942942,Netherlands,Life_Sciences,42,41
+10379007,Portugal,Machine_Learning,42,33
+47615034,Spain,Energy_Management,42,33
