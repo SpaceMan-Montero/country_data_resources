@@ -1,0 +1,225 @@
+﻿Country,Median Broadband download speed (MBPS),Median Mobile Download Speed (MBPS),Mean Download speed (MBPS)
+Singapore,407.05,195.65,134.43
+Chile,357.25,88.63,100.66
+United Arab Emirates,356.24,672.68,99.26
+France,346.04,147.49,176.97
+Hong Kong,345.33,90.13,138.18
+Iceland,318.37,,279.55
+Macau,312.37,,234.74
+United States,302.68,185,161.97
+Switzerland,278.51,126.25,161.88
+Thailand,275.26,136.91,67.75
+Vietnam,273.64,160.5,45.92
+Israel,273.26,64.08,153.61
+Romania,269.23,80.1,105.46
+Denmark,266.23,183.87,210.51
+Spain,263.31,91.21,148.63
+Taiwan,259.92,122.55,136.58
+Canada,256.49,95.45,152.25
+Peru,252.42,35.13,63.28
+Andorra,239.97,,199.89
+Hungary,236.85,86.62,112.15
+Portugal,236.77,152.22,116.91
+South Korea,232.86,240.28,172.53
+Japan,229.84,65.14,139.53
+Kuwait,229.79,398.66,58.89
+Netherlands,224.14,167.46,188.49
+China,223.47,162.67,37.56
+Brazil,219.78,256.72,92.83
+New Zealand,215.88,131.48,124.01
+Poland,213.25,103.08,104.36
+Lithuania,209.4,132.71,110.74
+Luxembourg,207.01,151.23,76.64
+Colombia,206.83,42.11,53.87
+Panama,197.02,31.33,62.43
+Qatar,196.96,542.56,101.72
+Jordan,195.47,46.46,42.46
+Uruguay,193.86,,156.42
+Malta,192.98,,141.07
+Sweden,190.42,141.81,156.42
+Ireland,188.9,65.94,102.96
+Liechtenstein,187.37,,222.98
+Moldova,171.08,55.71,73.84
+Norway,168.69,158.42,140.56
+Australia,164.09,127.95,77.99
+United Kingdom,162.77,71.83,110.99
+Malaysia,162.39,141.18,82.38
+Finland,161.16,142.51,95.13
+Costa Rica,156.03,82.44,53.39
+Trinidad and Tobago,152.24,,66.43
+Bahrain,144.46,256.81,67.16
+Ecuador,143.83,39.29,45.54
+Saudi Arabia,142.83,204.42,37.65
+Cyprus,141.89,110.5,51.53
+Belgium,138.09,120.28,124.78
+Guyana,130.21,,28.57
+Slovenia,129.78,145.55,90.4
+Latvia,124.3,137.34,95.5
+Montenegro,118.39,72.72,73.93
+Austria,114.48,115.49,64.96
+Croatia,112.88,134.86,
+Italy,110.09,89.3,72.45
+Argentina,109.9,59.01,59.7
+Paraguay,108.01,20.71,45.1
+Philippines,107.95,54.39,52.07
+Serbia,103.78,68.25,86.36
+Germany,102.03,76.9,87.77
+San Marino,101.53,,143.2
+Slovakia,99.11,111.75,145.19
+El Salvador,97.07,43.41,35.9
+Venezuela,96.73,24.65,23.33
+Jamaica,95.69,,62.13
+Estonia,94.33,150.05,113.1
+Oman,93.63,159.9,57.85
+Grenada,93.03,,72.49
+Mexico,91.83,40.72,44.73
+Nicaragua,91.66,28.97,33.85
+Egypt,91.55,46.17,12.64
+Albania,90.32,,29.87
+Uzbekistan,89.89,53.23,21.21
+Ukraine,89.68,50.53,49.39
+Russia,89.66,37.31,67.43
+Belarus,89.27,20.96,45.81
+Bulgaria,88.83,267.37,67.47
+Czechia,88.64,97.65,74.41
+Guatemala,88.22,56.17,37.34
+Greece,86.86,135.98,72.54
+Azerbaijan,86.15,83.37,13.85
+Brunei,85.53,226.92,62.61
+Saint Kitts and Nevis,85.33,,71.96
+Kyrgyzstan,85.06,51.63,11.18
+Honduras,84.72,40.57,21.77
+Kazakhstan,83.5,93.07,13.92
+Bahamas,82.9,,72.34
+Mongolia,80.18,,19.14
+Nepal,79,,25.97
+Armenia,77.19,66.44,26.78
+Palestine,74.99,,25.5
+Turkey,69.11,69.21,32.89
+Dominican Republic,68.34,,48.05
+Bangladesh,63.48,41.72,9.22
+Bolivia,62.44,14.35,20.14
+India,61.58,130.89,65.51
+Mauritius,59.15,,31.12
+Ivory Coast,58.8,,17.67
+Sudan,57.55,,4.02
+North Macedonia,57.49,177.08,79.09
+Morocco,56.75,124.03,19.61
+Mauritania,55.93,,10.94
+Ghana,53.47,,16.59
+Laos,52.34,47.18,25.14
+Algeria,51.8,40.86,12.35
+Haiti,51.79,,13.21
+Belize,49.67,,41.72
+Cambodia,48.82,50.18,25.54
+South Africa,48.31,68.03,42.42
+Burkina Faso,47.98,,15.91
+DR Congo,46.38,,12.81
+Georgia,44.91,169.82,20.83
+Antigua and Barbuda,43.6,,32.98
+Indonesia,43.18,50.77,19.54
+Iraq,42.61,61.41,10.39
+Botswana,42.24,,29.52
+Rwanda,40.85,,32.69
+Tajikistan,40.42,,3.1
+Zambia,39.6,,8.99
+Gabon,39.6,,14.85
+Bosnia and Herzegovina,38.18,30.09,45.51
+Togo,35.74,,10.54
+Mozambique,35.55,,14.15
+Zimbabwe,34.18,,16.77
+Sri Lanka,32.61,38.55,18.45
+Nigeria,31.14,43.73,27.62
+Myanmar,28.47,,13.28
+Uganda,28.08,,13.59
+Madagascar,26.61,,22.57
+Yemen,25.49,,2.99
+Benin,24.53,,15.54
+Angola,22.95,,12.79
+Senegal,21.86,,12.16
+Iran,20.99,58.92,9.72
+Tanzania,20.59,,13.26
+Maldives,20.5,,27.26
+Suriname,20.3,47.49,13.79
+Somalia,19.71,,6.64
+Tunisia,18.75,63.63,11.18
+Lebanon,18.62,44.12,9.67
+Pakistan,18.27,24.79,7.85
+Djibouti,18.08,,7.21
+Namibia,16.54,46.52,11.48
+Kenya,15.89,48.17,13.69
+Cameroon,13.4,,7.97
+Libya,10.57,23.41,8.37
+Gambia,9.66,,5.33
+Ethiopia,9.37,,4.45
+Afghanistan,4.65,,3.11
+Cuba,3.72,,4.49
+Syria,3.63,24.81,2.8
+Niger,,,4.97
+Mali,,,7.66
+Malawi,,,13.14
+Chad,,,10.47
+Guinea,,,8.55
+Burundi,,,6.07
+South Sudan,,,7.47
+Papua New Guinea,,,15.52
+Sierra Leone,,,7.24
+Turkmenistan,,,2.72
+Republic of the Congo,,,16.25
+Liberia,,,12.45
+Central African Republic,,,4.08
+Eritrea,,,4.61
+Puerto Rico,,,118.54
+Lesotho,,,20.71
+Guinea-Bissau,,,5.63
+Equatorial Guinea,,,5.27
+Timor-Leste,,,6
+Eswatini,,19.23,37.23
+Fiji,,,13.28
+Comoros,,,8.38
+Reunion,,,63.29
+Solomon Islands,,,11.54
+Bhutan,,,21.24
+Cape Verde,,,11.44
+Guadeloupe,,,55.28
+Mayotte,,,14.5
+Vanuatu,,,7.67
+Martinique,,,48.54
+French Guiana,,,42.68
+New Caledonia,,,50.61
+French Polynesia,,,14.15
+Barbados,,,97.27
+Sao Tome and Principe,,,17.45
+Samoa,,,17.82
+Curacao,,,49.61
+Saint Lucia,,,56.84
+Guam,,,36.4
+Seychelles,,,20.09
+Micronesia,,,5.32
+Aruba,,,67.06
+Jersey,,,273.51
+Isle of Man,,,116.58
+United States Virgin Islands,,,83.51
+Cayman Islands,,,118.83
+Dominica,,,47.9
+Guernsey,,,75.63
+Bermuda,,,107.4
+Faroe Islands,,,56.61
+Greenland,,,42.69
+Turks and Caicos Islands,,,51.82
+American Samoa,,,16.17
+Sint Maarten,,,18.17
+Northern Mariana Islands,,,29.8
+Gibraltar,,,180.91
+British Virgin Islands,,,79.26
+Monaco,,,173.79
+Marshall Islands,,,26.84
+Saint Martin,,,56
+Palau,,,10.01
+Anguilla,,,49.23
+Saint Barthelemy,,,51.11
+Wallis and Futuna,,,4.66
+Saint Pierre and Miquelon,,,56.61
+Montserrat,,,46.34
+Falkland Islands,,,5.34
+Vatican City,,,51.6
