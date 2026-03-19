@@ -1,149 +1,149 @@
-﻿Rank,Country_old,Country ,Working_Age_Pop_Using_AI,
-1,🇦🇪 UAE,UAE,64,
-2,🇸🇬 Singapore,Singapore,60.9,
-3,🇳🇴 Norway,Norway,46.4,
-4,🇮🇪 Ireland,Ireland,44.6,
-5,🇫🇷 France,France,44,
-6,🇪🇸 Spain,Spain,41.8,
-7,🇳🇿 New Zealand,New Zealand,40.5,
-8,🇳🇱 Netherlands,Netherlands,38.9,
-9,🇬🇧 UK,UK,38.9,
-10,🇶🇦 Qatar,Qatar,38.3,
-11,🇦🇺 Australia,Australia,36.9,
-12,🇮🇱 Israel,Israel,36.1,
-13,🇧🇪 Belgium,Belgium,36,
-14,🇨🇦 Canada,Canada,35,
-15,🇨🇭 Switzerland,Switzerland,34.8,
-16,🇸🇪 Sweden,Sweden,33.3,
-17,🇦🇹 Austria,Austria,31.4,
-18,🇰🇷 South Korea,South Korea,30.7,
-19,🇭🇺 Hungary,Hungary,29.8,
-20,🇩🇰 Denmark,Denmark,28.7,
-21,🇩🇪 Germany,Germany,28.6,
-22,🇵🇱 Poland,Poland,28.5,
-23,🇹🇼 Taiwan,Taiwan,28.4,
-24,🇺🇸 U.S.,U.S.,28.3,
-25,🇮🇹 Italy,Italy,27.8,
-26,🇨🇿 Czechia,Czechia,27.8,
-27,🇧🇬 Bulgaria,Bulgaria,27.3,
-28,🇫🇮 Finland,Finland,27.3,
-29,🇯🇴 Jordan,Jordan,27,
-30,🇸🇮 Slovenia,Slovenia,26.5,
-31,🇨🇷 Costa Rica,Costa Rica,26.5,
-32,🇸🇦 Saudi Arabia,Saudi Arabia,26.2,
-33,🇱🇧 Lebanon,Lebanon,25.7,
-34,🇵🇹 Portugal,Portugal,24.2,
-35,🇴🇲 Oman,Oman,24.2,
-36,🇸🇰 Slovakia,Slovakia,23.8,
-37,🇭🇷 Croatia,Croatia,23.7,
-38,🇻🇳 Vietnam,Vietnam,23.5,
-39,🇩🇴 Dominican Republic,Dominican Republic,22.7,
-40,🇺🇾 Uruguay,Uruguay,22.5,
-41,🇱🇹 Lithuania,Lithuania,22.4,
-42,🇯🇲 Jamaica,Jamaica,22.1,
-43,🇨🇴 Colombia,Colombia,22,
-44,🇷🇸 Serbia,Serbia,21.5,
-45,🇵🇦 Panama,Panama,21.5,
-46,🇿🇦 South Africa,South Africa,21.1,
-47,🇨🇱 Chile,Chile,20.8,
-48,🇲🇾 Malaysia,Malaysia,19.7,
-49,🇦🇷 Argentina,Argentina,19.6,
-50,🇧🇦 Bosnia and,Bosnia and,19.5,
-,Herzegovina,govina,,
-51,🇯🇵 Japan,Japan,19.1,
-52,🇰🇼 Kuwait,Kuwait,19.1,
-53,🇬🇷 Greece,Greece,19.1,
-54,🇵🇭 Philippines,Philippines,18.3,
-55,🇬🇪 Georgia,Georgia,18.2,
-56,🇲🇽 Mexico,Mexico,17.8,
-57,🇪🇨 Ecuador,Ecuador,17.7,
-58,🇧🇷 Brazil,Brazil,17.1,
-59,🇲🇩 Moldova,Moldova,17,
-60,🇦🇱 Albania,Albania,16.5,
-61,🇨🇳 China,China,16.3,
-62,🇸🇻 El Salvador,El Salvador,16.2,
-63,🇷🇴 Romania,Romania,16.2,
-64,🇮🇳 India,India,15.7,
-65,🇦🇿 Azerbaijan,Azerbaijan,15.5,
-66,🇬🇹 Guatemala,Guatemala,14.8,
-67,🇵🇪 Peru,Peru,14.7,
-68,🇹🇷 Türkiye,Türkiye,14.6,
-69,🇲🇳 Mongolia,Mongolia,14.3,
-70,🇳🇦 Namibia,Namibia,13.8,
-71,🇱🇾 Libya,Libya,13.7,
-72,🇰🇿 Kazakhstan,Kazakhstan,13.7,
-73,🇧🇼 Botswana,Botswana,13.7,
-74,🇬🇦 Gabon,Gabon,13.4,
-75,🇪🇬 Egypt,Egypt,13.4,
-76,🇭🇳 Honduras,Honduras,13.1,
-77,🇳🇵 Nepal,Nepal,13,
-78,🇸🇳 Senegal,Senegal,12.9,
-79,🇮🇩 Indonesia,Indonesia,12.7,
-80,🇹🇳 Tunisia,Tunisia,12.7,
-81,🇿🇲 Zambia,Zambia,12.3,
-82,🇩🇿 Algeria,Algeria,12,
-83,🇨🇮 Cote D'Ivoire,Cote D'Ivoire,11.7,
-84,🇧🇴 Bolivia,Bolivia,11.6,
-85,🇮🇶 Iraq,Iraq,11.2,
-86,🇵🇾 Paraguay,Paraguay,11,
-87,🇲🇦 Morocco,Morocco,10.9,
-88,🇬🇲 Gambia,Gambia,10.9,
-89,🇹🇭 Thailand,Thailand,10.7,
-90,🇮🇷 Iran,Iran,10.7,
-91,🇳🇮 Nicaragua,Nicaragua,10.7,
-92,🇵🇰 Pakistan,Pakistan,10.3,
-93,🇦🇴 Angola,Angola,9.7,
-94,🇲🇬 Madagascar,Madagascar,9.7,
-95,🇲🇼 Malawi,Malawi,9.7,
-96,🇲🇿 Mozambique,Mozambique,9.7,
-97,🇧🇯 Benin,Benin,9.3,
-98,🇧🇫 Burkina Faso,Burkina Faso,9.3,
-99,🇬🇭 Ghana,Ghana,9.3,
-100,🇬🇳 Guinea,Guinea,9.3,
-101,🇬🇼 Guinea-Bissau,Guinea-Bissau,9.3,
-102,🇱🇷 Liberia,Liberia,9.3,
-103,🇲🇱 Mali,Mali,9.3,
-104,🇲🇷 Mauritania,Mauritania,9.3,
-105,🇳🇪 Niger,Niger,9.3,
-106,🇳🇬 Nigeria,Nigeria,9.3,
-107,🇸🇱 Sierra Leone,Sierra Leone,9.3,
-108,🇹🇬 Togo,Togo,9.3,
-109,🇲🇲 Myanmar,Myanmar,9.1,
-110,🇱🇸 Lesotho,Lesotho,9.1,
-111,🇬🇫 French Guiana,French Guiana,9,
-112,🇬🇾 Guyana,Guyana,9,
-113,🇸🇷 Suriname,Suriname,9,
-114,🇻🇪 Venezuela,Venezuela,9,
-115,🇺🇦 Ukraine,Ukraine,9,
-116,🇧🇾 Belarus,Belarus,8.4,
-117,🇰🇬 Kyrgyzstan,Kyrgyzstan,8.2,
-118,🇰🇪 Kenya,Kenya,8.1,
-119,🇷🇺 Russia,Russia,8,
-120,🇨🇲 Cameroon,Cameroon,7.8,
-121,🇨🇫 Central African Republic,Central African Republic,7.8,
-122,🇹🇩 Chad,Chad,7.8,
-123,🇨🇬 Congo,Congo,7.8,
-124,🇨🇩 DRC Congo,DRC Congo,7.8,
-125,🇿🇼 Zimbabwe,Zimbabwe,7.6,
-126,🇭🇹 Haiti,Haiti,7.6,
-127,🇵🇬 Papua New Guinea,Papua New Guinea,7.3,
-128,🇧🇩 Bangladesh,Bangladesh,7.1,
-129,🇸🇾 Syria,Syria,7.1,
-130,🇧🇮 Burundi,Burundi,6.8,
-131,🇪🇷 Eritrea,Eritrea,6.8,
-132,🇪🇹 Ethiopia,Ethiopia,6.8,
-133,🇸🇴 Somalia,Somalia,6.8,
-134,🇸🇸 South Sudan,South Sudan,6.8,
-135,🇸🇩 Sudan,Sudan,6.8,
-136,🇹🇿 Tanzania,Tanzania,6.8,
-137,🇺🇬 Uganda,Uganda,6.8,
-138,🇱🇦 Laos,Laos,6.7,
-139,🇦🇲 Armenia,Armenia,6.6,
-140,🇱🇰 Sri Lanka,Sri Lanka,6.6,
-141,🇺🇿 Uzbekistan,Uzbekistan,6.3,
-142,🇷🇼 Rwanda,Rwanda,6.3,
-143,🇨🇺 Cuba,Cuba,6.1,
-144,🇦🇫 Afghanistan,Afghanistan,5.6,
-145,🇹🇯 Tajikistan,Tajikistan,5.6,
-146,🇹🇲 Turkmenistan,Turkmenistan,5.6,
-147,🇰🇭 Cambodia,Cambodia,5.1,
+﻿Rank,Country_old,Country ,Working_Age_Pop_Using_AI
+1,🇺🇸 U.S.,U.S.,28.3
+2,🇨🇳 China,China,16.3
+3,🇸🇬 Singapore,Singapore,60.9
+4,🇬🇧 UK,UK,38.9
+5,🇫🇷 France,France,44
+6,🇰🇷 South Korea,South Korea,30.7
+7,🇩🇪 Germany,Germany,28.6
+8,🇨🇦 Canada,Canada,35
+9,🇮🇱 Israel,Israel,36.1
+10,🇮🇳 India,India,15.7
+11,🇯🇵 Japan,Japan,19.1
+12,🇨🇭 Switzerland,Switzerland,34.8
+13,🇳🇱 Netherlands,Netherlands,38.9
+14,🇸🇦 Saudi Arabia,Saudi Arabia,26.2
+15,🇫🇮 Finland,Finland,27.3
+17,🇦🇺 Australia,Australia,36.9
+18,🇪🇸 Spain,Spain,41.8
+20,🇦🇪 UAE,UAE,64
+21,🇹🇼 Taiwan,Taiwan,28.4
+22,🇩🇰 Denmark,Denmark,28.7
+23,🇮🇪 Ireland,Ireland,44.6
+24,🇮🇹 Italy,Italy,27.8
+25,🇸🇪 Sweden,Sweden,33.3
+26,🇳🇴 Norway,Norway,46.4
+27,🇧🇪 Belgium,Belgium,36
+28,🇦🇹 Austria,Austria,31.4
+29,🇵🇹 Portugal,Portugal,24.2
+30,🇧🇷 Brazil,Brazil,17.1
+31,🇷🇺 Russia,Russia,8
+32,🇹🇷 Türkiye,Türkiye,14.6
+35,🇨🇿 Czechia,Czechia,27.8
+37,🇵🇱 Poland,Poland,28.5
+38,🇸🇮 Slovenia,Slovenia,26.5
+39,🇨🇱 Chile,Chile,20.8
+40,🇲🇾 Malaysia,Malaysia,19.7
+41,🇭🇺 Hungary,Hungary,29.8
+42,🇬🇷 Greece,Greece,19.1
+43,🇹🇭 Thailand,Thailand,10.7
+44,🇭🇷 Croatia,Croatia,23.7
+45,🇲🇽 Mexico,Mexico,17.8
+46,🇱🇹 Lithuania,Lithuania,22.4
+47,🇦🇷 Argentina,Argentina,19.6
+48,🇳🇿 New Zealand,New Zealand,40.5
+49,🇮🇩 Indonesia,Indonesia,12.7
+50,🇷🇴 Romania,Romania,16.2
+51,🇨🇴 Colombia,Colombia,22
+52,🇪🇬 Egypt,Egypt,13.4
+53,🇧🇬 Bulgaria,Bulgaria,27.3
+54,🇶🇦 Qatar,Qatar,38.3
+55,🇺🇦 Ukraine,Ukraine,9
+56,🇺🇾 Uruguay,Uruguay,22.5
+57,🇷🇸 Serbia,Serbia,21.5
+58,🇻🇳 Vietnam,Vietnam,23.5
+60,🇮🇷 Iran,Iran,10.7
+61,🇵🇪 Peru,Peru,14.7
+63,🇯🇴 Jordan,Jordan,27
+64,🇴🇲 Oman,Oman,24.2
+66,🇦🇲 Armenia,Armenia,6.6
+67,🇸🇰 Slovakia,Slovakia,23.8
+68,🇵🇭 Philippines,Philippines,18.3
+69,🇷🇼 Rwanda,Rwanda,6.3
+70,🇿🇦 South Africa,South Africa,21.1
+72,🇹🇳 Tunisia,Tunisia,12.7
+73,🇬🇭 Ghana,Ghana,9.3
+74,🇳🇬 Nigeria,Nigeria,9.3
+75,🇧🇯 Benin,Benin,9.3
+76,🇧🇩 Bangladesh,Bangladesh,7.1
+77,🇵🇰 Pakistan,Pakistan,10.3
+78,🇮🇶 Iraq,Iraq,11.2
+79,🇦🇿 Azerbaijan,Azerbaijan,15.5
+80,🇲🇦 Morocco,Morocco,10.9
+81,🇩🇿 Algeria,Algeria,12
+82,🇰🇪 Kenya,Kenya,8.1
+83,🇱🇰 Sri Lanka,Sri Lanka,6.6
+84,🇪🇹 Ethiopia,Ethiopia,6.8
+,🇨🇷 Costa Rica,Costa Rica,26.5
+,🇱🇧 Lebanon,Lebanon,25.7
+,🇩🇴 Dominican Republic,Dominican Republic,22.7
+,🇯🇲 Jamaica,Jamaica,22.1
+,🇵🇦 Panama,Panama,21.5
+,🇧🇦 Bosnia and,Bosnia and,19.5
+,Herzegovina,govina,
+,🇰🇼 Kuwait,Kuwait,19.1
+,🇬🇪 Georgia,Georgia,18.2
+,🇪🇨 Ecuador,Ecuador,17.7
+,🇲🇩 Moldova,Moldova,17
+,🇦🇱 Albania,Albania,16.5
+,🇸🇻 El Salvador,El Salvador,16.2
+,🇬🇹 Guatemala,Guatemala,14.8
+,🇲🇳 Mongolia,Mongolia,14.3
+,🇳🇦 Namibia,Namibia,13.8
+,🇱🇾 Libya,Libya,13.7
+,🇰🇿 Kazakhstan,Kazakhstan,13.7
+,🇧🇼 Botswana,Botswana,13.7
+,🇬🇦 Gabon,Gabon,13.4
+,🇭🇳 Honduras,Honduras,13.1
+,🇳🇵 Nepal,Nepal,13
+,🇸🇳 Senegal,Senegal,12.9
+,🇿🇲 Zambia,Zambia,12.3
+,🇨🇮 Cote D'Ivoire,Cote D'Ivoire,11.7
+,🇧🇴 Bolivia,Bolivia,11.6
+,🇵🇾 Paraguay,Paraguay,11
+,🇬🇲 Gambia,Gambia,10.9
+,🇳🇮 Nicaragua,Nicaragua,10.7
+,🇦🇴 Angola,Angola,9.7
+,🇲🇬 Madagascar,Madagascar,9.7
+,🇲🇼 Malawi,Malawi,9.7
+,🇲🇿 Mozambique,Mozambique,9.7
+,🇧🇫 Burkina Faso,Burkina Faso,9.3
+,🇬🇳 Guinea,Guinea,9.3
+,🇬🇼 Guinea-Bissau,Guinea-Bissau,9.3
+,🇱🇷 Liberia,Liberia,9.3
+,🇲🇱 Mali,Mali,9.3
+,🇲🇷 Mauritania,Mauritania,9.3
+,🇳🇪 Niger,Niger,9.3
+,🇸🇱 Sierra Leone,Sierra Leone,9.3
+,🇹🇬 Togo,Togo,9.3
+,🇲🇲 Myanmar,Myanmar,9.1
+,🇱🇸 Lesotho,Lesotho,9.1
+,🇬🇫 French Guiana,French Guiana,9
+,🇬🇾 Guyana,Guyana,9
+,🇸🇷 Suriname,Suriname,9
+,🇻🇪 Venezuela,Venezuela,9
+,🇧🇾 Belarus,Belarus,8.4
+,🇰🇬 Kyrgyzstan,Kyrgyzstan,8.2
+,🇨🇲 Cameroon,Cameroon,7.8
+,🇨🇫 Central African Republic,Central African Republic,7.8
+,🇹🇩 Chad,Chad,7.8
+,🇨🇬 Congo,Congo,7.8
+,🇨🇩 DRC Congo,DRC Congo,7.8
+,🇿🇼 Zimbabwe,Zimbabwe,7.6
+,🇭🇹 Haiti,Haiti,7.6
+,🇵🇬 Papua New Guinea,Papua New Guinea,7.3
+,🇸🇾 Syria,Syria,7.1
+,🇧🇮 Burundi,Burundi,6.8
+,🇪🇷 Eritrea,Eritrea,6.8
+,🇸🇴 Somalia,Somalia,6.8
+,🇸🇸 South Sudan,South Sudan,6.8
+,🇸🇩 Sudan,Sudan,6.8
+,🇹🇿 Tanzania,Tanzania,6.8
+,🇺🇬 Uganda,Uganda,6.8
+,🇱🇦 Laos,Laos,6.7
+,🇺🇿 Uzbekistan,Uzbekistan,6.3
+,🇨🇺 Cuba,Cuba,6.1
+,🇦🇫 Afghanistan,Afghanistan,5.6
+,🇹🇯 Tajikistan,Tajikistan,5.6
+,🇹🇲 Turkmenistan,Turkmenistan,5.6
+,🇰🇭 Cambodia,Cambodia,5.1
